@@ -55,22 +55,31 @@ router.get("/", (req, res, next) => {
 	}
 })
 
-router.get("/:name", (req, res, next) => {
-	const pokemonName = req.params.name
+// router.get("/:name", (req, res, next) => {
+// 	const pokemonName = req.params.name
 
-	try {
-		let db = fs.readFileSync("db.json", "utf-8")
-		const pokemons = JSON.parse(db)
-		const result = pokemons.filter((pokemon) => pokemon.Name === pokemonName)
+// 	try {
+// 		let db = fs.readFileSync("db.json", "utf-8")
+// 		const pokemons = JSON.parse(db)
+// 		const result = pokemons.filter((pokemon) => pokemon.Name === pokemonName)
 
-		res.status(200).send(result[0])
-	} catch (error) {
-		next(error)
-	}
-})
+// 		res.status(200).send(result[0])
+// 	} catch (error) {
+// 		next(error)
+// 	}
+// })
 
 router.get("/:id", (req, res, next) => {
 	const pokemonId = req.params.id
+	try {
+		let db = fs.readFileSync("db.json", "utf-8")
+		const pokemons = JSON.parse(db)
+		const result = pokemons.filter((pokemon) => pokemon.id === pokemonId)
+		console.log(result, pokemonId)
+		res.status(200).send(result)
+	} catch (error) {
+		next(error)
+	}
 })
 
 router.post("/", (req, res, next) => {
