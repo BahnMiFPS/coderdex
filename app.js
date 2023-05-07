@@ -15,6 +15,9 @@ app.use(express.static(path.join(__dirname, "public")))
 app.use(cors())
 app.use("/", indexRouter)
 
+app.use("/favicon.ico", (req, res) => {
+	res.status(204).end()
+})
 //catch when when request match no route
 app.use((req, res, next) => {
 	const exception = new Error(`Path not found`)

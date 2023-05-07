@@ -69,17 +69,62 @@ router.get("/", (req, res, next) => {
 // 	}
 // })
 
-router.get("/:id", (req, res, next) => {
-	const pokemonId = req.params.id
-	try {
-		let db = fs.readFileSync("db.json", "utf-8")
-		const pokemons = JSON.parse(db)
-		const result = pokemons.filter((pokemon) => pokemon.id === pokemonId)
-		console.log(result, pokemonId)
-		res.status(200).send(result)
-	} catch (error) {
-		next(error)
+// router.get("/:id", (req, res, next) => {
+// 	const pokemonId = parseInt(req.params.id)
+
+// 	const getPokemonById = (id) => {
+// 		let db = fs.readFileSync("db.json", "utf-8")
+// 		const pokemons = JSON.parse(db)
+// 		const pokemon = pokemons.find((pokemon) => pokemon.id === pokemonId)
+
+// 		return pokemon || null
+// 	}
+// 	try {
+// 		if (!result) {
+// 			// If Pokémon is not found, return a 404 Not Found response
+// 			return res.status(404).json({ error: "Pokémon not found" })
+// 		}
+// 		res.status(200).send(result)
+// 	} catch (error) {
+// 		next(error)
+// 	}
+// })
+
+router.get("/:id", (req, res) => {
+	const pokemonId = parseInt(req.params.id) // Convert id to integer
+	let db = fs.readFileSync("db.json", "utf-8")
+	const pokemons = JSON.parse(db)
+	const getPokemonById = (id) => {
+		const pokemon = pokemons.find((pokemon) => pokemon.id === id)
+
+		console.log(id)
+
+		return pokemon || null
 	}
+	// Retrieve the Pokémon with the given id
+	const pokemon = getPokemonById(pokemonId)
+
+	if (!pokemon) {
+		// Pokémon not found
+		return res.status(404).json({ error: "Pokémon not found" })
+	}
+
+	// Get the previous and next Pokémon ids
+	const previousPokemonId =
+		pokemonId - 1 === 0 ? pokemons.length : pokemonId - 1
+	const nextPokemonId = pokemonId + 1 > pokemons.length ? 1 : pokemonId + 1
+
+	// Retrieve the previous and next Pokémon
+	const previousPokemon = getPokemonById(previousPokemonId)
+	const nextPokemon = getPokemonById(nextPokemonId)
+
+	const response = {
+		current: pokemon,
+		previous: previousPokemon,
+		next: nextPokemon,
+	}
+
+	res.status(200).json(response)
 })
 
 router.post("/", (req, res, next) => {
@@ -103,14 +148,6 @@ router.post("/", (req, res, next) => {
 			exception.statusCode = 401
 			throw exception
 		}
-
-		//Ensure that the types array contains one or two elements only
-		// const types = Type2 ? [Type1, Type2] : [Type1]
-		// if (types.length > 2) {
-		// 	const exception = new Error(`Pokémon can only have one or two types`)
-		// 	exception.statusCode = 401
-		// 	throw exception
-		// }
 
 		//Type is invalid
 		console.log(Type1, Type2)
@@ -146,6 +183,56 @@ router.post("/", (req, res, next) => {
 	} catch (error) {
 		next(error)
 	}
+})
+
+router.put("/:id", (req, res) => {
+	const pokemonId = parseInt(req.params.id) // Convert id to integer
+	const updatedData = req.body
+
+	const dbData = fs.readFileSync("db.json", "utf-8")
+	const pokemons = JSON.parse(dbData)
+
+	// Get the index of the Pokémon with the given id in the pokemons array
+	const pokemonIndex = pokemons.findIndex((pokemon) => pokemon.id === pokemonId)
+	if (pokemonIndex === -1) {
+		// Pokémon not found
+		return res.status(404).json({ error: "Pokémon not found" })
+	}
+
+	// Update the Pokémon data at the found index
+	pokemons[pokemonIndex] = {
+		...pokemons[pokemonIndex],
+		...updatedData,
+	}
+
+	// Save the updated pokemons array back to the data source (e.g., db.json)
+	const updatedDbData = JSON.stringify(pokemons, null, 2)
+	fs.writeFileSync("db.json", updatedDbData)
+
+	res.status(200).json({ message: "Pokémon updated successfully" })
+})
+
+router.delete("/:id", (req, res) => {
+	const pokemonId = parseInt(req.params.id) // Convert id to integer
+
+	const dbData = fs.readFileSync("db.json", "utf-8")
+	const pokemons = JSON.parse(dbData)
+
+	// Get the index of the Pokémon with the given id in the pokemons array
+	const pokemonIndex = pokemons.findIndex((pokemon) => pokemon.id === pokemonId)
+	if (pokemonIndex === -1) {
+		// Pokémon not found
+		return res.status(404).json({ error: "Pokémon not found" })
+	}
+
+	// Update the Pokémon data at the found index
+	pokemons.splice(pokemonIndex, 1)
+
+	// Save the updated pokemons array back to the data source (e.g., db.json)
+	const updatedDbData = JSON.stringify(pokemons)
+	fs.writeFileSync("db.json", updatedDbData)
+
+	res.status(200).json({ message: "Pokémon deleted successfully" })
 })
 
 module.exports = router
