@@ -1,4868 +1,4868 @@
 [
 	{
-		"Name": "Tuan",
 		"id": 1,
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
 		"url": "/assets/images/Tuan.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "Tuan"
 	},
 	{
-		"Name": "ivys",
 		"id": 2,
 		"url": "/assets/images/ivys.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "ivys"
 	},
 	{
-		"Name": "squirtle",
 		"id": 3,
 		"url": "/assets/images/squirtle.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "squirtle"
 	},
 	{
-		"Name": "wartortle",
 		"id": 4,
 		"url": "/assets/images/wartortle.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "wartortle"
 	},
 	{
-		"Name": "blastoise",
 		"id": 5,
 		"url": "/assets/images/blastoise.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "blastoise"
 	},
 	{
-		"Name": "caterpie",
 		"id": 6,
 		"url": "/assets/images/caterpie.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "caterpie"
 	},
 	{
-		"Name": "metapod",
 		"id": 7,
 		"url": "/assets/images/metapod.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "metapod"
 	},
 	{
-		"Name": "butterfree",
 		"id": 8,
 		"url": "/assets/images/butterfree.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "butterfree"
 	},
 	{
-		"Name": "weedle",
 		"id": 9,
 		"url": "/assets/images/weedle.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "weedle"
 	},
 	{
-		"Name": "kakuna",
 		"id": 10,
 		"url": "/assets/images/kakuna.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "kakuna"
 	},
 	{
-		"Name": "beedrill",
 		"id": 11,
 		"url": "/assets/images/beedrill.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "beedrill"
 	},
 	{
-		"Name": "pidgey",
 		"id": 12,
 		"url": "/assets/images/pidgey.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "pidgey"
 	},
 	{
-		"Name": "pidgeotto",
 		"id": 13,
 		"url": "/assets/images/pidgeotto.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "pidgeotto"
 	},
 	{
-		"Name": "pidgeot",
 		"id": 14,
 		"url": "/assets/images/pidgeot.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "pidgeot"
 	},
 	{
-		"Name": "rattata",
 		"id": 15,
 		"url": "/assets/images/rattata.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "rattata"
 	},
 	{
-		"Name": "raticate",
 		"id": 16,
 		"url": "/assets/images/raticate.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "raticate"
 	},
 	{
-		"Name": "spearow",
 		"id": 17,
 		"url": "/assets/images/spearow.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "spearow"
 	},
 	{
-		"Name": "fearow",
 		"id": 18,
 		"url": "/assets/images/fearow.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "fearow"
 	},
 	{
-		"Name": "ekans",
 		"id": 19,
 		"url": "/assets/images/ekans.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "ekans"
 	},
 	{
-		"Name": "arbok",
 		"id": 20,
 		"url": "/assets/images/arbok.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "arbok"
 	},
 	{
-		"Name": "pikachu",
 		"id": 21,
 		"url": "/assets/images/pikachu.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "pikachu"
 	},
 	{
-		"Name": "raichu",
 		"id": 22,
 		"url": "/assets/images/raichu.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "raichu"
 	},
 	{
-		"Name": "sandshrew",
 		"id": 23,
 		"url": "/assets/images/sandshrew.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "sandshrew"
 	},
 	{
-		"Name": "sandslash",
 		"id": 24,
 		"url": "/assets/images/sandslash.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "sandslash"
 	},
 	{
-		"Name": "nidoran-f",
 		"id": 25,
 		"url": "/assets/images/nidoran-f.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "nidoran-f"
 	},
 	{
-		"Name": "nidorina",
 		"id": 26,
 		"url": "/assets/images/nidorina.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "nidorina"
 	},
 	{
-		"Name": "nidoqueen",
 		"id": 27,
 		"url": "/assets/images/nidoqueen.png",
-		"Types": ["Poison", "Ground"]
+		"types": ["Poison", "Ground"],
+		"name": "nidoqueen"
 	},
 	{
-		"Name": "nidoran-m",
 		"id": 28,
 		"url": "/assets/images/nidoran-m.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "nidoran-m"
 	},
 	{
-		"Name": "nidorino",
 		"id": 29,
 		"url": "/assets/images/nidorino.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "nidorino"
 	},
 	{
-		"Name": "nidoking",
 		"id": 30,
 		"url": "/assets/images/nidoking.png",
-		"Types": ["Poison", "Ground"]
+		"types": ["Poison", "Ground"],
+		"name": "nidoking"
 	},
 	{
-		"Name": "clefairy",
 		"id": 31,
 		"url": "/assets/images/clefairy.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "clefairy"
 	},
 	{
-		"Name": "clefable",
 		"id": 32,
 		"url": "/assets/images/clefable.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "clefable"
 	},
 	{
-		"Name": "vulpix",
 		"id": 33,
 		"url": "/assets/images/vulpix.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "vulpix"
 	},
 	{
-		"Name": "ninetales",
 		"id": 34,
 		"url": "/assets/images/ninetales.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "ninetales"
 	},
 	{
-		"Name": "jigglypuff",
 		"id": 35,
 		"url": "/assets/images/jigglypuff.png",
-		"Types": ["Normal", "Fairy"]
+		"types": ["Normal", "Fairy"],
+		"name": "jigglypuff"
 	},
 	{
-		"Name": "wigglytuff",
 		"id": 36,
 		"url": "/assets/images/wigglytuff.png",
-		"Types": ["Normal", "Fairy"]
+		"types": ["Normal", "Fairy"],
+		"name": "wigglytuff"
 	},
 	{
-		"Name": "zubat",
 		"id": 37,
 		"url": "/assets/images/zubat.png",
-		"Types": ["Poison", "Flying"]
+		"types": ["Poison", "Flying"],
+		"name": "zubat"
 	},
 	{
-		"Name": "golbat",
 		"id": 38,
 		"url": "/assets/images/golbat.png",
-		"Types": ["Poison", "Flying"]
+		"types": ["Poison", "Flying"],
+		"name": "golbat"
 	},
 	{
-		"Name": "oddish",
 		"id": 39,
 		"url": "/assets/images/oddish.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "oddish"
 	},
 	{
-		"Name": "gloom",
 		"id": 40,
 		"url": "/assets/images/gloom.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "gloom"
 	},
 	{
-		"Name": "vileplume",
 		"id": 41,
 		"url": "/assets/images/vileplume.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "vileplume"
 	},
 	{
-		"Name": "paras",
 		"id": 42,
 		"url": "/assets/images/paras.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "paras"
 	},
 	{
-		"Name": "parasect",
 		"id": 43,
 		"url": "/assets/images/parasect.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "parasect"
 	},
 	{
-		"Name": "venonat",
 		"id": 44,
 		"url": "/assets/images/venonat.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "venonat"
 	},
 	{
-		"Name": "venomoth",
 		"id": 45,
 		"url": "/assets/images/venomoth.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "venomoth"
 	},
 	{
-		"Name": "diglett",
 		"id": 46,
 		"url": "/assets/images/diglett.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "diglett"
 	},
 	{
-		"Name": "dugtrio",
 		"id": 47,
 		"url": "/assets/images/dugtrio.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "dugtrio"
 	},
 	{
-		"Name": "meowth",
 		"id": 48,
 		"url": "/assets/images/meowth.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "meowth"
 	},
 	{
-		"Name": "persian",
 		"id": 49,
 		"url": "/assets/images/persian.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "persian"
 	},
 	{
-		"Name": "psyduck",
 		"id": 50,
 		"url": "/assets/images/psyduck.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "psyduck"
 	},
 	{
-		"Name": "golduck",
 		"id": 51,
 		"url": "/assets/images/golduck.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "golduck"
 	},
 	{
-		"Name": "mankey",
 		"id": 52,
 		"url": "/assets/images/mankey.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "mankey"
 	},
 	{
-		"Name": "primeape",
 		"id": 53,
 		"url": "/assets/images/primeape.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "primeape"
 	},
 	{
-		"Name": "growlithe",
 		"id": 54,
 		"url": "/assets/images/growlithe.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "growlithe"
 	},
 	{
-		"Name": "arcanine",
 		"id": 55,
 		"url": "/assets/images/arcanine.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "arcanine"
 	},
 	{
-		"Name": "poliwag",
 		"id": 56,
 		"url": "/assets/images/poliwag.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "poliwag"
 	},
 	{
-		"Name": "poliwhirl",
 		"id": 57,
 		"url": "/assets/images/poliwhirl.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "poliwhirl"
 	},
 	{
-		"Name": "poliwrath",
 		"id": 58,
 		"url": "/assets/images/poliwrath.png",
-		"Types": ["Water", "Fighting"]
+		"types": ["Water", "Fighting"],
+		"name": "poliwrath"
 	},
 	{
-		"Name": "abra",
 		"id": 59,
 		"url": "/assets/images/abra.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "abra"
 	},
 	{
-		"Name": "kadabra",
 		"id": 60,
 		"url": "/assets/images/kadabra.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "kadabra"
 	},
 	{
-		"Name": "alakazam",
 		"id": 61,
 		"url": "/assets/images/alakazam.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "alakazam"
 	},
 	{
-		"Name": "machop",
 		"id": 62,
 		"url": "/assets/images/machop.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "machop"
 	},
 	{
-		"Name": "machoke",
 		"id": 63,
 		"url": "/assets/images/machoke.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "machoke"
 	},
 	{
-		"Name": "machamp",
 		"id": 64,
 		"url": "/assets/images/machamp.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "machamp"
 	},
 	{
-		"Name": "bellsprout",
 		"id": 65,
 		"url": "/assets/images/bellsprout.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "bellsprout"
 	},
 	{
-		"Name": "weepinbell",
 		"id": 66,
 		"url": "/assets/images/weepinbell.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "weepinbell"
 	},
 	{
-		"Name": "victreebel",
 		"id": 67,
 		"url": "/assets/images/victreebel.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "victreebel"
 	},
 	{
-		"Name": "tentacool",
 		"id": 68,
 		"url": "/assets/images/tentacool.png",
-		"Types": ["Water", "Poison"]
+		"types": ["Water", "Poison"],
+		"name": "tentacool"
 	},
 	{
-		"Name": "tentacruel",
 		"id": 69,
 		"url": "/assets/images/tentacruel.png",
-		"Types": ["Water", "Poison"]
+		"types": ["Water", "Poison"],
+		"name": "tentacruel"
 	},
 	{
-		"Name": "geodude",
 		"id": 70,
 		"url": "/assets/images/geodude.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "geodude"
 	},
 	{
-		"Name": "graveler",
 		"id": 71,
 		"url": "/assets/images/graveler.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "graveler"
 	},
 	{
-		"Name": "golem",
 		"id": 72,
 		"url": "/assets/images/golem.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "golem"
 	},
 	{
-		"Name": "ponyta",
 		"id": 73,
 		"url": "/assets/images/ponyta.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "ponyta"
 	},
 	{
-		"Name": "rapidash",
 		"id": 74,
 		"url": "/assets/images/rapidash.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "rapidash"
 	},
 	{
-		"Name": "slowpoke",
 		"id": 75,
 		"url": "/assets/images/slowpoke.png",
-		"Types": ["Water", "Psychic"]
+		"types": ["Water", "Psychic"],
+		"name": "slowpoke"
 	},
 	{
-		"Name": "slowbro",
 		"id": 76,
 		"url": "/assets/images/slowbro.png",
-		"Types": ["Water", "Psychic"]
+		"types": ["Water", "Psychic"],
+		"name": "slowbro"
 	},
 	{
-		"Name": "magnemite",
 		"id": 77,
 		"url": "/assets/images/magnemite.png",
-		"Types": ["Electric", "Steel"]
+		"types": ["Electric", "Steel"],
+		"name": "magnemite"
 	},
 	{
-		"Name": "magneton",
 		"id": 78,
 		"url": "/assets/images/magneton.png",
-		"Types": ["Electric", "Steel"]
+		"types": ["Electric", "Steel"],
+		"name": "magneton"
 	},
 	{
-		"Name": "farfetchd",
 		"id": 79,
 		"url": "/assets/images/farfetchd.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "farfetchd"
 	},
 	{
-		"Name": "doduo",
 		"id": 80,
 		"url": "/assets/images/doduo.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "doduo"
 	},
 	{
-		"Name": "dodrio",
 		"id": 81,
 		"url": "/assets/images/dodrio.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "dodrio"
 	},
 	{
-		"Name": "seel",
 		"id": 82,
 		"url": "/assets/images/seel.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "seel"
 	},
 	{
-		"Name": "dewgong",
 		"id": 83,
 		"url": "/assets/images/dewgong.png",
-		"Types": ["Water", "Ice"]
+		"types": ["Water", "Ice"],
+		"name": "dewgong"
 	},
 	{
-		"Name": "grimer",
 		"id": 84,
 		"url": "/assets/images/grimer.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "grimer"
 	},
 	{
-		"Name": "muk",
 		"id": 85,
 		"url": "/assets/images/muk.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "muk"
 	},
 	{
-		"Name": "shellder",
 		"id": 86,
 		"url": "/assets/images/shellder.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "shellder"
 	},
 	{
-		"Name": "cloyster",
 		"id": 87,
 		"url": "/assets/images/cloyster.png",
-		"Types": ["Water", "Ice"]
+		"types": ["Water", "Ice"],
+		"name": "cloyster"
 	},
 	{
-		"Name": "gastly",
 		"id": 88,
 		"url": "/assets/images/gastly.png",
-		"Types": ["Ghost", "Poison"]
+		"types": ["Ghost", "Poison"],
+		"name": "gastly"
 	},
 	{
-		"Name": "haunter",
 		"id": 89,
 		"url": "/assets/images/haunter.png",
-		"Types": ["Ghost", "Poison"]
+		"types": ["Ghost", "Poison"],
+		"name": "haunter"
 	},
 	{
-		"Name": "gengar",
 		"id": 90,
 		"url": "/assets/images/gengar.png",
-		"Types": ["Ghost", "Poison"]
+		"types": ["Ghost", "Poison"],
+		"name": "gengar"
 	},
 	{
-		"Name": "onix",
 		"id": 91,
 		"url": "/assets/images/onix.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "onix"
 	},
 	{
-		"Name": "drowzee",
 		"id": 92,
 		"url": "/assets/images/drowzee.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "drowzee"
 	},
 	{
-		"Name": "hypno",
 		"id": 93,
 		"url": "/assets/images/hypno.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "hypno"
 	},
 	{
-		"Name": "krabby",
 		"id": 94,
 		"url": "/assets/images/krabby.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "krabby"
 	},
 	{
-		"Name": "kingler",
 		"id": 95,
 		"url": "/assets/images/kingler.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "kingler"
 	},
 	{
-		"Name": "voltorb",
 		"id": 96,
 		"url": "/assets/images/voltorb.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "voltorb"
 	},
 	{
-		"Name": "electrode",
 		"id": 97,
 		"url": "/assets/images/electrode.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "electrode"
 	},
 	{
-		"Name": "exeggcute",
 		"id": 98,
 		"url": "/assets/images/exeggcute.png",
-		"Types": ["Grass", "Psychic"]
+		"types": ["Grass", "Psychic"],
+		"name": "exeggcute"
 	},
 	{
-		"Name": "exeggutor",
 		"id": 99,
 		"url": "/assets/images/exeggutor.png",
-		"Types": ["Grass", "Psychic"]
+		"types": ["Grass", "Psychic"],
+		"name": "exeggutor"
 	},
 	{
-		"Name": "cubone",
 		"id": 100,
 		"url": "/assets/images/cubone.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "cubone"
 	},
 	{
-		"Name": "marowak",
 		"id": 101,
 		"url": "/assets/images/marowak.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "marowak"
 	},
 	{
-		"Name": "hitmonlee",
 		"id": 102,
 		"url": "/assets/images/hitmonlee.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "hitmonlee"
 	},
 	{
-		"Name": "hitmonchan",
 		"id": 103,
 		"url": "/assets/images/hitmonchan.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "hitmonchan"
 	},
 	{
-		"Name": "lickitung",
 		"id": 104,
 		"url": "/assets/images/lickitung.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "lickitung"
 	},
 	{
-		"Name": "koffing",
 		"id": 105,
 		"url": "/assets/images/koffing.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "koffing"
 	},
 	{
-		"Name": "weezing",
 		"id": 106,
 		"url": "/assets/images/weezing.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "weezing"
 	},
 	{
-		"Name": "rhyhorn",
 		"id": 107,
 		"url": "/assets/images/rhyhorn.png",
-		"Types": ["Ground", "Rock"]
+		"types": ["Ground", "Rock"],
+		"name": "rhyhorn"
 	},
 	{
-		"Name": "rhydon",
 		"id": 108,
 		"url": "/assets/images/rhydon.png",
-		"Types": ["Ground", "Rock"]
+		"types": ["Ground", "Rock"],
+		"name": "rhydon"
 	},
 	{
-		"Name": "chansey",
 		"id": 109,
 		"url": "/assets/images/chansey.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "chansey"
 	},
 	{
-		"Name": "tangela",
 		"id": 110,
 		"url": "/assets/images/tangela.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "tangela"
 	},
 	{
-		"Name": "kangaskhan",
 		"id": 111,
 		"url": "/assets/images/kangaskhan.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "kangaskhan"
 	},
 	{
-		"Name": "horsea",
 		"id": 112,
 		"url": "/assets/images/horsea.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "horsea"
 	},
 	{
-		"Name": "seadra",
 		"id": 113,
 		"url": "/assets/images/seadra.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "seadra"
 	},
 	{
-		"Name": "goldeen",
 		"id": 114,
 		"url": "/assets/images/goldeen.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "goldeen"
 	},
 	{
-		"Name": "seaking",
 		"id": 115,
 		"url": "/assets/images/seaking.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "seaking"
 	},
 	{
-		"Name": "staryu",
 		"id": 116,
 		"url": "/assets/images/staryu.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "staryu"
 	},
 	{
-		"Name": "starmie",
 		"id": 117,
 		"url": "/assets/images/starmie.png",
-		"Types": ["Water", "Psychic"]
+		"types": ["Water", "Psychic"],
+		"name": "starmie"
 	},
 	{
-		"Name": "mr-mime",
 		"id": 118,
 		"url": "/assets/images/mr-mime.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "mr-mime"
 	},
 	{
-		"Name": "scyther",
 		"id": 119,
 		"url": "/assets/images/scyther.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "scyther"
 	},
 	{
-		"Name": "jynx",
 		"id": 120,
 		"url": "/assets/images/jynx.png",
-		"Types": ["Ice", "Psychic"]
+		"types": ["Ice", "Psychic"],
+		"name": "jynx"
 	},
 	{
-		"Name": "electabuzz",
 		"id": 121,
 		"url": "/assets/images/electabuzz.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "electabuzz"
 	},
 	{
-		"Name": "magmar",
 		"id": 122,
 		"url": "/assets/images/magmar.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "magmar"
 	},
 	{
-		"Name": "pinsir",
 		"id": 123,
 		"url": "/assets/images/pinsir.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "pinsir"
 	},
 	{
-		"Name": "tauros",
 		"id": 124,
 		"url": "/assets/images/tauros.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "tauros"
 	},
 	{
-		"Name": "magikarp",
 		"id": 125,
 		"url": "/assets/images/magikarp.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "magikarp"
 	},
 	{
-		"Name": "gyarados",
 		"id": 126,
 		"url": "/assets/images/gyarados.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "gyarados"
 	},
 	{
-		"Name": "lapras",
 		"id": 127,
 		"url": "/assets/images/lapras.png",
-		"Types": ["Water", "Ice"]
+		"types": ["Water", "Ice"],
+		"name": "lapras"
 	},
 	{
-		"Name": "ditto",
 		"id": 128,
 		"url": "/assets/images/ditto.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "ditto"
 	},
 	{
-		"Name": "eevee",
 		"id": 129,
 		"url": "/assets/images/eevee.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "eevee"
 	},
 	{
-		"Name": "vaporeon",
 		"id": 130,
 		"url": "/assets/images/vaporeon.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "vaporeon"
 	},
 	{
-		"Name": "jolteon",
 		"id": 131,
 		"url": "/assets/images/jolteon.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "jolteon"
 	},
 	{
-		"Name": "flareon",
 		"id": 132,
 		"url": "/assets/images/flareon.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "flareon"
 	},
 	{
-		"Name": "porygon",
 		"id": 133,
 		"url": "/assets/images/porygon.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "porygon"
 	},
 	{
-		"Name": "omanyte",
 		"id": 134,
 		"url": "/assets/images/omanyte.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "omanyte"
 	},
 	{
-		"Name": "omastar",
 		"id": 135,
 		"url": "/assets/images/omastar.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "omastar"
 	},
 	{
-		"Name": "kabuto",
 		"id": 136,
 		"url": "/assets/images/kabuto.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "kabuto"
 	},
 	{
-		"Name": "kabutops",
 		"id": 137,
 		"url": "/assets/images/kabutops.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "kabutops"
 	},
 	{
-		"Name": "aerodactyl",
 		"id": 138,
 		"url": "/assets/images/aerodactyl.png",
-		"Types": ["Rock", "Flying"]
+		"types": ["Rock", "Flying"],
+		"name": "aerodactyl"
 	},
 	{
-		"Name": "snorlax",
 		"id": 139,
 		"url": "/assets/images/snorlax.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "snorlax"
 	},
 	{
-		"Name": "articuno",
 		"id": 140,
 		"url": "/assets/images/articuno.png",
-		"Types": ["Ice", "Flying"]
+		"types": ["Ice", "Flying"],
+		"name": "articuno"
 	},
 	{
-		"Name": "zapdos",
 		"id": 141,
 		"url": "/assets/images/zapdos.png",
-		"Types": ["Electric", "Flying"]
+		"types": ["Electric", "Flying"],
+		"name": "zapdos"
 	},
 	{
-		"Name": "moltres",
 		"id": 142,
 		"url": "/assets/images/moltres.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "moltres"
 	},
 	{
-		"Name": "dratini",
 		"id": 143,
 		"url": "/assets/images/dratini.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "dratini"
 	},
 	{
-		"Name": "dragonair",
 		"id": 144,
 		"url": "/assets/images/dragonair.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "dragonair"
 	},
 	{
-		"Name": "dragonite",
 		"id": 145,
 		"url": "/assets/images/dragonite.png",
-		"Types": ["Dragon", "Flying"]
+		"types": ["Dragon", "Flying"],
+		"name": "dragonite"
 	},
 	{
-		"Name": "mewtwo",
 		"id": 146,
 		"url": "/assets/images/mewtwo.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "mewtwo"
 	},
 	{
-		"Name": "mew",
 		"id": 147,
 		"url": "/assets/images/mew.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "mew"
 	},
 	{
-		"Name": "chikorita",
 		"id": 148,
 		"url": "/assets/images/chikorita.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "chikorita"
 	},
 	{
-		"Name": "bayleef",
 		"id": 149,
 		"url": "/assets/images/bayleef.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "bayleef"
 	},
 	{
-		"Name": "meganium",
 		"id": 150,
 		"url": "/assets/images/meganium.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "meganium"
 	},
 	{
-		"Name": "cyndaquil",
 		"id": 151,
 		"url": "/assets/images/cyndaquil.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "cyndaquil"
 	},
 	{
-		"Name": "quilava",
 		"id": 152,
 		"url": "/assets/images/quilava.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "quilava"
 	},
 	{
-		"Name": "typhlosion",
 		"id": 153,
 		"url": "/assets/images/typhlosion.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "typhlosion"
 	},
 	{
-		"Name": "totodile",
 		"id": 154,
 		"url": "/assets/images/totodile.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "totodile"
 	},
 	{
-		"Name": "croconaw",
 		"id": 155,
 		"url": "/assets/images/croconaw.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "croconaw"
 	},
 	{
-		"Name": "feraligatr",
 		"id": 156,
 		"url": "/assets/images/feraligatr.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "feraligatr"
 	},
 	{
-		"Name": "sentret",
 		"id": 157,
 		"url": "/assets/images/sentret.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "sentret"
 	},
 	{
-		"Name": "furret",
 		"id": 158,
 		"url": "/assets/images/furret.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "furret"
 	},
 	{
-		"Name": "hoothoot",
 		"id": 159,
 		"url": "/assets/images/hoothoot.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "hoothoot"
 	},
 	{
-		"Name": "noctowl",
 		"id": 160,
 		"url": "/assets/images/noctowl.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "noctowl"
 	},
 	{
-		"Name": "ledyba",
 		"id": 161,
 		"url": "/assets/images/ledyba.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "ledyba"
 	},
 	{
-		"Name": "ledian",
 		"id": 162,
 		"url": "/assets/images/ledian.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "ledian"
 	},
 	{
-		"Name": "spinarak",
 		"id": 163,
 		"url": "/assets/images/spinarak.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "spinarak"
 	},
 	{
-		"Name": "ariados",
 		"id": 164,
 		"url": "/assets/images/ariados.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "ariados"
 	},
 	{
-		"Name": "crobat",
 		"id": 165,
 		"url": "/assets/images/crobat.png",
-		"Types": ["Poison", "Flying"]
+		"types": ["Poison", "Flying"],
+		"name": "crobat"
 	},
 	{
-		"Name": "chinchou",
 		"id": 166,
 		"url": "/assets/images/chinchou.png",
-		"Types": ["Water", "Electric"]
+		"types": ["Water", "Electric"],
+		"name": "chinchou"
 	},
 	{
-		"Name": "lanturn",
 		"id": 167,
 		"url": "/assets/images/lanturn.png",
-		"Types": ["Water", "Electric"]
+		"types": ["Water", "Electric"],
+		"name": "lanturn"
 	},
 	{
-		"Name": "pichu",
 		"id": 168,
 		"url": "/assets/images/pichu.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "pichu"
 	},
 	{
-		"Name": "cleffa",
 		"id": 169,
 		"url": "/assets/images/cleffa.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "cleffa"
 	},
 	{
-		"Name": "igglybuff",
 		"id": 170,
 		"url": "/assets/images/igglybuff.png",
-		"Types": ["Normal", "Fairy"]
+		"types": ["Normal", "Fairy"],
+		"name": "igglybuff"
 	},
 	{
-		"Name": "togepi",
 		"id": 171,
 		"url": "/assets/images/togepi.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "togepi"
 	},
 	{
-		"Name": "togetic",
 		"id": 172,
 		"url": "/assets/images/togetic.png",
-		"Types": ["Fairy", "Flying"]
+		"types": ["Fairy", "Flying"],
+		"name": "togetic"
 	},
 	{
-		"Name": "natu",
 		"id": 173,
 		"url": "/assets/images/natu.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "natu"
 	},
 	{
-		"Name": "xatu",
 		"id": 174,
 		"url": "/assets/images/xatu.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "xatu"
 	},
 	{
-		"Name": "mareep",
 		"id": 175,
 		"url": "/assets/images/mareep.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "mareep"
 	},
 	{
-		"Name": "flaaffy",
 		"id": 176,
 		"url": "/assets/images/flaaffy.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "flaaffy"
 	},
 	{
-		"Name": "ampharos",
 		"id": 177,
 		"url": "/assets/images/ampharos.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "ampharos"
 	},
 	{
-		"Name": "bellossom",
 		"id": 178,
 		"url": "/assets/images/bellossom.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "bellossom"
 	},
 	{
-		"Name": "marill",
 		"id": 179,
 		"url": "/assets/images/marill.png",
-		"Types": ["Water", "Fairy"]
+		"types": ["Water", "Fairy"],
+		"name": "marill"
 	},
 	{
-		"Name": "azumarill",
 		"id": 180,
 		"url": "/assets/images/azumarill.png",
-		"Types": ["Water", "Fairy"]
+		"types": ["Water", "Fairy"],
+		"name": "azumarill"
 	},
 	{
-		"Name": "sudowoodo",
 		"id": 181,
 		"url": "/assets/images/sudowoodo.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "sudowoodo"
 	},
 	{
-		"Name": "politoed",
 		"id": 182,
 		"url": "/assets/images/politoed.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "politoed"
 	},
 	{
-		"Name": "hoppip",
 		"id": 183,
 		"url": "/assets/images/hoppip.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "hoppip"
 	},
 	{
-		"Name": "skiploom",
 		"id": 184,
 		"url": "/assets/images/skiploom.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "skiploom"
 	},
 	{
-		"Name": "jumpluff",
 		"id": 185,
 		"url": "/assets/images/jumpluff.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "jumpluff"
 	},
 	{
-		"Name": "aipom",
 		"id": 186,
 		"url": "/assets/images/aipom.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "aipom"
 	},
 	{
-		"Name": "sunkern",
 		"id": 187,
 		"url": "/assets/images/sunkern.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "sunkern"
 	},
 	{
-		"Name": "sunflora",
 		"id": 188,
 		"url": "/assets/images/sunflora.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "sunflora"
 	},
 	{
-		"Name": "yanma",
 		"id": 189,
 		"url": "/assets/images/yanma.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "yanma"
 	},
 	{
-		"Name": "wooper",
 		"id": 190,
 		"url": "/assets/images/wooper.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "wooper"
 	},
 	{
-		"Name": "quagsire",
 		"id": 191,
 		"url": "/assets/images/quagsire.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "quagsire"
 	},
 	{
-		"Name": "espeon",
 		"id": 192,
 		"url": "/assets/images/espeon.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "espeon"
 	},
 	{
-		"Name": "umbreon",
 		"id": 193,
 		"url": "/assets/images/umbreon.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "umbreon"
 	},
 	{
-		"Name": "murkrow",
 		"id": 194,
 		"url": "/assets/images/murkrow.png",
-		"Types": ["Dark", "Flying"]
+		"types": ["Dark", "Flying"],
+		"name": "murkrow"
 	},
 	{
-		"Name": "slowking",
 		"id": 195,
 		"url": "/assets/images/slowking.png",
-		"Types": ["Water", "Psychic"]
+		"types": ["Water", "Psychic"],
+		"name": "slowking"
 	},
 	{
-		"Name": "misdreavus",
 		"id": 196,
 		"url": "/assets/images/misdreavus.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "misdreavus"
 	},
 	{
-		"Name": "unown",
 		"id": 197,
 		"url": "/assets/images/unown.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "unown"
 	},
 	{
-		"Name": "wobbuffet",
 		"id": 198,
 		"url": "/assets/images/wobbuffet.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "wobbuffet"
 	},
 	{
-		"Name": "girafarig",
 		"id": 199,
 		"url": "/assets/images/girafarig.png",
-		"Types": ["Normal", "Psychic"]
+		"types": ["Normal", "Psychic"],
+		"name": "girafarig"
 	},
 	{
-		"Name": "pineco",
 		"id": 200,
 		"url": "/assets/images/pineco.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "pineco"
 	},
 	{
-		"Name": "forretress",
 		"id": 201,
 		"url": "/assets/images/forretress.png",
-		"Types": ["Bug", "Steel"]
+		"types": ["Bug", "Steel"],
+		"name": "forretress"
 	},
 	{
-		"Name": "dunsparce",
 		"id": 202,
 		"url": "/assets/images/dunsparce.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "dunsparce"
 	},
 	{
-		"Name": "gligar",
 		"id": 203,
 		"url": "/assets/images/gligar.png",
-		"Types": ["Ground", "Flying"]
+		"types": ["Ground", "Flying"],
+		"name": "gligar"
 	},
 	{
-		"Name": "steelix",
 		"id": 204,
 		"url": "/assets/images/steelix.png",
-		"Types": ["Steel", "Ground"]
+		"types": ["Steel", "Ground"],
+		"name": "steelix"
 	},
 	{
-		"Name": "snubbull",
 		"id": 205,
 		"url": "/assets/images/snubbull.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "snubbull"
 	},
 	{
-		"Name": "granbull",
 		"id": 206,
 		"url": "/assets/images/granbull.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "granbull"
 	},
 	{
-		"Name": "qwilfish",
 		"id": 207,
 		"url": "/assets/images/qwilfish.png",
-		"Types": ["Water", "Poison"]
+		"types": ["Water", "Poison"],
+		"name": "qwilfish"
 	},
 	{
-		"Name": "scizor",
 		"id": 208,
 		"url": "/assets/images/scizor.png",
-		"Types": ["Bug", "Steel"]
+		"types": ["Bug", "Steel"],
+		"name": "scizor"
 	},
 	{
-		"Name": "shuckle",
 		"id": 209,
 		"url": "/assets/images/shuckle.png",
-		"Types": ["Bug", "Rock"]
+		"types": ["Bug", "Rock"],
+		"name": "shuckle"
 	},
 	{
-		"Name": "heracross",
 		"id": 210,
 		"url": "/assets/images/heracross.png",
-		"Types": ["Bug", "Fighting"]
+		"types": ["Bug", "Fighting"],
+		"name": "heracross"
 	},
 	{
-		"Name": "sneasel",
 		"id": 211,
 		"url": "/assets/images/sneasel.png",
-		"Types": ["Dark", "Ice"]
+		"types": ["Dark", "Ice"],
+		"name": "sneasel"
 	},
 	{
-		"Name": "teddiursa",
 		"id": 212,
 		"url": "/assets/images/teddiursa.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "teddiursa"
 	},
 	{
-		"Name": "ursaring",
 		"id": 213,
 		"url": "/assets/images/ursaring.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "ursaring"
 	},
 	{
-		"Name": "slugma",
 		"id": 214,
 		"url": "/assets/images/slugma.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "slugma"
 	},
 	{
-		"Name": "magcargo",
 		"id": 215,
 		"url": "/assets/images/magcargo.png",
-		"Types": ["Fire", "Rock"]
+		"types": ["Fire", "Rock"],
+		"name": "magcargo"
 	},
 	{
-		"Name": "swinub",
 		"id": 216,
 		"url": "/assets/images/swinub.png",
-		"Types": ["Ice", "Ground"]
+		"types": ["Ice", "Ground"],
+		"name": "swinub"
 	},
 	{
-		"Name": "piloswine",
 		"id": 217,
 		"url": "/assets/images/piloswine.png",
-		"Types": ["Ice", "Ground"]
+		"types": ["Ice", "Ground"],
+		"name": "piloswine"
 	},
 	{
-		"Name": "corsola",
 		"id": 218,
 		"url": "/assets/images/corsola.png",
-		"Types": ["Water", "Rock"]
+		"types": ["Water", "Rock"],
+		"name": "corsola"
 	},
 	{
-		"Name": "remoraid",
 		"id": 219,
 		"url": "/assets/images/remoraid.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "remoraid"
 	},
 	{
-		"Name": "octillery",
 		"id": 220,
 		"url": "/assets/images/octillery.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "octillery"
 	},
 	{
-		"Name": "delibird",
 		"id": 221,
 		"url": "/assets/images/delibird.png",
-		"Types": ["Ice", "Flying"]
+		"types": ["Ice", "Flying"],
+		"name": "delibird"
 	},
 	{
-		"Name": "mantine",
 		"id": 222,
 		"url": "/assets/images/mantine.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "mantine"
 	},
 	{
-		"Name": "skarmory",
 		"id": 223,
 		"url": "/assets/images/skarmory.png",
-		"Types": ["Steel", "Flying"]
+		"types": ["Steel", "Flying"],
+		"name": "skarmory"
 	},
 	{
-		"Name": "houndour",
 		"id": 224,
 		"url": "/assets/images/houndour.png",
-		"Types": ["Dark", "Fire"]
+		"types": ["Dark", "Fire"],
+		"name": "houndour"
 	},
 	{
-		"Name": "houndoom",
 		"id": 225,
 		"url": "/assets/images/houndoom.png",
-		"Types": ["Dark", "Fire"]
+		"types": ["Dark", "Fire"],
+		"name": "houndoom"
 	},
 	{
-		"Name": "kingdra",
 		"id": 226,
 		"url": "/assets/images/kingdra.png",
-		"Types": ["Water", "Dragon"]
+		"types": ["Water", "Dragon"],
+		"name": "kingdra"
 	},
 	{
-		"Name": "phanpy",
 		"id": 227,
 		"url": "/assets/images/phanpy.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "phanpy"
 	},
 	{
-		"Name": "donphan",
 		"id": 228,
 		"url": "/assets/images/donphan.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "donphan"
 	},
 	{
-		"Name": "porygon2",
 		"id": 229,
 		"url": "/assets/images/porygon2.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "porygon2"
 	},
 	{
-		"Name": "stantler",
 		"id": 230,
 		"url": "/assets/images/stantler.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "stantler"
 	},
 	{
-		"Name": "smeargle",
 		"id": 231,
 		"url": "/assets/images/smeargle.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "smeargle"
 	},
 	{
-		"Name": "tyrogue",
 		"id": 232,
 		"url": "/assets/images/tyrogue.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "tyrogue"
 	},
 	{
-		"Name": "hitmontop",
 		"id": 233,
 		"url": "/assets/images/hitmontop.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "hitmontop"
 	},
 	{
-		"Name": "smoochum",
 		"id": 234,
 		"url": "/assets/images/smoochum.png",
-		"Types": ["Ice", "Psychic"]
+		"types": ["Ice", "Psychic"],
+		"name": "smoochum"
 	},
 	{
-		"Name": "elekid",
 		"id": 235,
 		"url": "/assets/images/elekid.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "elekid"
 	},
 	{
-		"Name": "magby",
 		"id": 236,
 		"url": "/assets/images/magby.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "magby"
 	},
 	{
-		"Name": "miltank",
 		"id": 237,
 		"url": "/assets/images/miltank.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "miltank"
 	},
 	{
-		"Name": "blissey",
 		"id": 238,
 		"url": "/assets/images/blissey.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "blissey"
 	},
 	{
-		"Name": "raikou",
 		"id": 239,
 		"url": "/assets/images/raikou.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "raikou"
 	},
 	{
-		"Name": "entei",
 		"id": 240,
 		"url": "/assets/images/entei.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "entei"
 	},
 	{
-		"Name": "suicune",
 		"id": 241,
 		"url": "/assets/images/suicune.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "suicune"
 	},
 	{
-		"Name": "larvitar",
 		"id": 242,
 		"url": "/assets/images/larvitar.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "larvitar"
 	},
 	{
-		"Name": "pupitar",
 		"id": 243,
 		"url": "/assets/images/pupitar.png",
-		"Types": ["Rock", "Ground"]
+		"types": ["Rock", "Ground"],
+		"name": "pupitar"
 	},
 	{
-		"Name": "tyranitar",
 		"id": 244,
 		"url": "/assets/images/tyranitar.png",
-		"Types": ["Rock", "Dark"]
+		"types": ["Rock", "Dark"],
+		"name": "tyranitar"
 	},
 	{
-		"Name": "lugia",
 		"id": 245,
 		"url": "/assets/images/lugia.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "lugia"
 	},
 	{
-		"Name": "ho-oh",
 		"id": 246,
 		"url": "/assets/images/ho-oh.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "ho-oh"
 	},
 	{
-		"Name": "celebi",
 		"id": 247,
 		"url": "/assets/images/celebi.png",
-		"Types": ["Psychic", "Grass"]
+		"types": ["Psychic", "Grass"],
+		"name": "celebi"
 	},
 	{
-		"Name": "treecko",
 		"id": 248,
 		"url": "/assets/images/treecko.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "treecko"
 	},
 	{
-		"Name": "grovyle",
 		"id": 249,
 		"url": "/assets/images/grovyle.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "grovyle"
 	},
 	{
-		"Name": "sceptile",
 		"id": 250,
 		"url": "/assets/images/sceptile.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "sceptile"
 	},
 	{
-		"Name": "torchic",
 		"id": 251,
 		"url": "/assets/images/torchic.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "torchic"
 	},
 	{
-		"Name": "combusken",
 		"id": 252,
 		"url": "/assets/images/combusken.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "combusken"
 	},
 	{
-		"Name": "blaziken",
 		"id": 253,
 		"url": "/assets/images/blaziken.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "blaziken"
 	},
 	{
-		"Name": "mudkip",
 		"id": 254,
 		"url": "/assets/images/mudkip.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "mudkip"
 	},
 	{
-		"Name": "marshtomp",
 		"id": 255,
 		"url": "/assets/images/marshtomp.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "marshtomp"
 	},
 	{
-		"Name": "swampert",
 		"id": 256,
 		"url": "/assets/images/swampert.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "swampert"
 	},
 	{
-		"Name": "poochyena",
 		"id": 257,
 		"url": "/assets/images/poochyena.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "poochyena"
 	},
 	{
-		"Name": "mightyena",
 		"id": 258,
 		"url": "/assets/images/mightyena.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "mightyena"
 	},
 	{
-		"Name": "zigzagoon",
 		"id": 259,
 		"url": "/assets/images/zigzagoon.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "zigzagoon"
 	},
 	{
-		"Name": "linoone",
 		"id": 260,
 		"url": "/assets/images/linoone.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "linoone"
 	},
 	{
-		"Name": "wurmple",
 		"id": 261,
 		"url": "/assets/images/wurmple.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "wurmple"
 	},
 	{
-		"Name": "silcoon",
 		"id": 262,
 		"url": "/assets/images/silcoon.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "silcoon"
 	},
 	{
-		"Name": "beautifly",
 		"id": 263,
 		"url": "/assets/images/beautifly.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "beautifly"
 	},
 	{
-		"Name": "cascoon",
 		"id": 264,
 		"url": "/assets/images/cascoon.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "cascoon"
 	},
 	{
-		"Name": "dustox",
 		"id": 265,
 		"url": "/assets/images/dustox.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "dustox"
 	},
 	{
-		"Name": "lotad",
 		"id": 266,
 		"url": "/assets/images/lotad.png",
-		"Types": ["Water", "Grass"]
+		"types": ["Water", "Grass"],
+		"name": "lotad"
 	},
 	{
-		"Name": "lombre",
 		"id": 267,
 		"url": "/assets/images/lombre.png",
-		"Types": ["Water", "Grass"]
+		"types": ["Water", "Grass"],
+		"name": "lombre"
 	},
 	{
-		"Name": "ludicolo",
 		"id": 268,
 		"url": "/assets/images/ludicolo.png",
-		"Types": ["Water", "Grass"]
+		"types": ["Water", "Grass"],
+		"name": "ludicolo"
 	},
 	{
-		"Name": "seedot",
 		"id": 269,
 		"url": "/assets/images/seedot.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "seedot"
 	},
 	{
-		"Name": "nuzleaf",
 		"id": 270,
 		"url": "/assets/images/nuzleaf.png",
-		"Types": ["Grass", "Dark"]
+		"types": ["Grass", "Dark"],
+		"name": "nuzleaf"
 	},
 	{
-		"Name": "shiftry",
 		"id": 271,
 		"url": "/assets/images/shiftry.png",
-		"Types": ["Grass", "Dark"]
+		"types": ["Grass", "Dark"],
+		"name": "shiftry"
 	},
 	{
-		"Name": "taillow",
 		"id": 272,
 		"url": "/assets/images/taillow.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "taillow"
 	},
 	{
-		"Name": "swellow",
 		"id": 273,
 		"url": "/assets/images/swellow.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "swellow"
 	},
 	{
-		"Name": "wingull",
 		"id": 274,
 		"url": "/assets/images/wingull.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "wingull"
 	},
 	{
-		"Name": "pelipper",
 		"id": 275,
 		"url": "/assets/images/pelipper.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "pelipper"
 	},
 	{
-		"Name": "ralts",
 		"id": 276,
 		"url": "/assets/images/ralts.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "ralts"
 	},
 	{
-		"Name": "kirlia",
 		"id": 277,
 		"url": "/assets/images/kirlia.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "kirlia"
 	},
 	{
-		"Name": "gardevoir",
 		"id": 278,
 		"url": "/assets/images/gardevoir.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "gardevoir"
 	},
 	{
-		"Name": "surskit",
 		"id": 279,
 		"url": "/assets/images/surskit.png",
-		"Types": ["Bug", "Water"]
+		"types": ["Bug", "Water"],
+		"name": "surskit"
 	},
 	{
-		"Name": "masquerain",
 		"id": 280,
 		"url": "/assets/images/masquerain.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "masquerain"
 	},
 	{
-		"Name": "shroomish",
 		"id": 281,
 		"url": "/assets/images/shroomish.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "shroomish"
 	},
 	{
-		"Name": "breloom",
 		"id": 282,
 		"url": "/assets/images/breloom.png",
-		"Types": ["Grass", "Fighting"]
+		"types": ["Grass", "Fighting"],
+		"name": "breloom"
 	},
 	{
-		"Name": "slakoth",
 		"id": 283,
 		"url": "/assets/images/slakoth.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "slakoth"
 	},
 	{
-		"Name": "vigoroth",
 		"id": 284,
 		"url": "/assets/images/vigoroth.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "vigoroth"
 	},
 	{
-		"Name": "slaking",
 		"id": 285,
 		"url": "/assets/images/slaking.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "slaking"
 	},
 	{
-		"Name": "nincada",
 		"id": 286,
 		"url": "/assets/images/nincada.png",
-		"Types": ["Bug", "Ground"]
+		"types": ["Bug", "Ground"],
+		"name": "nincada"
 	},
 	{
-		"Name": "ninjask",
 		"id": 287,
 		"url": "/assets/images/ninjask.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "ninjask"
 	},
 	{
-		"Name": "shedinja",
 		"id": 288,
 		"url": "/assets/images/shedinja.png",
-		"Types": ["Bug", "Ghost"]
+		"types": ["Bug", "Ghost"],
+		"name": "shedinja"
 	},
 	{
-		"Name": "whismur",
 		"id": 289,
 		"url": "/assets/images/whismur.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "whismur"
 	},
 	{
-		"Name": "loudred",
 		"id": 290,
 		"url": "/assets/images/loudred.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "loudred"
 	},
 	{
-		"Name": "exploud",
 		"id": 291,
 		"url": "/assets/images/exploud.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "exploud"
 	},
 	{
-		"Name": "makuhita",
 		"id": 292,
 		"url": "/assets/images/makuhita.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "makuhita"
 	},
 	{
-		"Name": "hariyama",
 		"id": 293,
 		"url": "/assets/images/hariyama.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "hariyama"
 	},
 	{
-		"Name": "azurill",
 		"id": 294,
 		"url": "/assets/images/azurill.png",
-		"Types": ["Normal", "Fairy"]
+		"types": ["Normal", "Fairy"],
+		"name": "azurill"
 	},
 	{
-		"Name": "nosepass",
 		"id": 295,
 		"url": "/assets/images/nosepass.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "nosepass"
 	},
 	{
-		"Name": "skitty",
 		"id": 296,
 		"url": "/assets/images/skitty.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "skitty"
 	},
 	{
-		"Name": "delcatty",
 		"id": 297,
 		"url": "/assets/images/delcatty.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "delcatty"
 	},
 	{
-		"Name": "sableye",
 		"id": 298,
 		"url": "/assets/images/sableye.png",
-		"Types": ["Dark", "Ghost"]
+		"types": ["Dark", "Ghost"],
+		"name": "sableye"
 	},
 	{
-		"Name": "mawile",
 		"id": 299,
 		"url": "/assets/images/mawile.png",
-		"Types": ["Steel", "Fairy"]
+		"types": ["Steel", "Fairy"],
+		"name": "mawile"
 	},
 	{
-		"Name": "aron",
 		"id": 300,
 		"url": "/assets/images/aron.png",
-		"Types": ["Steel", "Rock"]
+		"types": ["Steel", "Rock"],
+		"name": "aron"
 	},
 	{
-		"Name": "lairon",
 		"id": 301,
 		"url": "/assets/images/lairon.png",
-		"Types": ["Steel", "Rock"]
+		"types": ["Steel", "Rock"],
+		"name": "lairon"
 	},
 	{
-		"Name": "aggron",
 		"id": 302,
 		"url": "/assets/images/aggron.png",
-		"Types": ["Steel", "Rock"]
+		"types": ["Steel", "Rock"],
+		"name": "aggron"
 	},
 	{
-		"Name": "meditite",
 		"id": 303,
 		"url": "/assets/images/meditite.png",
-		"Types": ["Fighting", "Psychic"]
+		"types": ["Fighting", "Psychic"],
+		"name": "meditite"
 	},
 	{
-		"Name": "medicham",
 		"id": 304,
 		"url": "/assets/images/medicham.png",
-		"Types": ["Fighting", "Psychic"]
+		"types": ["Fighting", "Psychic"],
+		"name": "medicham"
 	},
 	{
-		"Name": "electrike",
 		"id": 305,
 		"url": "/assets/images/electrike.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "electrike"
 	},
 	{
-		"Name": "manectric",
 		"id": 306,
 		"url": "/assets/images/manectric.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "manectric"
 	},
 	{
-		"Name": "plusle",
 		"id": 307,
 		"url": "/assets/images/plusle.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "plusle"
 	},
 	{
-		"Name": "minun",
 		"id": 308,
 		"url": "/assets/images/minun.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "minun"
 	},
 	{
-		"Name": "volbeat",
 		"id": 309,
 		"url": "/assets/images/volbeat.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "volbeat"
 	},
 	{
-		"Name": "illumise",
 		"id": 310,
 		"url": "/assets/images/illumise.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "illumise"
 	},
 	{
-		"Name": "roselia",
 		"id": 311,
 		"url": "/assets/images/roselia.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "roselia"
 	},
 	{
-		"Name": "gulpin",
 		"id": 312,
 		"url": "/assets/images/gulpin.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "gulpin"
 	},
 	{
-		"Name": "swalot",
 		"id": 313,
 		"url": "/assets/images/swalot.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "swalot"
 	},
 	{
-		"Name": "carvanha",
 		"id": 314,
 		"url": "/assets/images/carvanha.png",
-		"Types": ["Water", "Dark"]
+		"types": ["Water", "Dark"],
+		"name": "carvanha"
 	},
 	{
-		"Name": "sharpedo",
 		"id": 315,
 		"url": "/assets/images/sharpedo.png",
-		"Types": ["Water", "Dark"]
+		"types": ["Water", "Dark"],
+		"name": "sharpedo"
 	},
 	{
-		"Name": "wailmer",
 		"id": 316,
 		"url": "/assets/images/wailmer.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "wailmer"
 	},
 	{
-		"Name": "wailord",
 		"id": 317,
 		"url": "/assets/images/wailord.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "wailord"
 	},
 	{
-		"Name": "numel",
 		"id": 318,
 		"url": "/assets/images/numel.png",
-		"Types": ["Fire", "Ground"]
+		"types": ["Fire", "Ground"],
+		"name": "numel"
 	},
 	{
-		"Name": "camerupt",
 		"id": 319,
 		"url": "/assets/images/camerupt.png",
-		"Types": ["Fire", "Ground"]
+		"types": ["Fire", "Ground"],
+		"name": "camerupt"
 	},
 	{
-		"Name": "torkoal",
 		"id": 320,
 		"url": "/assets/images/torkoal.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "torkoal"
 	},
 	{
-		"Name": "spoink",
 		"id": 321,
 		"url": "/assets/images/spoink.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "spoink"
 	},
 	{
-		"Name": "grumpig",
 		"id": 322,
 		"url": "/assets/images/grumpig.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "grumpig"
 	},
 	{
-		"Name": "spinda",
 		"id": 323,
 		"url": "/assets/images/spinda.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "spinda"
 	},
 	{
-		"Name": "trapinch",
 		"id": 324,
 		"url": "/assets/images/trapinch.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "trapinch"
 	},
 	{
-		"Name": "vibrava",
 		"id": 325,
 		"url": "/assets/images/vibrava.png",
-		"Types": ["Ground", "Dragon"]
+		"types": ["Ground", "Dragon"],
+		"name": "vibrava"
 	},
 	{
-		"Name": "flygon",
 		"id": 326,
 		"url": "/assets/images/flygon.png",
-		"Types": ["Ground", "Dragon"]
+		"types": ["Ground", "Dragon"],
+		"name": "flygon"
 	},
 	{
-		"Name": "cacnea",
 		"id": 327,
 		"url": "/assets/images/cacnea.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "cacnea"
 	},
 	{
-		"Name": "cacturne",
 		"id": 328,
 		"url": "/assets/images/cacturne.png",
-		"Types": ["Grass", "Dark"]
+		"types": ["Grass", "Dark"],
+		"name": "cacturne"
 	},
 	{
-		"Name": "swablu",
 		"id": 329,
 		"url": "/assets/images/swablu.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "swablu"
 	},
 	{
-		"Name": "altaria",
 		"id": 330,
 		"url": "/assets/images/altaria.png",
-		"Types": ["Dragon", "Flying"]
+		"types": ["Dragon", "Flying"],
+		"name": "altaria"
 	},
 	{
-		"Name": "zangoose",
 		"id": 331,
 		"url": "/assets/images/zangoose.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "zangoose"
 	},
 	{
-		"Name": "seviper",
 		"id": 332,
 		"url": "/assets/images/seviper.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "seviper"
 	},
 	{
-		"Name": "lunatone",
 		"id": 333,
 		"url": "/assets/images/lunatone.png",
-		"Types": ["Rock", "Psychic"]
+		"types": ["Rock", "Psychic"],
+		"name": "lunatone"
 	},
 	{
-		"Name": "solrock",
 		"id": 334,
 		"url": "/assets/images/solrock.png",
-		"Types": ["Rock", "Psychic"]
+		"types": ["Rock", "Psychic"],
+		"name": "solrock"
 	},
 	{
-		"Name": "barboach",
 		"id": 335,
 		"url": "/assets/images/barboach.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "barboach"
 	},
 	{
-		"Name": "whiscash",
 		"id": 336,
 		"url": "/assets/images/whiscash.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "whiscash"
 	},
 	{
-		"Name": "corphish",
 		"id": 337,
 		"url": "/assets/images/corphish.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "corphish"
 	},
 	{
-		"Name": "crawdaunt",
 		"id": 338,
 		"url": "/assets/images/crawdaunt.png",
-		"Types": ["Water", "Dark"]
+		"types": ["Water", "Dark"],
+		"name": "crawdaunt"
 	},
 	{
-		"Name": "baltoy",
 		"id": 339,
 		"url": "/assets/images/baltoy.png",
-		"Types": ["Ground", "Psychic"]
+		"types": ["Ground", "Psychic"],
+		"name": "baltoy"
 	},
 	{
-		"Name": "claydol",
 		"id": 340,
 		"url": "/assets/images/claydol.png",
-		"Types": ["Ground", "Psychic"]
+		"types": ["Ground", "Psychic"],
+		"name": "claydol"
 	},
 	{
-		"Name": "lileep",
 		"id": 341,
 		"url": "/assets/images/lileep.png",
-		"Types": ["Rock", "Grass"]
+		"types": ["Rock", "Grass"],
+		"name": "lileep"
 	},
 	{
-		"Name": "cradily",
 		"id": 342,
 		"url": "/assets/images/cradily.png",
-		"Types": ["Rock", "Grass"]
+		"types": ["Rock", "Grass"],
+		"name": "cradily"
 	},
 	{
-		"Name": "anorith",
 		"id": 343,
 		"url": "/assets/images/anorith.png",
-		"Types": ["Rock", "Bug"]
+		"types": ["Rock", "Bug"],
+		"name": "anorith"
 	},
 	{
-		"Name": "armaldo",
 		"id": 344,
 		"url": "/assets/images/armaldo.png",
-		"Types": ["Rock", "Bug"]
+		"types": ["Rock", "Bug"],
+		"name": "armaldo"
 	},
 	{
-		"Name": "feebas",
 		"id": 345,
 		"url": "/assets/images/feebas.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "feebas"
 	},
 	{
-		"Name": "milotic",
 		"id": 346,
 		"url": "/assets/images/milotic.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "milotic"
 	},
 	{
-		"Name": "castform",
 		"id": 347,
 		"url": "/assets/images/castform.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "castform"
 	},
 	{
-		"Name": "kecleon",
 		"id": 348,
 		"url": "/assets/images/kecleon.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "kecleon"
 	},
 	{
-		"Name": "shuppet",
 		"id": 349,
 		"url": "/assets/images/shuppet.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "shuppet"
 	},
 	{
-		"Name": "banette",
 		"id": 350,
 		"url": "/assets/images/banette.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "banette"
 	},
 	{
-		"Name": "duskull",
 		"id": 351,
 		"url": "/assets/images/duskull.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "duskull"
 	},
 	{
-		"Name": "dusclops",
 		"id": 352,
 		"url": "/assets/images/dusclops.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "dusclops"
 	},
 	{
-		"Name": "tropius",
 		"id": 353,
 		"url": "/assets/images/tropius.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "tropius"
 	},
 	{
-		"Name": "chimecho",
 		"id": 354,
 		"url": "/assets/images/chimecho.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "chimecho"
 	},
 	{
-		"Name": "absol",
 		"id": 355,
 		"url": "/assets/images/absol.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "absol"
 	},
 	{
-		"Name": "wynaut",
 		"id": 356,
 		"url": "/assets/images/wynaut.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "wynaut"
 	},
 	{
-		"Name": "snorunt",
 		"id": 357,
 		"url": "/assets/images/snorunt.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "snorunt"
 	},
 	{
-		"Name": "glalie",
 		"id": 358,
 		"url": "/assets/images/glalie.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "glalie"
 	},
 	{
-		"Name": "spheal",
 		"id": 359,
 		"url": "/assets/images/spheal.png",
-		"Types": ["Ice", "Water"]
+		"types": ["Ice", "Water"],
+		"name": "spheal"
 	},
 	{
-		"Name": "sealeo",
 		"id": 360,
 		"url": "/assets/images/sealeo.png",
-		"Types": ["Ice", "Water"]
+		"types": ["Ice", "Water"],
+		"name": "sealeo"
 	},
 	{
-		"Name": "walrein",
 		"id": 361,
 		"url": "/assets/images/walrein.png",
-		"Types": ["Ice", "Water"]
+		"types": ["Ice", "Water"],
+		"name": "walrein"
 	},
 	{
-		"Name": "clamperl",
 		"id": 362,
 		"url": "/assets/images/clamperl.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "clamperl"
 	},
 	{
-		"Name": "huntail",
 		"id": 363,
 		"url": "/assets/images/huntail.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "huntail"
 	},
 	{
-		"Name": "gorebyss",
 		"id": 364,
 		"url": "/assets/images/gorebyss.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "gorebyss"
 	},
 	{
-		"Name": "relicanth",
 		"id": 365,
 		"url": "/assets/images/relicanth.png",
-		"Types": ["Water", "Rock"]
+		"types": ["Water", "Rock"],
+		"name": "relicanth"
 	},
 	{
-		"Name": "luvdisc",
 		"id": 366,
 		"url": "/assets/images/luvdisc.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "luvdisc"
 	},
 	{
-		"Name": "bagon",
 		"id": 367,
 		"url": "/assets/images/bagon.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "bagon"
 	},
 	{
-		"Name": "shelgon",
 		"id": 368,
 		"url": "/assets/images/shelgon.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "shelgon"
 	},
 	{
-		"Name": "salamence",
 		"id": 369,
 		"url": "/assets/images/salamence.png",
-		"Types": ["Dragon", "Flying"]
+		"types": ["Dragon", "Flying"],
+		"name": "salamence"
 	},
 	{
-		"Name": "beldum",
 		"id": 370,
 		"url": "/assets/images/beldum.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "beldum"
 	},
 	{
-		"Name": "metang",
 		"id": 371,
 		"url": "/assets/images/metang.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "metang"
 	},
 	{
-		"Name": "metagross",
 		"id": 372,
 		"url": "/assets/images/metagross.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "metagross"
 	},
 	{
-		"Name": "regirock",
 		"id": 373,
 		"url": "/assets/images/regirock.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "regirock"
 	},
 	{
-		"Name": "regice",
 		"id": 374,
 		"url": "/assets/images/regice.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "regice"
 	},
 	{
-		"Name": "registeel",
 		"id": 375,
 		"url": "/assets/images/registeel.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "registeel"
 	},
 	{
-		"Name": "latias",
 		"id": 376,
 		"url": "/assets/images/latias.png",
-		"Types": ["Dragon", "Psychic"]
+		"types": ["Dragon", "Psychic"],
+		"name": "latias"
 	},
 	{
-		"Name": "latios",
 		"id": 377,
 		"url": "/assets/images/latios.png",
-		"Types": ["Dragon", "Psychic"]
+		"types": ["Dragon", "Psychic"],
+		"name": "latios"
 	},
 	{
-		"Name": "kyogre",
 		"id": 378,
 		"url": "/assets/images/kyogre.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "kyogre"
 	},
 	{
-		"Name": "groudon",
 		"id": 379,
 		"url": "/assets/images/groudon.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "groudon"
 	},
 	{
-		"Name": "rayquaza",
 		"id": 380,
 		"url": "/assets/images/rayquaza.png",
-		"Types": ["Dragon", "Flying"]
+		"types": ["Dragon", "Flying"],
+		"name": "rayquaza"
 	},
 	{
-		"Name": "jirachi",
 		"id": 381,
 		"url": "/assets/images/jirachi.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "jirachi"
 	},
 	{
-		"Name": "deoxys-normal",
 		"id": 382,
 		"url": "/assets/images/deoxys-normal.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "deoxys-normal"
 	},
 	{
-		"Name": "turtwig",
 		"id": 383,
 		"url": "/assets/images/turtwig.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "turtwig"
 	},
 	{
-		"Name": "grotle",
 		"id": 384,
 		"url": "/assets/images/grotle.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "grotle"
 	},
 	{
-		"Name": "torterra",
 		"id": 385,
 		"url": "/assets/images/torterra.png",
-		"Types": ["Grass", "Ground"]
+		"types": ["Grass", "Ground"],
+		"name": "torterra"
 	},
 	{
-		"Name": "chimchar",
 		"id": 386,
 		"url": "/assets/images/chimchar.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "chimchar"
 	},
 	{
-		"Name": "monferno",
 		"id": 387,
 		"url": "/assets/images/monferno.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "monferno"
 	},
 	{
-		"Name": "infernape",
 		"id": 388,
 		"url": "/assets/images/infernape.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "infernape"
 	},
 	{
-		"Name": "piplup",
 		"id": 389,
 		"url": "/assets/images/piplup.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "piplup"
 	},
 	{
-		"Name": "prinplup",
 		"id": 390,
 		"url": "/assets/images/prinplup.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "prinplup"
 	},
 	{
-		"Name": "empoleon",
 		"id": 391,
 		"url": "/assets/images/empoleon.png",
-		"Types": ["Water", "Steel"]
+		"types": ["Water", "Steel"],
+		"name": "empoleon"
 	},
 	{
-		"Name": "starly",
 		"id": 392,
 		"url": "/assets/images/starly.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "starly"
 	},
 	{
-		"Name": "staravia",
 		"id": 393,
 		"url": "/assets/images/staravia.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "staravia"
 	},
 	{
-		"Name": "staraptor",
 		"id": 394,
 		"url": "/assets/images/staraptor.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "staraptor"
 	},
 	{
-		"Name": "bidoof",
 		"id": 395,
 		"url": "/assets/images/bidoof.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "bidoof"
 	},
 	{
-		"Name": "bibarel",
 		"id": 396,
 		"url": "/assets/images/bibarel.png",
-		"Types": ["Normal", "Water"]
+		"types": ["Normal", "Water"],
+		"name": "bibarel"
 	},
 	{
-		"Name": "kricketot",
 		"id": 397,
 		"url": "/assets/images/kricketot.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "kricketot"
 	},
 	{
-		"Name": "kricketune",
 		"id": 398,
 		"url": "/assets/images/kricketune.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "kricketune"
 	},
 	{
-		"Name": "shinx",
 		"id": 399,
 		"url": "/assets/images/shinx.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "shinx"
 	},
 	{
-		"Name": "luxio",
 		"id": 400,
 		"url": "/assets/images/luxio.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "luxio"
 	},
 	{
-		"Name": "luxray",
 		"id": 401,
 		"url": "/assets/images/luxray.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "luxray"
 	},
 	{
-		"Name": "budew",
 		"id": 402,
 		"url": "/assets/images/budew.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "budew"
 	},
 	{
-		"Name": "roserade",
 		"id": 403,
 		"url": "/assets/images/roserade.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "roserade"
 	},
 	{
-		"Name": "cranidos",
 		"id": 404,
 		"url": "/assets/images/cranidos.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "cranidos"
 	},
 	{
-		"Name": "rampardos",
 		"id": 405,
 		"url": "/assets/images/rampardos.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "rampardos"
 	},
 	{
-		"Name": "shieldon",
 		"id": 406,
 		"url": "/assets/images/shieldon.png",
-		"Types": ["Rock", "Steel"]
+		"types": ["Rock", "Steel"],
+		"name": "shieldon"
 	},
 	{
-		"Name": "bastiodon",
 		"id": 407,
 		"url": "/assets/images/bastiodon.png",
-		"Types": ["Rock", "Steel"]
+		"types": ["Rock", "Steel"],
+		"name": "bastiodon"
 	},
 	{
-		"Name": "burmy",
 		"id": 408,
 		"url": "/assets/images/burmy.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "burmy"
 	},
 	{
-		"Name": "wormadam-plant",
 		"id": 409,
 		"url": "/assets/images/wormadam-plant.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "wormadam-plant"
 	},
 	{
-		"Name": "mothim",
 		"id": 410,
 		"url": "/assets/images/mothim.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "mothim"
 	},
 	{
-		"Name": "combee",
 		"id": 411,
 		"url": "/assets/images/combee.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "combee"
 	},
 	{
-		"Name": "vespiquen",
 		"id": 412,
 		"url": "/assets/images/vespiquen.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "vespiquen"
 	},
 	{
-		"Name": "pachirisu",
 		"id": 413,
 		"url": "/assets/images/pachirisu.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "pachirisu"
 	},
 	{
-		"Name": "buizel",
 		"id": 414,
 		"url": "/assets/images/buizel.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "buizel"
 	},
 	{
-		"Name": "floatzel",
 		"id": 415,
 		"url": "/assets/images/floatzel.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "floatzel"
 	},
 	{
-		"Name": "cherubi",
 		"id": 416,
 		"url": "/assets/images/cherubi.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "cherubi"
 	},
 	{
-		"Name": "cherrim",
 		"id": 417,
 		"url": "/assets/images/cherrim.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "cherrim"
 	},
 	{
-		"Name": "shellos",
 		"id": 418,
 		"url": "/assets/images/shellos.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "shellos"
 	},
 	{
-		"Name": "gastrodon",
 		"id": 419,
 		"url": "/assets/images/gastrodon.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "gastrodon"
 	},
 	{
-		"Name": "ambipom",
 		"id": 420,
 		"url": "/assets/images/ambipom.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "ambipom"
 	},
 	{
-		"Name": "drifloon",
 		"id": 421,
 		"url": "/assets/images/drifloon.png",
-		"Types": ["Ghost", "Flying"]
+		"types": ["Ghost", "Flying"],
+		"name": "drifloon"
 	},
 	{
-		"Name": "drifblim",
 		"id": 422,
 		"url": "/assets/images/drifblim.png",
-		"Types": ["Ghost", "Flying"]
+		"types": ["Ghost", "Flying"],
+		"name": "drifblim"
 	},
 	{
-		"Name": "buneary",
 		"id": 423,
 		"url": "/assets/images/buneary.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "buneary"
 	},
 	{
-		"Name": "lopunny",
 		"id": 424,
 		"url": "/assets/images/lopunny.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "lopunny"
 	},
 	{
-		"Name": "mismagius",
 		"id": 425,
 		"url": "/assets/images/mismagius.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "mismagius"
 	},
 	{
-		"Name": "honchkrow",
 		"id": 426,
 		"url": "/assets/images/honchkrow.png",
-		"Types": ["Dark", "Flying"]
+		"types": ["Dark", "Flying"],
+		"name": "honchkrow"
 	},
 	{
-		"Name": "glameow",
 		"id": 427,
 		"url": "/assets/images/glameow.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "glameow"
 	},
 	{
-		"Name": "purugly",
 		"id": 428,
 		"url": "/assets/images/purugly.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "purugly"
 	},
 	{
-		"Name": "chingling",
 		"id": 429,
 		"url": "/assets/images/chingling.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "chingling"
 	},
 	{
-		"Name": "stunky",
 		"id": 430,
 		"url": "/assets/images/stunky.png",
-		"Types": ["Poison", "Dark"]
+		"types": ["Poison", "Dark"],
+		"name": "stunky"
 	},
 	{
-		"Name": "skuntank",
 		"id": 431,
 		"url": "/assets/images/skuntank.png",
-		"Types": ["Poison", "Dark"]
+		"types": ["Poison", "Dark"],
+		"name": "skuntank"
 	},
 	{
-		"Name": "bronzor",
 		"id": 432,
 		"url": "/assets/images/bronzor.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "bronzor"
 	},
 	{
-		"Name": "bronzong",
 		"id": 433,
 		"url": "/assets/images/bronzong.png",
-		"Types": ["Steel", "Psychic"]
+		"types": ["Steel", "Psychic"],
+		"name": "bronzong"
 	},
 	{
-		"Name": "bonsly",
 		"id": 434,
 		"url": "/assets/images/bonsly.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "bonsly"
 	},
 	{
-		"Name": "mime-jr",
 		"id": 435,
 		"url": "/assets/images/mime-jr.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "mime-jr"
 	},
 	{
-		"Name": "happiny",
 		"id": 436,
 		"url": "/assets/images/happiny.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "happiny"
 	},
 	{
-		"Name": "chatot",
 		"id": 437,
 		"url": "/assets/images/chatot.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "chatot"
 	},
 	{
-		"Name": "spiritomb",
 		"id": 438,
 		"url": "/assets/images/spiritomb.png",
-		"Types": ["Ghost", "Dark"]
+		"types": ["Ghost", "Dark"],
+		"name": "spiritomb"
 	},
 	{
-		"Name": "gible",
 		"id": 439,
 		"url": "/assets/images/gible.png",
-		"Types": ["Dragon", "Ground"]
+		"types": ["Dragon", "Ground"],
+		"name": "gible"
 	},
 	{
-		"Name": "gabite",
 		"id": 440,
 		"url": "/assets/images/gabite.png",
-		"Types": ["Dragon", "Ground"]
+		"types": ["Dragon", "Ground"],
+		"name": "gabite"
 	},
 	{
-		"Name": "garchomp",
 		"id": 441,
 		"url": "/assets/images/garchomp.png",
-		"Types": ["Dragon", "Ground"]
+		"types": ["Dragon", "Ground"],
+		"name": "garchomp"
 	},
 	{
-		"Name": "munchlax",
 		"id": 442,
 		"url": "/assets/images/munchlax.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "munchlax"
 	},
 	{
-		"Name": "riolu",
 		"id": 443,
 		"url": "/assets/images/riolu.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "riolu"
 	},
 	{
-		"Name": "lucario",
 		"id": 444,
 		"url": "/assets/images/lucario.png",
-		"Types": ["Fighting", "Steel"]
+		"types": ["Fighting", "Steel"],
+		"name": "lucario"
 	},
 	{
-		"Name": "hippopotas",
 		"id": 445,
 		"url": "/assets/images/hippopotas.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "hippopotas"
 	},
 	{
-		"Name": "hippowdon",
 		"id": 446,
 		"url": "/assets/images/hippowdon.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "hippowdon"
 	},
 	{
-		"Name": "skorupi",
 		"id": 447,
 		"url": "/assets/images/skorupi.png",
-		"Types": ["Poison", "Bug"]
+		"types": ["Poison", "Bug"],
+		"name": "skorupi"
 	},
 	{
-		"Name": "drapion",
 		"id": 448,
 		"url": "/assets/images/drapion.png",
-		"Types": ["Poison", "Dark"]
+		"types": ["Poison", "Dark"],
+		"name": "drapion"
 	},
 	{
-		"Name": "croagunk",
 		"id": 449,
 		"url": "/assets/images/croagunk.png",
-		"Types": ["Poison", "Fighting"]
+		"types": ["Poison", "Fighting"],
+		"name": "croagunk"
 	},
 	{
-		"Name": "toxicroak",
 		"id": 450,
 		"url": "/assets/images/toxicroak.png",
-		"Types": ["Poison", "Fighting"]
+		"types": ["Poison", "Fighting"],
+		"name": "toxicroak"
 	},
 	{
-		"Name": "carnivine",
 		"id": 451,
 		"url": "/assets/images/carnivine.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "carnivine"
 	},
 	{
-		"Name": "finneon",
 		"id": 452,
 		"url": "/assets/images/finneon.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "finneon"
 	},
 	{
-		"Name": "lumineon",
 		"id": 453,
 		"url": "/assets/images/lumineon.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "lumineon"
 	},
 	{
-		"Name": "mantyke",
 		"id": 454,
 		"url": "/assets/images/mantyke.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "mantyke"
 	},
 	{
-		"Name": "snover",
 		"id": 455,
 		"url": "/assets/images/snover.png",
-		"Types": ["Grass", "Ice"]
+		"types": ["Grass", "Ice"],
+		"name": "snover"
 	},
 	{
-		"Name": "abomasnow",
 		"id": 456,
 		"url": "/assets/images/abomasnow.png",
-		"Types": ["Grass", "Ice"]
+		"types": ["Grass", "Ice"],
+		"name": "abomasnow"
 	},
 	{
-		"Name": "weavile",
 		"id": 457,
 		"url": "/assets/images/weavile.png",
-		"Types": ["Dark", "Ice"]
+		"types": ["Dark", "Ice"],
+		"name": "weavile"
 	},
 	{
-		"Name": "magnezone",
 		"id": 458,
 		"url": "/assets/images/magnezone.png",
-		"Types": ["Electric", "Steel"]
+		"types": ["Electric", "Steel"],
+		"name": "magnezone"
 	},
 	{
-		"Name": "lickilicky",
 		"id": 459,
 		"url": "/assets/images/lickilicky.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "lickilicky"
 	},
 	{
-		"Name": "rhyperior",
 		"id": 460,
 		"url": "/assets/images/rhyperior.png",
-		"Types": ["Ground", "Rock"]
+		"types": ["Ground", "Rock"],
+		"name": "rhyperior"
 	},
 	{
-		"Name": "tangrowth",
 		"id": 461,
 		"url": "/assets/images/tangrowth.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "tangrowth"
 	},
 	{
-		"Name": "electivire",
 		"id": 462,
 		"url": "/assets/images/electivire.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "electivire"
 	},
 	{
-		"Name": "magmortar",
 		"id": 463,
 		"url": "/assets/images/magmortar.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "magmortar"
 	},
 	{
-		"Name": "togekiss",
 		"id": 464,
 		"url": "/assets/images/togekiss.png",
-		"Types": ["Fairy", "Flying"]
+		"types": ["Fairy", "Flying"],
+		"name": "togekiss"
 	},
 	{
-		"Name": "yanmega",
 		"id": 465,
 		"url": "/assets/images/yanmega.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "yanmega"
 	},
 	{
-		"Name": "leafeon",
 		"id": 466,
 		"url": "/assets/images/leafeon.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "leafeon"
 	},
 	{
-		"Name": "glaceon",
 		"id": 467,
 		"url": "/assets/images/glaceon.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "glaceon"
 	},
 	{
-		"Name": "gliscor",
 		"id": 468,
 		"url": "/assets/images/gliscor.png",
-		"Types": ["Ground", "Flying"]
+		"types": ["Ground", "Flying"],
+		"name": "gliscor"
 	},
 	{
-		"Name": "mamoswine",
 		"id": 469,
 		"url": "/assets/images/mamoswine.png",
-		"Types": ["Ice", "Ground"]
+		"types": ["Ice", "Ground"],
+		"name": "mamoswine"
 	},
 	{
-		"Name": "porygon-z",
 		"id": 470,
 		"url": "/assets/images/porygon-z.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "porygon-z"
 	},
 	{
-		"Name": "gallade",
 		"id": 471,
 		"url": "/assets/images/gallade.png",
-		"Types": ["Psychic", "Fighting"]
+		"types": ["Psychic", "Fighting"],
+		"name": "gallade"
 	},
 	{
-		"Name": "probopass",
 		"id": 472,
 		"url": "/assets/images/probopass.png",
-		"Types": ["Rock", "Steel"]
+		"types": ["Rock", "Steel"],
+		"name": "probopass"
 	},
 	{
-		"Name": "dusknoir",
 		"id": 473,
 		"url": "/assets/images/dusknoir.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "dusknoir"
 	},
 	{
-		"Name": "froslass",
 		"id": 474,
 		"url": "/assets/images/froslass.png",
-		"Types": ["Ice", "Ghost"]
+		"types": ["Ice", "Ghost"],
+		"name": "froslass"
 	},
 	{
-		"Name": "rotom",
 		"id": 475,
 		"url": "/assets/images/rotom.png",
-		"Types": ["Electric", "Ghost"]
+		"types": ["Electric", "Ghost"],
+		"name": "rotom"
 	},
 	{
-		"Name": "uxie",
 		"id": 476,
 		"url": "/assets/images/uxie.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "uxie"
 	},
 	{
-		"Name": "mesprit",
 		"id": 477,
 		"url": "/assets/images/mesprit.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "mesprit"
 	},
 	{
-		"Name": "azelf",
 		"id": 478,
 		"url": "/assets/images/azelf.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "azelf"
 	},
 	{
-		"Name": "dialga",
 		"id": 479,
 		"url": "/assets/images/dialga.png",
-		"Types": ["Steel", "Dragon"]
+		"types": ["Steel", "Dragon"],
+		"name": "dialga"
 	},
 	{
-		"Name": "palkia",
 		"id": 480,
 		"url": "/assets/images/palkia.png",
-		"Types": ["Water", "Dragon"]
+		"types": ["Water", "Dragon"],
+		"name": "palkia"
 	},
 	{
-		"Name": "heatran",
 		"id": 481,
 		"url": "/assets/images/heatran.png",
-		"Types": ["Fire", "Steel"]
+		"types": ["Fire", "Steel"],
+		"name": "heatran"
 	},
 	{
-		"Name": "regigigas",
 		"id": 482,
 		"url": "/assets/images/regigigas.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "regigigas"
 	},
 	{
-		"Name": "giratina-altered",
 		"id": 483,
 		"url": "/assets/images/giratina-altered.png",
-		"Types": ["Ghost", "Dragon"]
+		"types": ["Ghost", "Dragon"],
+		"name": "giratina-altered"
 	},
 	{
-		"Name": "cresselia",
 		"id": 484,
 		"url": "/assets/images/cresselia.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "cresselia"
 	},
 	{
-		"Name": "phione",
 		"id": 485,
 		"url": "/assets/images/phione.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "phione"
 	},
 	{
-		"Name": "manaphy",
 		"id": 486,
 		"url": "/assets/images/manaphy.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "manaphy"
 	},
 	{
-		"Name": "darkrai",
 		"id": 487,
 		"url": "/assets/images/darkrai.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "darkrai"
 	},
 	{
-		"Name": "shaymin-land",
 		"id": 488,
 		"url": "/assets/images/shaymin-land.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "shaymin-land"
 	},
 	{
-		"Name": "arceus",
 		"id": 489,
 		"url": "/assets/images/arceus.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "arceus"
 	},
 	{
-		"Name": "victini",
 		"id": 490,
 		"url": "/assets/images/victini.png",
-		"Types": ["Psychic", "Fire"]
+		"types": ["Psychic", "Fire"],
+		"name": "victini"
 	},
 	{
-		"Name": "snivy",
 		"id": 491,
 		"url": "/assets/images/snivy.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "snivy"
 	},
 	{
-		"Name": "servine",
 		"id": 492,
 		"url": "/assets/images/servine.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "servine"
 	},
 	{
-		"Name": "serperior",
 		"id": 493,
 		"url": "/assets/images/serperior.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "serperior"
 	},
 	{
-		"Name": "tepig",
 		"id": 494,
 		"url": "/assets/images/tepig.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "tepig"
 	},
 	{
-		"Name": "pignite",
 		"id": 495,
 		"url": "/assets/images/pignite.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "pignite"
 	},
 	{
-		"Name": "emboar",
 		"id": 496,
 		"url": "/assets/images/emboar.png",
-		"Types": ["Fire", "Fighting"]
+		"types": ["Fire", "Fighting"],
+		"name": "emboar"
 	},
 	{
-		"Name": "oshawott",
 		"id": 497,
 		"url": "/assets/images/oshawott.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "oshawott"
 	},
 	{
-		"Name": "dewott",
 		"id": 498,
 		"url": "/assets/images/dewott.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "dewott"
 	},
 	{
-		"Name": "samurott",
 		"id": 499,
 		"url": "/assets/images/samurott.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "samurott"
 	},
 	{
-		"Name": "patrat",
 		"id": 500,
 		"url": "/assets/images/patrat.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "patrat"
 	},
 	{
-		"Name": "watchog",
 		"id": 501,
 		"url": "/assets/images/watchog.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "watchog"
 	},
 	{
-		"Name": "lillipup",
 		"id": 502,
 		"url": "/assets/images/lillipup.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "lillipup"
 	},
 	{
-		"Name": "herdier",
 		"id": 503,
 		"url": "/assets/images/herdier.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "herdier"
 	},
 	{
-		"Name": "stoutland",
 		"id": 504,
 		"url": "/assets/images/stoutland.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "stoutland"
 	},
 	{
-		"Name": "purrloin",
 		"id": 505,
 		"url": "/assets/images/purrloin.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "purrloin"
 	},
 	{
-		"Name": "liepard",
 		"id": 506,
 		"url": "/assets/images/liepard.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "liepard"
 	},
 	{
-		"Name": "pansage",
 		"id": 507,
 		"url": "/assets/images/pansage.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "pansage"
 	},
 	{
-		"Name": "simisage",
 		"id": 508,
 		"url": "/assets/images/simisage.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "simisage"
 	},
 	{
-		"Name": "pansear",
 		"id": 509,
 		"url": "/assets/images/pansear.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "pansear"
 	},
 	{
-		"Name": "simisear",
 		"id": 510,
 		"url": "/assets/images/simisear.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "simisear"
 	},
 	{
-		"Name": "panpour",
 		"id": 511,
 		"url": "/assets/images/panpour.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "panpour"
 	},
 	{
-		"Name": "simipour",
 		"id": 512,
 		"url": "/assets/images/simipour.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "simipour"
 	},
 	{
-		"Name": "munna",
 		"id": 513,
 		"url": "/assets/images/munna.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "munna"
 	},
 	{
-		"Name": "musharna",
 		"id": 514,
 		"url": "/assets/images/musharna.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "musharna"
 	},
 	{
-		"Name": "pidove",
 		"id": 515,
 		"url": "/assets/images/pidove.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "pidove"
 	},
 	{
-		"Name": "tranquill",
 		"id": 516,
 		"url": "/assets/images/tranquill.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "tranquill"
 	},
 	{
-		"Name": "unfezant",
 		"id": 517,
 		"url": "/assets/images/unfezant.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "unfezant"
 	},
 	{
-		"Name": "blitzle",
 		"id": 518,
 		"url": "/assets/images/blitzle.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "blitzle"
 	},
 	{
-		"Name": "zebstrika",
 		"id": 519,
 		"url": "/assets/images/zebstrika.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "zebstrika"
 	},
 	{
-		"Name": "roggenrola",
 		"id": 520,
 		"url": "/assets/images/roggenrola.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "roggenrola"
 	},
 	{
-		"Name": "boldore",
 		"id": 521,
 		"url": "/assets/images/boldore.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "boldore"
 	},
 	{
-		"Name": "gigalith",
 		"id": 522,
 		"url": "/assets/images/gigalith.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "gigalith"
 	},
 	{
-		"Name": "woobat",
 		"id": 523,
 		"url": "/assets/images/woobat.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "woobat"
 	},
 	{
-		"Name": "swoobat",
 		"id": 524,
 		"url": "/assets/images/swoobat.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "swoobat"
 	},
 	{
-		"Name": "drilbur",
 		"id": 525,
 		"url": "/assets/images/drilbur.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "drilbur"
 	},
 	{
-		"Name": "excadrill",
 		"id": 526,
 		"url": "/assets/images/excadrill.png",
-		"Types": ["Ground", "Steel"]
+		"types": ["Ground", "Steel"],
+		"name": "excadrill"
 	},
 	{
-		"Name": "audino",
 		"id": 527,
 		"url": "/assets/images/audino.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "audino"
 	},
 	{
-		"Name": "timburr",
 		"id": 528,
 		"url": "/assets/images/timburr.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "timburr"
 	},
 	{
-		"Name": "gurdurr",
 		"id": 529,
 		"url": "/assets/images/gurdurr.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "gurdurr"
 	},
 	{
-		"Name": "conkeldurr",
 		"id": 530,
 		"url": "/assets/images/conkeldurr.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "conkeldurr"
 	},
 	{
-		"Name": "tympole",
 		"id": 531,
 		"url": "/assets/images/tympole.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "tympole"
 	},
 	{
-		"Name": "palpitoad",
 		"id": 532,
 		"url": "/assets/images/palpitoad.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "palpitoad"
 	},
 	{
-		"Name": "seismitoad",
 		"id": 533,
 		"url": "/assets/images/seismitoad.png",
-		"Types": ["Water", "Ground"]
+		"types": ["Water", "Ground"],
+		"name": "seismitoad"
 	},
 	{
-		"Name": "throh",
 		"id": 534,
 		"url": "/assets/images/throh.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "throh"
 	},
 	{
-		"Name": "sawk",
 		"id": 535,
 		"url": "/assets/images/sawk.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "sawk"
 	},
 	{
-		"Name": "sewaddle",
 		"id": 536,
 		"url": "/assets/images/sewaddle.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "sewaddle"
 	},
 	{
-		"Name": "swadloon",
 		"id": 537,
 		"url": "/assets/images/swadloon.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "swadloon"
 	},
 	{
-		"Name": "leavanny",
 		"id": 538,
 		"url": "/assets/images/leavanny.png",
-		"Types": ["Bug", "Grass"]
+		"types": ["Bug", "Grass"],
+		"name": "leavanny"
 	},
 	{
-		"Name": "venipede",
 		"id": 539,
 		"url": "/assets/images/venipede.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "venipede"
 	},
 	{
-		"Name": "whirlipede",
 		"id": 540,
 		"url": "/assets/images/whirlipede.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "whirlipede"
 	},
 	{
-		"Name": "scolipede",
 		"id": 541,
 		"url": "/assets/images/scolipede.png",
-		"Types": ["Bug", "Poison"]
+		"types": ["Bug", "Poison"],
+		"name": "scolipede"
 	},
 	{
-		"Name": "cottonee",
 		"id": 542,
 		"url": "/assets/images/cottonee.png",
-		"Types": ["Grass", "Fairy"]
+		"types": ["Grass", "Fairy"],
+		"name": "cottonee"
 	},
 	{
-		"Name": "whimsicott",
 		"id": 543,
 		"url": "/assets/images/whimsicott.png",
-		"Types": ["Grass", "Fairy"]
+		"types": ["Grass", "Fairy"],
+		"name": "whimsicott"
 	},
 	{
-		"Name": "petilil",
 		"id": 544,
 		"url": "/assets/images/petilil.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "petilil"
 	},
 	{
-		"Name": "lilligant",
 		"id": 545,
 		"url": "/assets/images/lilligant.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "lilligant"
 	},
 	{
-		"Name": "basculin-red-striped",
 		"id": 546,
 		"url": "/assets/images/basculin-red-striped.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "basculin-red-striped"
 	},
 	{
-		"Name": "sandile",
 		"id": 547,
 		"url": "/assets/images/sandile.png",
-		"Types": ["Ground", "Dark"]
+		"types": ["Ground", "Dark"],
+		"name": "sandile"
 	},
 	{
-		"Name": "krokorok",
 		"id": 548,
 		"url": "/assets/images/krokorok.png",
-		"Types": ["Ground", "Dark"]
+		"types": ["Ground", "Dark"],
+		"name": "krokorok"
 	},
 	{
-		"Name": "krookodile",
 		"id": 549,
 		"url": "/assets/images/krookodile.png",
-		"Types": ["Ground", "Dark"]
+		"types": ["Ground", "Dark"],
+		"name": "krookodile"
 	},
 	{
-		"Name": "darumaka",
 		"id": 550,
 		"url": "/assets/images/darumaka.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "darumaka"
 	},
 	{
-		"Name": "darmanitan-standard",
 		"id": 551,
 		"url": "/assets/images/darmanitan-standard.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "darmanitan-standard"
 	},
 	{
-		"Name": "maractus",
 		"id": 552,
 		"url": "/assets/images/maractus.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "maractus"
 	},
 	{
-		"Name": "dwebble",
 		"id": 553,
 		"url": "/assets/images/dwebble.png",
-		"Types": ["Bug", "Rock"]
+		"types": ["Bug", "Rock"],
+		"name": "dwebble"
 	},
 	{
-		"Name": "crustle",
 		"id": 554,
 		"url": "/assets/images/crustle.png",
-		"Types": ["Bug", "Rock"]
+		"types": ["Bug", "Rock"],
+		"name": "crustle"
 	},
 	{
-		"Name": "scraggy",
 		"id": 555,
 		"url": "/assets/images/scraggy.png",
-		"Types": ["Dark", "Fighting"]
+		"types": ["Dark", "Fighting"],
+		"name": "scraggy"
 	},
 	{
-		"Name": "scrafty",
 		"id": 556,
 		"url": "/assets/images/scrafty.png",
-		"Types": ["Dark", "Fighting"]
+		"types": ["Dark", "Fighting"],
+		"name": "scrafty"
 	},
 	{
-		"Name": "sigilyph",
 		"id": 557,
 		"url": "/assets/images/sigilyph.png",
-		"Types": ["Psychic", "Flying"]
+		"types": ["Psychic", "Flying"],
+		"name": "sigilyph"
 	},
 	{
-		"Name": "yamask",
 		"id": 558,
 		"url": "/assets/images/yamask.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "yamask"
 	},
 	{
-		"Name": "cofagrigus",
 		"id": 559,
 		"url": "/assets/images/cofagrigus.png",
-		"Types": ["Ghost", ""]
+		"types": ["Ghost", ""],
+		"name": "cofagrigus"
 	},
 	{
-		"Name": "tirtouga",
 		"id": 560,
 		"url": "/assets/images/tirtouga.png",
-		"Types": ["Water", "Rock"]
+		"types": ["Water", "Rock"],
+		"name": "tirtouga"
 	},
 	{
-		"Name": "carracosta",
 		"id": 561,
 		"url": "/assets/images/carracosta.png",
-		"Types": ["Water", "Rock"]
+		"types": ["Water", "Rock"],
+		"name": "carracosta"
 	},
 	{
-		"Name": "archen",
 		"id": 562,
 		"url": "/assets/images/archen.png",
-		"Types": ["Rock", "Flying"]
+		"types": ["Rock", "Flying"],
+		"name": "archen"
 	},
 	{
-		"Name": "archeops",
 		"id": 563,
 		"url": "/assets/images/archeops.png",
-		"Types": ["Rock", "Flying"]
+		"types": ["Rock", "Flying"],
+		"name": "archeops"
 	},
 	{
-		"Name": "trubbish",
 		"id": 564,
 		"url": "/assets/images/trubbish.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "trubbish"
 	},
 	{
-		"Name": "garbodor",
 		"id": 565,
 		"url": "/assets/images/garbodor.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "garbodor"
 	},
 	{
-		"Name": "zorua",
 		"id": 566,
 		"url": "/assets/images/zorua.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "zorua"
 	},
 	{
-		"Name": "zoroark",
 		"id": 567,
 		"url": "/assets/images/zoroark.png",
-		"Types": ["Dark", ""]
+		"types": ["Dark", ""],
+		"name": "zoroark"
 	},
 	{
-		"Name": "minccino",
 		"id": 568,
 		"url": "/assets/images/minccino.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "minccino"
 	},
 	{
-		"Name": "cinccino",
 		"id": 569,
 		"url": "/assets/images/cinccino.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "cinccino"
 	},
 	{
-		"Name": "gothita",
 		"id": 570,
 		"url": "/assets/images/gothita.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "gothita"
 	},
 	{
-		"Name": "gothorita",
 		"id": 571,
 		"url": "/assets/images/gothorita.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "gothorita"
 	},
 	{
-		"Name": "gothitelle",
 		"id": 572,
 		"url": "/assets/images/gothitelle.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "gothitelle"
 	},
 	{
-		"Name": "solosis",
 		"id": 573,
 		"url": "/assets/images/solosis.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "solosis"
 	},
 	{
-		"Name": "duosion",
 		"id": 574,
 		"url": "/assets/images/duosion.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "duosion"
 	},
 	{
-		"Name": "reuniclus",
 		"id": 575,
 		"url": "/assets/images/reuniclus.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "reuniclus"
 	},
 	{
-		"Name": "ducklett",
 		"id": 576,
 		"url": "/assets/images/ducklett.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "ducklett"
 	},
 	{
-		"Name": "swanna",
 		"id": 577,
 		"url": "/assets/images/swanna.png",
-		"Types": ["Water", "Flying"]
+		"types": ["Water", "Flying"],
+		"name": "swanna"
 	},
 	{
-		"Name": "vanillite",
 		"id": 578,
 		"url": "/assets/images/vanillite.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "vanillite"
 	},
 	{
-		"Name": "vanillish",
 		"id": 579,
 		"url": "/assets/images/vanillish.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "vanillish"
 	},
 	{
-		"Name": "vanilluxe",
 		"id": 580,
 		"url": "/assets/images/vanilluxe.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "vanilluxe"
 	},
 	{
-		"Name": "deerling",
 		"id": 581,
 		"url": "/assets/images/deerling.png",
-		"Types": ["Normal", "Grass"]
+		"types": ["Normal", "Grass"],
+		"name": "deerling"
 	},
 	{
-		"Name": "sawsbuck",
 		"id": 582,
 		"url": "/assets/images/sawsbuck.png",
-		"Types": ["Normal", "Grass"]
+		"types": ["Normal", "Grass"],
+		"name": "sawsbuck"
 	},
 	{
-		"Name": "emolga",
 		"id": 583,
 		"url": "/assets/images/emolga.png",
-		"Types": ["Electric", "Flying"]
+		"types": ["Electric", "Flying"],
+		"name": "emolga"
 	},
 	{
-		"Name": "karrablast",
 		"id": 584,
 		"url": "/assets/images/karrablast.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "karrablast"
 	},
 	{
-		"Name": "escavalier",
 		"id": 585,
 		"url": "/assets/images/escavalier.png",
-		"Types": ["Bug", "Steel"]
+		"types": ["Bug", "Steel"],
+		"name": "escavalier"
 	},
 	{
-		"Name": "foongus",
 		"id": 586,
 		"url": "/assets/images/foongus.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "foongus"
 	},
 	{
-		"Name": "amoonguss",
 		"id": 587,
 		"url": "/assets/images/amoonguss.png",
-		"Types": ["Grass", "Poison"]
+		"types": ["Grass", "Poison"],
+		"name": "amoonguss"
 	},
 	{
-		"Name": "frillish",
 		"id": 588,
 		"url": "/assets/images/frillish.png",
-		"Types": ["Water", "Ghost"]
+		"types": ["Water", "Ghost"],
+		"name": "frillish"
 	},
 	{
-		"Name": "jellicent",
 		"id": 589,
 		"url": "/assets/images/jellicent.png",
-		"Types": ["Water", "Ghost"]
+		"types": ["Water", "Ghost"],
+		"name": "jellicent"
 	},
 	{
-		"Name": "alomomola",
 		"id": 590,
 		"url": "/assets/images/alomomola.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "alomomola"
 	},
 	{
-		"Name": "joltik",
 		"id": 591,
 		"url": "/assets/images/joltik.png",
-		"Types": ["Bug", "Electric"]
+		"types": ["Bug", "Electric"],
+		"name": "joltik"
 	},
 	{
-		"Name": "galvantula",
 		"id": 592,
 		"url": "/assets/images/galvantula.png",
-		"Types": ["Bug", "Electric"]
+		"types": ["Bug", "Electric"],
+		"name": "galvantula"
 	},
 	{
-		"Name": "ferroseed",
 		"id": 593,
 		"url": "/assets/images/ferroseed.png",
-		"Types": ["Grass", "Steel"]
+		"types": ["Grass", "Steel"],
+		"name": "ferroseed"
 	},
 	{
-		"Name": "ferrothorn",
 		"id": 594,
 		"url": "/assets/images/ferrothorn.png",
-		"Types": ["Grass", "Steel"]
+		"types": ["Grass", "Steel"],
+		"name": "ferrothorn"
 	},
 	{
-		"Name": "klink",
 		"id": 595,
 		"url": "/assets/images/klink.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "klink"
 	},
 	{
-		"Name": "klang",
 		"id": 596,
 		"url": "/assets/images/klang.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "klang"
 	},
 	{
-		"Name": "klinklang",
 		"id": 597,
 		"url": "/assets/images/klinklang.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "klinklang"
 	},
 	{
-		"Name": "tynamo",
 		"id": 598,
 		"url": "/assets/images/tynamo.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "tynamo"
 	},
 	{
-		"Name": "eelektrik",
 		"id": 599,
 		"url": "/assets/images/eelektrik.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "eelektrik"
 	},
 	{
-		"Name": "eelektross",
 		"id": 600,
 		"url": "/assets/images/eelektross.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "eelektross"
 	},
 	{
-		"Name": "elgyem",
 		"id": 601,
 		"url": "/assets/images/elgyem.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "elgyem"
 	},
 	{
-		"Name": "beheeyem",
 		"id": 602,
 		"url": "/assets/images/beheeyem.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "beheeyem"
 	},
 	{
-		"Name": "litwick",
 		"id": 603,
 		"url": "/assets/images/litwick.png",
-		"Types": ["Ghost", "Fire"]
+		"types": ["Ghost", "Fire"],
+		"name": "litwick"
 	},
 	{
-		"Name": "lampent",
 		"id": 604,
 		"url": "/assets/images/lampent.png",
-		"Types": ["Ghost", "Fire"]
+		"types": ["Ghost", "Fire"],
+		"name": "lampent"
 	},
 	{
-		"Name": "chandelure",
 		"id": 605,
 		"url": "/assets/images/chandelure.png",
-		"Types": ["Ghost", "Fire"]
+		"types": ["Ghost", "Fire"],
+		"name": "chandelure"
 	},
 	{
-		"Name": "axew",
 		"id": 606,
 		"url": "/assets/images/axew.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "axew"
 	},
 	{
-		"Name": "fraxure",
 		"id": 607,
 		"url": "/assets/images/fraxure.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "fraxure"
 	},
 	{
-		"Name": "haxorus",
 		"id": 608,
 		"url": "/assets/images/haxorus.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "haxorus"
 	},
 	{
-		"Name": "cubchoo",
 		"id": 609,
 		"url": "/assets/images/cubchoo.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "cubchoo"
 	},
 	{
-		"Name": "beartic",
 		"id": 610,
 		"url": "/assets/images/beartic.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "beartic"
 	},
 	{
-		"Name": "cryogonal",
 		"id": 611,
 		"url": "/assets/images/cryogonal.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "cryogonal"
 	},
 	{
-		"Name": "shelmet",
 		"id": 612,
 		"url": "/assets/images/shelmet.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "shelmet"
 	},
 	{
-		"Name": "accelgor",
 		"id": 613,
 		"url": "/assets/images/accelgor.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "accelgor"
 	},
 	{
-		"Name": "stunfisk",
 		"id": 614,
 		"url": "/assets/images/stunfisk.png",
-		"Types": ["Ground", "Electric"]
+		"types": ["Ground", "Electric"],
+		"name": "stunfisk"
 	},
 	{
-		"Name": "mienfoo",
 		"id": 615,
 		"url": "/assets/images/mienfoo.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "mienfoo"
 	},
 	{
-		"Name": "mienshao",
 		"id": 616,
 		"url": "/assets/images/mienshao.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "mienshao"
 	},
 	{
-		"Name": "druddigon",
 		"id": 617,
 		"url": "/assets/images/druddigon.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "druddigon"
 	},
 	{
-		"Name": "golett",
 		"id": 618,
 		"url": "/assets/images/golett.png",
-		"Types": ["Ground", "Ghost"]
+		"types": ["Ground", "Ghost"],
+		"name": "golett"
 	},
 	{
-		"Name": "golurk",
 		"id": 619,
 		"url": "/assets/images/golurk.png",
-		"Types": ["Ground", "Ghost"]
+		"types": ["Ground", "Ghost"],
+		"name": "golurk"
 	},
 	{
-		"Name": "pawniard",
 		"id": 620,
 		"url": "/assets/images/pawniard.png",
-		"Types": ["Dark", "Steel"]
+		"types": ["Dark", "Steel"],
+		"name": "pawniard"
 	},
 	{
-		"Name": "bisharp",
 		"id": 621,
 		"url": "/assets/images/bisharp.png",
-		"Types": ["Dark", "Steel"]
+		"types": ["Dark", "Steel"],
+		"name": "bisharp"
 	},
 	{
-		"Name": "bouffalant",
 		"id": 622,
 		"url": "/assets/images/bouffalant.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "bouffalant"
 	},
 	{
-		"Name": "rufflet",
 		"id": 623,
 		"url": "/assets/images/rufflet.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "rufflet"
 	},
 	{
-		"Name": "braviary",
 		"id": 624,
 		"url": "/assets/images/braviary.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "braviary"
 	},
 	{
-		"Name": "vullaby",
 		"id": 625,
 		"url": "/assets/images/vullaby.png",
-		"Types": ["Dark", "Flying"]
+		"types": ["Dark", "Flying"],
+		"name": "vullaby"
 	},
 	{
-		"Name": "mandibuzz",
 		"id": 626,
 		"url": "/assets/images/mandibuzz.png",
-		"Types": ["Dark", "Flying"]
+		"types": ["Dark", "Flying"],
+		"name": "mandibuzz"
 	},
 	{
-		"Name": "heatmor",
 		"id": 627,
 		"url": "/assets/images/heatmor.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "heatmor"
 	},
 	{
-		"Name": "durant",
 		"id": 628,
 		"url": "/assets/images/durant.png",
-		"Types": ["Bug", "Steel"]
+		"types": ["Bug", "Steel"],
+		"name": "durant"
 	},
 	{
-		"Name": "deino",
 		"id": 629,
 		"url": "/assets/images/deino.png",
-		"Types": ["Dark", "Dragon"]
+		"types": ["Dark", "Dragon"],
+		"name": "deino"
 	},
 	{
-		"Name": "zweilous",
 		"id": 630,
 		"url": "/assets/images/zweilous.png",
-		"Types": ["Dark", "Dragon"]
+		"types": ["Dark", "Dragon"],
+		"name": "zweilous"
 	},
 	{
-		"Name": "hydreigon",
 		"id": 631,
 		"url": "/assets/images/hydreigon.png",
-		"Types": ["Dark", "Dragon"]
+		"types": ["Dark", "Dragon"],
+		"name": "hydreigon"
 	},
 	{
-		"Name": "larvesta",
 		"id": 632,
 		"url": "/assets/images/larvesta.png",
-		"Types": ["Bug", "Fire"]
+		"types": ["Bug", "Fire"],
+		"name": "larvesta"
 	},
 	{
-		"Name": "volcarona",
 		"id": 633,
 		"url": "/assets/images/volcarona.png",
-		"Types": ["Bug", "Fire"]
+		"types": ["Bug", "Fire"],
+		"name": "volcarona"
 	},
 	{
-		"Name": "cobalion",
 		"id": 634,
 		"url": "/assets/images/cobalion.png",
-		"Types": ["Steel", "Fighting"]
+		"types": ["Steel", "Fighting"],
+		"name": "cobalion"
 	},
 	{
-		"Name": "terrakion",
 		"id": 635,
 		"url": "/assets/images/terrakion.png",
-		"Types": ["Rock", "Fighting"]
+		"types": ["Rock", "Fighting"],
+		"name": "terrakion"
 	},
 	{
-		"Name": "virizion",
 		"id": 636,
 		"url": "/assets/images/virizion.png",
-		"Types": ["Grass", "Fighting"]
+		"types": ["Grass", "Fighting"],
+		"name": "virizion"
 	},
 	{
-		"Name": "tornadus-incarnate",
 		"id": 637,
 		"url": "/assets/images/tornadus-incarnate.png",
-		"Types": ["Flying", ""]
+		"types": ["Flying", ""],
+		"name": "tornadus-incarnate"
 	},
 	{
-		"Name": "thundurus-incarnate",
 		"id": 638,
 		"url": "/assets/images/thundurus-incarnate.png",
-		"Types": ["Electric", "Flying"]
+		"types": ["Electric", "Flying"],
+		"name": "thundurus-incarnate"
 	},
 	{
-		"Name": "reshiram",
 		"id": 639,
 		"url": "/assets/images/reshiram.png",
-		"Types": ["Dragon", "Fire"]
+		"types": ["Dragon", "Fire"],
+		"name": "reshiram"
 	},
 	{
-		"Name": "zekrom",
 		"id": 640,
 		"url": "/assets/images/zekrom.png",
-		"Types": ["Dragon", "Electric"]
+		"types": ["Dragon", "Electric"],
+		"name": "zekrom"
 	},
 	{
-		"Name": "landorus-incarnate",
 		"id": 641,
 		"url": "/assets/images/landorus-incarnate.png",
-		"Types": ["Ground", "Flying"]
+		"types": ["Ground", "Flying"],
+		"name": "landorus-incarnate"
 	},
 	{
-		"Name": "kyurem",
 		"id": 642,
 		"url": "/assets/images/kyurem.png",
-		"Types": ["Dragon", "Ice"]
+		"types": ["Dragon", "Ice"],
+		"name": "kyurem"
 	},
 	{
-		"Name": "keldeo-ordinary",
 		"id": 643,
 		"url": "/assets/images/keldeo-ordinary.png",
-		"Types": ["Water", "Fighting"]
+		"types": ["Water", "Fighting"],
+		"name": "keldeo-ordinary"
 	},
 	{
-		"Name": "meloetta-aria",
 		"id": 644,
 		"url": "/assets/images/meloetta-aria.png",
-		"Types": ["Normal", "Psychic"]
+		"types": ["Normal", "Psychic"],
+		"name": "meloetta-aria"
 	},
 	{
-		"Name": "genesect",
 		"id": 645,
 		"url": "/assets/images/genesect.png",
-		"Types": ["Bug", "Steel"]
+		"types": ["Bug", "Steel"],
+		"name": "genesect"
 	},
 	{
-		"Name": "chespin",
 		"id": 646,
 		"url": "/assets/images/chespin.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "chespin"
 	},
 	{
-		"Name": "quilladin",
 		"id": 647,
 		"url": "/assets/images/quilladin.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "quilladin"
 	},
 	{
-		"Name": "chesnaught",
 		"id": 648,
 		"url": "/assets/images/chesnaught.png",
-		"Types": ["Grass", "Fighting"]
+		"types": ["Grass", "Fighting"],
+		"name": "chesnaught"
 	},
 	{
-		"Name": "fennekin",
 		"id": 649,
 		"url": "/assets/images/fennekin.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "fennekin"
 	},
 	{
-		"Name": "braixen",
 		"id": 650,
 		"url": "/assets/images/braixen.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "braixen"
 	},
 	{
-		"Name": "delphox",
 		"id": 651,
 		"url": "/assets/images/delphox.png",
-		"Types": ["Fire", "Psychic"]
+		"types": ["Fire", "Psychic"],
+		"name": "delphox"
 	},
 	{
-		"Name": "froakie",
 		"id": 652,
 		"url": "/assets/images/froakie.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "froakie"
 	},
 	{
-		"Name": "frogadier",
 		"id": 653,
 		"url": "/assets/images/frogadier.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "frogadier"
 	},
 	{
-		"Name": "greninja",
 		"id": 654,
 		"url": "/assets/images/greninja.png",
-		"Types": ["Water", "Dark"]
+		"types": ["Water", "Dark"],
+		"name": "greninja"
 	},
 	{
-		"Name": "bunnelby",
 		"id": 655,
 		"url": "/assets/images/bunnelby.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "bunnelby"
 	},
 	{
-		"Name": "diggersby",
 		"id": 656,
 		"url": "/assets/images/diggersby.png",
-		"Types": ["Normal", "Ground"]
+		"types": ["Normal", "Ground"],
+		"name": "diggersby"
 	},
 	{
-		"Name": "fletchling",
 		"id": 657,
 		"url": "/assets/images/fletchling.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "fletchling"
 	},
 	{
-		"Name": "fletchinder",
 		"id": 658,
 		"url": "/assets/images/fletchinder.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "fletchinder"
 	},
 	{
-		"Name": "talonflame",
 		"id": 659,
 		"url": "/assets/images/talonflame.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "talonflame"
 	},
 	{
-		"Name": "scatterbug",
 		"id": 660,
 		"url": "/assets/images/scatterbug.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "scatterbug"
 	},
 	{
-		"Name": "spewpa",
 		"id": 661,
 		"url": "/assets/images/spewpa.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "spewpa"
 	},
 	{
-		"Name": "vivillon",
 		"id": 662,
 		"url": "/assets/images/vivillon.png",
-		"Types": ["Bug", "Flying"]
+		"types": ["Bug", "Flying"],
+		"name": "vivillon"
 	},
 	{
-		"Name": "litleo",
 		"id": 663,
 		"url": "/assets/images/litleo.png",
-		"Types": ["Fire", "Normal"]
+		"types": ["Fire", "Normal"],
+		"name": "litleo"
 	},
 	{
-		"Name": "pyroar",
 		"id": 664,
 		"url": "/assets/images/pyroar.png",
-		"Types": ["Fire", "Normal"]
+		"types": ["Fire", "Normal"],
+		"name": "pyroar"
 	},
 	{
-		"Name": "flabebe",
 		"id": 665,
 		"url": "/assets/images/flabebe.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "flabebe"
 	},
 	{
-		"Name": "floette",
 		"id": 666,
 		"url": "/assets/images/floette.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "floette"
 	},
 	{
-		"Name": "florges",
 		"id": 667,
 		"url": "/assets/images/florges.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "florges"
 	},
 	{
-		"Name": "skiddo",
 		"id": 668,
 		"url": "/assets/images/skiddo.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "skiddo"
 	},
 	{
-		"Name": "gogoat",
 		"id": 669,
 		"url": "/assets/images/gogoat.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "gogoat"
 	},
 	{
-		"Name": "pancham",
 		"id": 670,
 		"url": "/assets/images/pancham.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "pancham"
 	},
 	{
-		"Name": "pangoro",
 		"id": 671,
 		"url": "/assets/images/pangoro.png",
-		"Types": ["Fighting", "Dark"]
+		"types": ["Fighting", "Dark"],
+		"name": "pangoro"
 	},
 	{
-		"Name": "furfrou",
 		"id": 672,
 		"url": "/assets/images/furfrou.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "furfrou"
 	},
 	{
-		"Name": "espurr",
 		"id": 673,
 		"url": "/assets/images/espurr.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "espurr"
 	},
 	{
-		"Name": "meowstic-male",
 		"id": 674,
 		"url": "/assets/images/meowstic-male.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "meowstic-male"
 	},
 	{
-		"Name": "honedge",
 		"id": 675,
 		"url": "/assets/images/honedge.png",
-		"Types": ["Steel", "Ghost"]
+		"types": ["Steel", "Ghost"],
+		"name": "honedge"
 	},
 	{
-		"Name": "doublade",
 		"id": 676,
 		"url": "/assets/images/doublade.png",
-		"Types": ["Steel", "Ghost"]
+		"types": ["Steel", "Ghost"],
+		"name": "doublade"
 	},
 	{
-		"Name": "aegislash-blade",
 		"id": 677,
 		"url": "/assets/images/aegislash-blade.png",
-		"Types": ["Steel", "Ghost"]
+		"types": ["Steel", "Ghost"],
+		"name": "aegislash-blade"
 	},
 	{
-		"Name": "spritzee",
 		"id": 678,
 		"url": "/assets/images/spritzee.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "spritzee"
 	},
 	{
-		"Name": "aromatisse",
 		"id": 679,
 		"url": "/assets/images/aromatisse.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "aromatisse"
 	},
 	{
-		"Name": "swirlix",
 		"id": 680,
 		"url": "/assets/images/swirlix.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "swirlix"
 	},
 	{
-		"Name": "slurpuff",
 		"id": 681,
 		"url": "/assets/images/slurpuff.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "slurpuff"
 	},
 	{
-		"Name": "inkay",
 		"id": 682,
 		"url": "/assets/images/inkay.png",
-		"Types": ["Dark", "Psychic"]
+		"types": ["Dark", "Psychic"],
+		"name": "inkay"
 	},
 	{
-		"Name": "malamar",
 		"id": 683,
 		"url": "/assets/images/malamar.png",
-		"Types": ["Dark", "Psychic"]
+		"types": ["Dark", "Psychic"],
+		"name": "malamar"
 	},
 	{
-		"Name": "binacle",
 		"id": 684,
 		"url": "/assets/images/binacle.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "binacle"
 	},
 	{
-		"Name": "barbaracle",
 		"id": 685,
 		"url": "/assets/images/barbaracle.png",
-		"Types": ["Rock", "Water"]
+		"types": ["Rock", "Water"],
+		"name": "barbaracle"
 	},
 	{
-		"Name": "skrelp",
 		"id": 686,
 		"url": "/assets/images/skrelp.png",
-		"Types": ["Poison", "Water"]
+		"types": ["Poison", "Water"],
+		"name": "skrelp"
 	},
 	{
-		"Name": "dragalge",
 		"id": 687,
 		"url": "/assets/images/dragalge.png",
-		"Types": ["Poison", "Dragon"]
+		"types": ["Poison", "Dragon"],
+		"name": "dragalge"
 	},
 	{
-		"Name": "clauncher",
 		"id": 688,
 		"url": "/assets/images/clauncher.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "clauncher"
 	},
 	{
-		"Name": "clawitzer",
 		"id": 689,
 		"url": "/assets/images/clawitzer.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "clawitzer"
 	},
 	{
-		"Name": "helioptile",
 		"id": 690,
 		"url": "/assets/images/helioptile.png",
-		"Types": ["Electric", "Normal"]
+		"types": ["Electric", "Normal"],
+		"name": "helioptile"
 	},
 	{
-		"Name": "heliolisk",
 		"id": 691,
 		"url": "/assets/images/heliolisk.png",
-		"Types": ["Electric", "Normal"]
+		"types": ["Electric", "Normal"],
+		"name": "heliolisk"
 	},
 	{
-		"Name": "tyrunt",
 		"id": 692,
 		"url": "/assets/images/tyrunt.png",
-		"Types": ["Rock", "Dragon"]
+		"types": ["Rock", "Dragon"],
+		"name": "tyrunt"
 	},
 	{
-		"Name": "tyrantrum",
 		"id": 693,
 		"url": "/assets/images/tyrantrum.png",
-		"Types": ["Rock", "Dragon"]
+		"types": ["Rock", "Dragon"],
+		"name": "tyrantrum"
 	},
 	{
-		"Name": "amaura",
 		"id": 694,
 		"url": "/assets/images/amaura.png",
-		"Types": ["Rock", "Ice"]
+		"types": ["Rock", "Ice"],
+		"name": "amaura"
 	},
 	{
-		"Name": "aurorus",
 		"id": 695,
 		"url": "/assets/images/aurorus.png",
-		"Types": ["Rock", "Ice"]
+		"types": ["Rock", "Ice"],
+		"name": "aurorus"
 	},
 	{
-		"Name": "sylveon",
 		"id": 696,
 		"url": "/assets/images/sylveon.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "sylveon"
 	},
 	{
-		"Name": "hawlucha",
 		"id": 697,
 		"url": "/assets/images/hawlucha.png",
-		"Types": ["Fighting", "Flying"]
+		"types": ["Fighting", "Flying"],
+		"name": "hawlucha"
 	},
 	{
-		"Name": "dedenne",
 		"id": 698,
 		"url": "/assets/images/dedenne.png",
-		"Types": ["Electric", "Fairy"]
+		"types": ["Electric", "Fairy"],
+		"name": "dedenne"
 	},
 	{
-		"Name": "carbink",
 		"id": 699,
 		"url": "/assets/images/carbink.png",
-		"Types": ["Rock", "Fairy"]
+		"types": ["Rock", "Fairy"],
+		"name": "carbink"
 	},
 	{
-		"Name": "goomy",
 		"id": 700,
 		"url": "/assets/images/goomy.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "goomy"
 	},
 	{
-		"Name": "sliggoo",
 		"id": 701,
 		"url": "/assets/images/sliggoo.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "sliggoo"
 	},
 	{
-		"Name": "goodra",
 		"id": 702,
 		"url": "/assets/images/goodra.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "goodra"
 	},
 	{
-		"Name": "klefki",
 		"id": 703,
 		"url": "/assets/images/klefki.png",
-		"Types": ["Steel", "Fairy"]
+		"types": ["Steel", "Fairy"],
+		"name": "klefki"
 	},
 	{
-		"Name": "phantump",
 		"id": 704,
 		"url": "/assets/images/phantump.png",
-		"Types": ["Ghost", "Grass"]
+		"types": ["Ghost", "Grass"],
+		"name": "phantump"
 	},
 	{
-		"Name": "trevenant",
 		"id": 705,
 		"url": "/assets/images/trevenant.png",
-		"Types": ["Ghost", "Grass"]
+		"types": ["Ghost", "Grass"],
+		"name": "trevenant"
 	},
 	{
-		"Name": "pumpkaboo-average",
 		"id": 706,
 		"url": "/assets/images/pumpkaboo-average.png",
-		"Types": ["Ghost", "Grass"]
+		"types": ["Ghost", "Grass"],
+		"name": "pumpkaboo-average"
 	},
 	{
-		"Name": "gourgeist-average",
 		"id": 707,
 		"url": "/assets/images/gourgeist-average.png",
-		"Types": ["Ghost", "Grass"]
+		"types": ["Ghost", "Grass"],
+		"name": "gourgeist-average"
 	},
 	{
-		"Name": "bergmite",
 		"id": 708,
 		"url": "/assets/images/bergmite.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "bergmite"
 	},
 	{
-		"Name": "avalugg",
 		"id": 709,
 		"url": "/assets/images/avalugg.png",
-		"Types": ["Ice", ""]
+		"types": ["Ice", ""],
+		"name": "avalugg"
 	},
 	{
-		"Name": "noibat",
 		"id": 710,
 		"url": "/assets/images/noibat.png",
-		"Types": ["Flying", "Dragon"]
+		"types": ["Flying", "Dragon"],
+		"name": "noibat"
 	},
 	{
-		"Name": "noivern",
 		"id": 711,
 		"url": "/assets/images/noivern.png",
-		"Types": ["Flying", "Dragon"]
+		"types": ["Flying", "Dragon"],
+		"name": "noivern"
 	},
 	{
-		"Name": "xerneas",
 		"id": 712,
 		"url": "/assets/images/xerneas.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "xerneas"
 	},
 	{
-		"Name": "yveltal",
 		"id": 713,
 		"url": "/assets/images/yveltal.png",
-		"Types": ["Dark", "Flying"]
+		"types": ["Dark", "Flying"],
+		"name": "yveltal"
 	},
 	{
-		"Name": "zygarde-50",
 		"id": 714,
 		"url": "/assets/images/zygarde-50.png",
-		"Types": ["Dragon", "Ground"]
+		"types": ["Dragon", "Ground"],
+		"name": "zygarde-50"
 	},
 	{
-		"Name": "diancie",
 		"id": 715,
 		"url": "/assets/images/diancie.png",
-		"Types": ["Rock", "Fairy"]
+		"types": ["Rock", "Fairy"],
+		"name": "diancie"
 	},
 	{
-		"Name": "hoopa-confined",
 		"id": 716,
 		"url": "/assets/images/hoopa-confined.png",
-		"Types": ["Psychic", "Ghost"]
+		"types": ["Psychic", "Ghost"],
+		"name": "hoopa-confined"
 	},
 	{
-		"Name": "volcanion",
 		"id": 717,
 		"url": "/assets/images/volcanion.png",
-		"Types": ["Fire", "Water"]
+		"types": ["Fire", "Water"],
+		"name": "volcanion"
 	},
 	{
-		"Name": "rowlet",
 		"id": 718,
 		"url": "/assets/images/rowlet.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "rowlet"
 	},
 	{
-		"Name": "dartrix",
 		"id": 719,
 		"url": "/assets/images/dartrix.png",
-		"Types": ["Grass", "Flying"]
+		"types": ["Grass", "Flying"],
+		"name": "dartrix"
 	},
 	{
-		"Name": "decidueye",
 		"id": 720,
 		"url": "/assets/images/decidueye.png",
-		"Types": ["Grass", "Ghost"]
+		"types": ["Grass", "Ghost"],
+		"name": "decidueye"
 	},
 	{
-		"Name": "litten",
 		"id": 721,
 		"url": "/assets/images/litten.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "litten"
 	},
 	{
-		"Name": "torracat",
 		"id": 722,
 		"url": "/assets/images/torracat.png",
-		"Types": ["Fire", ""]
+		"types": ["Fire", ""],
+		"name": "torracat"
 	},
 	{
-		"Name": "incineroar",
 		"id": 723,
 		"url": "/assets/images/incineroar.png",
-		"Types": ["Fire", "Dark"]
+		"types": ["Fire", "Dark"],
+		"name": "incineroar"
 	},
 	{
-		"Name": "popplio",
 		"id": 724,
 		"url": "/assets/images/popplio.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "popplio"
 	},
 	{
-		"Name": "brionne",
 		"id": 725,
 		"url": "/assets/images/brionne.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "brionne"
 	},
 	{
-		"Name": "primarina",
 		"id": 726,
 		"url": "/assets/images/primarina.png",
-		"Types": ["Water", "Fairy"]
+		"types": ["Water", "Fairy"],
+		"name": "primarina"
 	},
 	{
-		"Name": "pikipek",
 		"id": 727,
 		"url": "/assets/images/pikipek.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "pikipek"
 	},
 	{
-		"Name": "trumbeak",
 		"id": 728,
 		"url": "/assets/images/trumbeak.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "trumbeak"
 	},
 	{
-		"Name": "toucannon",
 		"id": 729,
 		"url": "/assets/images/toucannon.png",
-		"Types": ["Normal", "Flying"]
+		"types": ["Normal", "Flying"],
+		"name": "toucannon"
 	},
 	{
-		"Name": "yungoos",
 		"id": 730,
 		"url": "/assets/images/yungoos.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "yungoos"
 	},
 	{
-		"Name": "gumshoos",
 		"id": 731,
 		"url": "/assets/images/gumshoos.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "gumshoos"
 	},
 	{
-		"Name": "grubbin",
 		"id": 732,
 		"url": "/assets/images/grubbin.png",
-		"Types": ["Bug", ""]
+		"types": ["Bug", ""],
+		"name": "grubbin"
 	},
 	{
-		"Name": "charjabug",
 		"id": 733,
 		"url": "/assets/images/charjabug.png",
-		"Types": ["Bug", "Electric"]
+		"types": ["Bug", "Electric"],
+		"name": "charjabug"
 	},
 	{
-		"Name": "vikavolt",
 		"id": 734,
 		"url": "/assets/images/vikavolt.png",
-		"Types": ["Bug", "Electric"]
+		"types": ["Bug", "Electric"],
+		"name": "vikavolt"
 	},
 	{
-		"Name": "crabrawler",
 		"id": 735,
 		"url": "/assets/images/crabrawler.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "crabrawler"
 	},
 	{
-		"Name": "crabominable",
 		"id": 736,
 		"url": "/assets/images/crabominable.png",
-		"Types": ["Fighting", "Ice"]
+		"types": ["Fighting", "Ice"],
+		"name": "crabominable"
 	},
 	{
-		"Name": "oricorio-baile",
 		"id": 737,
 		"url": "/assets/images/oricorio-baile.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "oricorio-baile"
 	},
 	{
-		"Name": "cutiefly",
 		"id": 738,
 		"url": "/assets/images/cutiefly.png",
-		"Types": ["Bug", "Fairy"]
+		"types": ["Bug", "Fairy"],
+		"name": "cutiefly"
 	},
 	{
-		"Name": "ribombee",
 		"id": 739,
 		"url": "/assets/images/ribombee.png",
-		"Types": ["Bug", "Fairy"]
+		"types": ["Bug", "Fairy"],
+		"name": "ribombee"
 	},
 	{
-		"Name": "rockruff",
 		"id": 740,
 		"url": "/assets/images/rockruff.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "rockruff"
 	},
 	{
-		"Name": "lycanroc-midday",
 		"id": 741,
 		"url": "/assets/images/lycanroc-midday.png",
-		"Types": ["Rock", ""]
+		"types": ["Rock", ""],
+		"name": "lycanroc-midday"
 	},
 	{
-		"Name": "wishiwashi-solo",
 		"id": 742,
 		"url": "/assets/images/wishiwashi-solo.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "wishiwashi-solo"
 	},
 	{
-		"Name": "mareanie",
 		"id": 743,
 		"url": "/assets/images/mareanie.png",
-		"Types": ["Poison", "Water"]
+		"types": ["Poison", "Water"],
+		"name": "mareanie"
 	},
 	{
-		"Name": "toxapex",
 		"id": 744,
 		"url": "/assets/images/toxapex.png",
-		"Types": ["Poison", "Water"]
+		"types": ["Poison", "Water"],
+		"name": "toxapex"
 	},
 	{
-		"Name": "mudbray",
 		"id": 745,
 		"url": "/assets/images/mudbray.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "mudbray"
 	},
 	{
-		"Name": "mudsdale",
 		"id": 746,
 		"url": "/assets/images/mudsdale.png",
-		"Types": ["Ground", ""]
+		"types": ["Ground", ""],
+		"name": "mudsdale"
 	},
 	{
-		"Name": "dewpider",
 		"id": 747,
 		"url": "/assets/images/dewpider.png",
-		"Types": ["Water", "Bug"]
+		"types": ["Water", "Bug"],
+		"name": "dewpider"
 	},
 	{
-		"Name": "araquanid",
 		"id": 748,
 		"url": "/assets/images/araquanid.png",
-		"Types": ["Water", "Bug"]
+		"types": ["Water", "Bug"],
+		"name": "araquanid"
 	},
 	{
-		"Name": "fomantis",
 		"id": 749,
 		"url": "/assets/images/fomantis.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "fomantis"
 	},
 	{
-		"Name": "lurantis",
 		"id": 750,
 		"url": "/assets/images/lurantis.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "lurantis"
 	},
 	{
-		"Name": "morelull",
 		"id": 751,
 		"url": "/assets/images/morelull.png",
-		"Types": ["Grass", "Fairy"]
+		"types": ["Grass", "Fairy"],
+		"name": "morelull"
 	},
 	{
-		"Name": "shiinotic",
 		"id": 752,
 		"url": "/assets/images/shiinotic.png",
-		"Types": ["Grass", "Fairy"]
+		"types": ["Grass", "Fairy"],
+		"name": "shiinotic"
 	},
 	{
-		"Name": "salandit",
 		"id": 753,
 		"url": "/assets/images/salandit.png",
-		"Types": ["Poison", "Fire"]
+		"types": ["Poison", "Fire"],
+		"name": "salandit"
 	},
 	{
-		"Name": "salazzle",
 		"id": 754,
 		"url": "/assets/images/salazzle.png",
-		"Types": ["Poison", "Fire"]
+		"types": ["Poison", "Fire"],
+		"name": "salazzle"
 	},
 	{
-		"Name": "stufful",
 		"id": 755,
 		"url": "/assets/images/stufful.png",
-		"Types": ["Normal", "Fighting"]
+		"types": ["Normal", "Fighting"],
+		"name": "stufful"
 	},
 	{
-		"Name": "bewear",
 		"id": 756,
 		"url": "/assets/images/bewear.png",
-		"Types": ["Normal", "Fighting"]
+		"types": ["Normal", "Fighting"],
+		"name": "bewear"
 	},
 	{
-		"Name": "bounsweet",
 		"id": 757,
 		"url": "/assets/images/bounsweet.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "bounsweet"
 	},
 	{
-		"Name": "steenee",
 		"id": 758,
 		"url": "/assets/images/steenee.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "steenee"
 	},
 	{
-		"Name": "tsareena",
 		"id": 759,
 		"url": "/assets/images/tsareena.png",
-		"Types": ["Grass", ""]
+		"types": ["Grass", ""],
+		"name": "tsareena"
 	},
 	{
-		"Name": "comfey",
 		"id": 760,
 		"url": "/assets/images/comfey.png",
-		"Types": ["Fairy", ""]
+		"types": ["Fairy", ""],
+		"name": "comfey"
 	},
 	{
-		"Name": "oranguru",
 		"id": 761,
 		"url": "/assets/images/oranguru.png",
-		"Types": ["Normal", "Psychic"]
+		"types": ["Normal", "Psychic"],
+		"name": "oranguru"
 	},
 	{
-		"Name": "passimian",
 		"id": 762,
 		"url": "/assets/images/passimian.png",
-		"Types": ["Fighting", ""]
+		"types": ["Fighting", ""],
+		"name": "passimian"
 	},
 	{
-		"Name": "wimpod",
 		"id": 763,
 		"url": "/assets/images/wimpod.png",
-		"Types": ["Bug", "Water"]
+		"types": ["Bug", "Water"],
+		"name": "wimpod"
 	},
 	{
-		"Name": "golisopod",
 		"id": 764,
 		"url": "/assets/images/golisopod.png",
-		"Types": ["Bug", "Water"]
+		"types": ["Bug", "Water"],
+		"name": "golisopod"
 	},
 	{
-		"Name": "sandygast",
 		"id": 765,
 		"url": "/assets/images/sandygast.png",
-		"Types": ["Ghost", "Ground"]
+		"types": ["Ghost", "Ground"],
+		"name": "sandygast"
 	},
 	{
-		"Name": "palossand",
 		"id": 766,
 		"url": "/assets/images/palossand.png",
-		"Types": ["Ghost", "Ground"]
+		"types": ["Ghost", "Ground"],
+		"name": "palossand"
 	},
 	{
-		"Name": "pyukumuku",
 		"id": 767,
 		"url": "/assets/images/pyukumuku.png",
-		"Types": ["Water", ""]
+		"types": ["Water", ""],
+		"name": "pyukumuku"
 	},
 	{
-		"Name": "type-null",
 		"id": 768,
 		"url": "/assets/images/type-null.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "type-null"
 	},
 	{
-		"Name": "silvally",
 		"id": 769,
 		"url": "/assets/images/silvally.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "silvally"
 	},
 	{
-		"Name": "minior-meteor",
 		"id": 770,
 		"url": "/assets/images/minior-meteor.png",
-		"Types": ["Rock", "Flying"]
+		"types": ["Rock", "Flying"],
+		"name": "minior-meteor"
 	},
 	{
-		"Name": "komala",
 		"id": 771,
 		"url": "/assets/images/komala.png",
-		"Types": ["Normal", ""]
+		"types": ["Normal", ""],
+		"name": "komala"
 	},
 	{
-		"Name": "turtonator",
 		"id": 772,
 		"url": "/assets/images/turtonator.png",
-		"Types": ["Fire", "Dragon"]
+		"types": ["Fire", "Dragon"],
+		"name": "turtonator"
 	},
 	{
-		"Name": "togedemaru",
 		"id": 773,
 		"url": "/assets/images/togedemaru.png",
-		"Types": ["Electric", "Steel"]
+		"types": ["Electric", "Steel"],
+		"name": "togedemaru"
 	},
 	{
-		"Name": "mimikyu",
 		"id": 774,
 		"url": "/assets/images/mimikyu.png",
-		"Types": ["Ghost", "Fairy"]
+		"types": ["Ghost", "Fairy"],
+		"name": "mimikyu"
 	},
 	{
-		"Name": "bruxish",
 		"id": 775,
 		"url": "/assets/images/bruxish.png",
-		"Types": ["Water", "Psychic"]
+		"types": ["Water", "Psychic"],
+		"name": "bruxish"
 	},
 	{
-		"Name": "drampa",
 		"id": 776,
 		"url": "/assets/images/drampa.png",
-		"Types": ["Normal", "Dragon"]
+		"types": ["Normal", "Dragon"],
+		"name": "drampa"
 	},
 	{
-		"Name": "dhelmise",
 		"id": 777,
 		"url": "/assets/images/dhelmise.png",
-		"Types": ["Ghost", "Grass"]
+		"types": ["Ghost", "Grass"],
+		"name": "dhelmise"
 	},
 	{
-		"Name": "jangmo-o",
 		"id": 778,
 		"url": "/assets/images/jangmo-o.png",
-		"Types": ["Dragon", ""]
+		"types": ["Dragon", ""],
+		"name": "jangmo-o"
 	},
 	{
-		"Name": "hakamo-o",
 		"id": 779,
 		"url": "/assets/images/hakamo-o.png",
-		"Types": ["Dragon", "Fighting"]
+		"types": ["Dragon", "Fighting"],
+		"name": "hakamo-o"
 	},
 	{
-		"Name": "kommo-o",
 		"id": 780,
 		"url": "/assets/images/kommo-o.png",
-		"Types": ["Dragon", "Fighting"]
+		"types": ["Dragon", "Fighting"],
+		"name": "kommo-o"
 	},
 	{
-		"Name": "tapu-koko",
 		"id": 781,
 		"url": "/assets/images/tapu-koko.png",
-		"Types": ["Electric", "Fairy"]
+		"types": ["Electric", "Fairy"],
+		"name": "tapu-koko"
 	},
 	{
-		"Name": "tapu-lele",
 		"id": 782,
 		"url": "/assets/images/tapu-lele.png",
-		"Types": ["Psychic", "Fairy"]
+		"types": ["Psychic", "Fairy"],
+		"name": "tapu-lele"
 	},
 	{
-		"Name": "tapu-bulu",
 		"id": 783,
 		"url": "/assets/images/tapu-bulu.png",
-		"Types": ["Grass", "Fairy"]
+		"types": ["Grass", "Fairy"],
+		"name": "tapu-bulu"
 	},
 	{
-		"Name": "tapu-fini",
 		"id": 784,
 		"url": "/assets/images/tapu-fini.png",
-		"Types": ["Water", "Fairy"]
+		"types": ["Water", "Fairy"],
+		"name": "tapu-fini"
 	},
 	{
-		"Name": "cosmog",
 		"id": 785,
 		"url": "/assets/images/cosmog.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "cosmog"
 	},
 	{
-		"Name": "cosmoem",
 		"id": 786,
 		"url": "/assets/images/cosmoem.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "cosmoem"
 	},
 	{
-		"Name": "solgaleo",
 		"id": 787,
 		"url": "/assets/images/solgaleo.png",
-		"Types": ["Psychic", "Steel"]
+		"types": ["Psychic", "Steel"],
+		"name": "solgaleo"
 	},
 	{
-		"Name": "lunala",
 		"id": 788,
 		"url": "/assets/images/lunala.png",
-		"Types": ["Psychic", "Ghost"]
+		"types": ["Psychic", "Ghost"],
+		"name": "lunala"
 	},
 	{
-		"Name": "nihilego",
 		"id": 789,
 		"url": "/assets/images/nihilego.png",
-		"Types": ["Rock", "Poison"]
+		"types": ["Rock", "Poison"],
+		"name": "nihilego"
 	},
 	{
-		"Name": "buzzwole",
 		"id": 790,
 		"url": "/assets/images/buzzwole.png",
-		"Types": ["Bug", "Fighting"]
+		"types": ["Bug", "Fighting"],
+		"name": "buzzwole"
 	},
 	{
-		"Name": "pheromosa",
 		"id": 791,
 		"url": "/assets/images/pheromosa.png",
-		"Types": ["Bug", "Fighting"]
+		"types": ["Bug", "Fighting"],
+		"name": "pheromosa"
 	},
 	{
-		"Name": "xurkitree",
 		"id": 792,
 		"url": "/assets/images/xurkitree.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "xurkitree"
 	},
 	{
-		"Name": "celesteela",
 		"id": 793,
 		"url": "/assets/images/celesteela.png",
-		"Types": ["Steel", "Flying"]
+		"types": ["Steel", "Flying"],
+		"name": "celesteela"
 	},
 	{
-		"Name": "kartana",
 		"id": 794,
 		"url": "/assets/images/kartana.png",
-		"Types": ["Grass", "Steel"]
+		"types": ["Grass", "Steel"],
+		"name": "kartana"
 	},
 	{
-		"Name": "guzzlord",
 		"id": 795,
 		"url": "/assets/images/guzzlord.png",
-		"Types": ["Dark", "Dragon"]
+		"types": ["Dark", "Dragon"],
+		"name": "guzzlord"
 	},
 	{
-		"Name": "necrozma",
 		"id": 796,
 		"url": "/assets/images/necrozma.png",
-		"Types": ["Psychic", ""]
+		"types": ["Psychic", ""],
+		"name": "necrozma"
 	},
 	{
-		"Name": "magearna",
 		"id": 797,
 		"url": "/assets/images/magearna.png",
-		"Types": ["Steel", "Fairy"]
+		"types": ["Steel", "Fairy"],
+		"name": "magearna"
 	},
 	{
-		"Name": "marshadow",
 		"id": 798,
 		"url": "/assets/images/marshadow.png",
-		"Types": ["Fighting", "Ghost"]
+		"types": ["Fighting", "Ghost"],
+		"name": "marshadow"
 	},
 	{
-		"Name": "poipole",
 		"id": 799,
 		"url": "/assets/images/poipole.png",
-		"Types": ["Poison", ""]
+		"types": ["Poison", ""],
+		"name": "poipole"
 	},
 	{
-		"Name": "naganadel",
 		"id": 800,
 		"url": "/assets/images/naganadel.png",
-		"Types": ["Poison", "Dragon"]
+		"types": ["Poison", "Dragon"],
+		"name": "naganadel"
 	},
 	{
-		"Name": "stakataka",
 		"id": 801,
 		"url": "/assets/images/stakataka.png",
-		"Types": ["Rock", "Steel"]
+		"types": ["Rock", "Steel"],
+		"name": "stakataka"
 	},
 	{
-		"Name": "blacephalon",
 		"id": 802,
 		"url": "/assets/images/blacephalon.png",
-		"Types": ["Fire", "Ghost"]
+		"types": ["Fire", "Ghost"],
+		"name": "blacephalon"
 	},
 	{
-		"Name": "zeraora",
 		"id": 803,
 		"url": "/assets/images/zeraora.png",
-		"Types": ["Electric", ""]
+		"types": ["Electric", ""],
+		"name": "zeraora"
 	},
 	{
-		"Name": "meltan",
 		"id": 804,
 		"url": "/assets/images/meltan.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "meltan"
 	},
 	{
-		"Name": "melmetal",
 		"id": 805,
 		"url": "/assets/images/melmetal.png",
-		"Types": ["Steel", ""]
+		"types": ["Steel", ""],
+		"name": "melmetal"
 	},
 	{
-		"Name": "Tuan Hoang",
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
 		"id": 806,
 		"url": "/assets/images/Tuan Hoang.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "Tuan Hoang"
 	},
 	{
-		"Name": "Tuan",
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
 		"id": 807,
 		"url": "/assets/images/Tuan.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "Tuan"
 	},
 	{
-		"Name": "Tuan1",
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
 		"id": 808,
 		"url": "/assets/images/Tuan1.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "Tuan1"
 	},
 	{
-		"Name": "Vu",
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
 		"id": 809,
 		"url": "/assets/images/Vu.png",
-		"Types": ["Fire", "Flying"]
+		"types": ["Fire", "Flying"],
+		"name": "Vu"
 	},
 	{
-		"Name": "ABC",
-		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
-		"Types": ["Fire", "Flying"],
 		"id": 810,
-		"url": "/assets/images/ABC.png"
+		"url": "/assets/images/ABC.png",
+		"types": ["Fire", "Flying"],
+		"name": "ABC"
+	},
+	{
+		"name": "abfd",
+		"url": "/assets/images/abfd.png",
+		"types": ["Fire", "Flying"],
+		"id": 811
 	}
 ]

@@ -34,12 +34,12 @@ router.get("/", (req, res, next) => {
 				result = result.length
 					? result.filter(
 							(pokemon) =>
-								pokemon.Types[condition === "Type1" ? 0 : 1] ===
+								pokemon.types[condition === "Type1" ? 0 : 1] ===
 								filterQuery[condition]
 					  )
 					: pokemons.filter(
 							(pokemon) =>
-								pokemon.Types[condition === "Type1" ? 0 : 1] ===
+								pokemon.types[condition === "Type1" ? 0 : 1] ===
 								filterQuery[condition]
 					  )
 			})
@@ -49,13 +49,7 @@ router.get("/", (req, res, next) => {
 
 		//then select number of result by offset
 		result = result.slice(offset, offset + limit)
-		result = result.map((res) => {
-			res.name = res.Name
-			res.types = res.Types
-			delete res.Name
-			delete res.Types
-			return res
-		})
+
 		//send response
 		res.status(200).send(result)
 	} catch (error) {
@@ -90,9 +84,9 @@ router.get("/:id", (req, res) => {
 	const nextPokemon = getPokemonById(nextPokemonId)
 
 	const response = {
-		current: pokemon,
-		previous: previousPokemon,
-		next: nextPokemon,
+		pokemon,
+		previousPokemon: previousPokemon,
+		nextPokemon: nextPokemon,
 	}
 
 	res.status(200).json(response)
@@ -100,38 +94,38 @@ router.get("/:id", (req, res) => {
 
 router.post("/", (req, res, next) => {
 	try {
-		const { Name, imageURL, Type1, Type2 } = req.body
+		const { name, url, types } = req.body
 
 		let db = fs.readFileSync("db.json", "utf-8")
 		const pokemons = JSON.parse(db)
 
 		//Missing required data
-		if (!Name || !imageURL || !Type1) {
+		if (!name || !url || !types) {
 			const exception = new Error(`Missing required data. `)
 			exception.statusCode = 401
 			throw exception
 		}
 		// name existed
-		const existed = pokemons.some((p) => p.Name === Name)
+		const existed = pokemons.some((p) => p.name === name)
 
 		if (existed) {
-			const exception = new Error(`Pokemon ${Name} is already existed`)
+			const exception = new Error(`Pokemon ${name} is already existed`)
 			exception.statusCode = 401
 			throw exception
 		}
 
-		//Type is invalid
-		if (!allowedTypes.includes(Type1) || !allowedTypes.includes(Type2)) {
-			const exception = new Error(`Pokémon's type is invalid.`)
-			exception.statusCode = 401
-			throw exception
-		}
+		// //Type is invalid
+		// if (!allowedTypes.includes(types[0]) || !allowedTypes.includes(types[1])) {
+		// 	const exception = new Error(`Pokémon's type is invalid.`)
+		// 	exception.statusCode = 401
+		// 	throw exception
+		// }
 
 		// process input
 		const newPokemon = {
-			Name,
-			imageURL,
-			Types: [Type1, Type2],
+			name,
+			url,
+			types,
 		}
 		//Read data from db.json then parse to JSobject
 
