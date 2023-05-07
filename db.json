@@ -1,1 +1,4868 @@
-[{"Name":"Tuan","Type1":"Fire","Type2":"Flying","id":2,"imageURL":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n","url":"http://localhost:5000/images/Tuan.png"},{"Name":"charizard","Type1":"Fire","Type2":"Flying","id":3,"url":"http://localhost:5000/images/charizard.png"},{"Name":"squirtle","Type1":"Water","Type2":"","id":4,"url":"http://localhost:5000/images/squirtle.png"},{"Name":"wartortle","Type1":"Water","Type2":"","id":5,"url":"http://localhost:5000/images/wartortle.png"},{"Name":"blastoise","Type1":"Water","Type2":"","id":6,"url":"http://localhost:5000/images/blastoise.png"},{"Name":"caterpie","Type1":"Bug","Type2":"","id":7,"url":"http://localhost:5000/images/caterpie.png"},{"Name":"metapod","Type1":"Bug","Type2":"","id":8,"url":"http://localhost:5000/images/metapod.png"},{"Name":"butterfree","Type1":"Bug","Type2":"Flying","id":9,"url":"http://localhost:5000/images/butterfree.png"},{"Name":"weedle","Type1":"Bug","Type2":"Poison","id":10,"url":"http://localhost:5000/images/weedle.png"},{"Name":"kakuna","Type1":"Bug","Type2":"Poison","id":11,"url":"http://localhost:5000/images/kakuna.png"},{"Name":"beedrill","Type1":"Bug","Type2":"Poison","id":12,"url":"http://localhost:5000/images/beedrill.png"},{"Name":"pidgey","Type1":"Normal","Type2":"Flying","id":13,"url":"http://localhost:5000/images/pidgey.png"},{"Name":"pidgeotto","Type1":"Normal","Type2":"Flying","id":14,"url":"http://localhost:5000/images/pidgeotto.png"},{"Name":"pidgeot","Type1":"Normal","Type2":"Flying","id":15,"url":"http://localhost:5000/images/pidgeot.png"},{"Name":"rattata","Type1":"Normal","Type2":"","id":16,"url":"http://localhost:5000/images/rattata.png"},{"Name":"raticate","Type1":"Normal","Type2":"","id":17,"url":"http://localhost:5000/images/raticate.png"},{"Name":"spearow","Type1":"Normal","Type2":"Flying","id":18,"url":"http://localhost:5000/images/spearow.png"},{"Name":"fearow","Type1":"Normal","Type2":"Flying","id":19,"url":"http://localhost:5000/images/fearow.png"},{"Name":"ekans","Type1":"Poison","Type2":"","id":20,"url":"http://localhost:5000/images/ekans.png"},{"Name":"arbok","Type1":"Poison","Type2":"","id":21,"url":"http://localhost:5000/images/arbok.png"},{"Name":"pikachu","Type1":"Electric","Type2":"","id":22,"url":"http://localhost:5000/images/pikachu.png"},{"Name":"raichu","Type1":"Electric","Type2":"","id":23,"url":"http://localhost:5000/images/raichu.png"},{"Name":"sandshrew","Type1":"Ground","Type2":"","id":24,"url":"http://localhost:5000/images/sandshrew.png"},{"Name":"sandslash","Type1":"Ground","Type2":"","id":25,"url":"http://localhost:5000/images/sandslash.png"},{"Name":"nidoran-f","Type1":"Poison","Type2":"","id":26,"url":"http://localhost:5000/images/nidoran-f.png"},{"Name":"nidorina","Type1":"Poison","Type2":"","id":27,"url":"http://localhost:5000/images/nidorina.png"},{"Name":"nidoqueen","Type1":"Poison","Type2":"Ground","id":28,"url":"http://localhost:5000/images/nidoqueen.png"},{"Name":"nidoran-m","Type1":"Poison","Type2":"","id":29,"url":"http://localhost:5000/images/nidoran-m.png"},{"Name":"nidorino","Type1":"Poison","Type2":"","id":30,"url":"http://localhost:5000/images/nidorino.png"},{"Name":"nidoking","Type1":"Poison","Type2":"Ground","id":31,"url":"http://localhost:5000/images/nidoking.png"},{"Name":"clefairy","Type1":"Fairy","Type2":"","id":32,"url":"http://localhost:5000/images/clefairy.png"},{"Name":"clefable","Type1":"Fairy","Type2":"","id":33,"url":"http://localhost:5000/images/clefable.png"},{"Name":"vulpix","Type1":"Fire","Type2":"","id":34,"url":"http://localhost:5000/images/vulpix.png"},{"Name":"ninetales","Type1":"Fire","Type2":"","id":35,"url":"http://localhost:5000/images/ninetales.png"},{"Name":"jigglypuff","Type1":"Normal","Type2":"Fairy","id":36,"url":"http://localhost:5000/images/jigglypuff.png"},{"Name":"wigglytuff","Type1":"Normal","Type2":"Fairy","id":37,"url":"http://localhost:5000/images/wigglytuff.png"},{"Name":"zubat","Type1":"Poison","Type2":"Flying","id":38,"url":"http://localhost:5000/images/zubat.png"},{"Name":"golbat","Type1":"Poison","Type2":"Flying","id":39,"url":"http://localhost:5000/images/golbat.png"},{"Name":"oddish","Type1":"Grass","Type2":"Poison","id":40,"url":"http://localhost:5000/images/oddish.png"},{"Name":"gloom","Type1":"Grass","Type2":"Poison","id":41,"url":"http://localhost:5000/images/gloom.png"},{"Name":"vileplume","Type1":"Grass","Type2":"Poison","id":42,"url":"http://localhost:5000/images/vileplume.png"},{"Name":"paras","Type1":"Bug","Type2":"Grass","id":43,"url":"http://localhost:5000/images/paras.png"},{"Name":"parasect","Type1":"Bug","Type2":"Grass","id":44,"url":"http://localhost:5000/images/parasect.png"},{"Name":"venonat","Type1":"Bug","Type2":"Poison","id":45,"url":"http://localhost:5000/images/venonat.png"},{"Name":"venomoth","Type1":"Bug","Type2":"Poison","id":46,"url":"http://localhost:5000/images/venomoth.png"},{"Name":"diglett","Type1":"Ground","Type2":"","id":47,"url":"http://localhost:5000/images/diglett.png"},{"Name":"dugtrio","Type1":"Ground","Type2":"","id":48,"url":"http://localhost:5000/images/dugtrio.png"},{"Name":"meowth","Type1":"Normal","Type2":"","id":49,"url":"http://localhost:5000/images/meowth.png"},{"Name":"persian","Type1":"Normal","Type2":"","id":50,"url":"http://localhost:5000/images/persian.png"},{"Name":"psyduck","Type1":"Water","Type2":"","id":51,"url":"http://localhost:5000/images/psyduck.png"},{"Name":"golduck","Type1":"Water","Type2":"","id":52,"url":"http://localhost:5000/images/golduck.png"},{"Name":"mankey","Type1":"Fighting","Type2":"","id":53,"url":"http://localhost:5000/images/mankey.png"},{"Name":"primeape","Type1":"Fighting","Type2":"","id":54,"url":"http://localhost:5000/images/primeape.png"},{"Name":"growlithe","Type1":"Fire","Type2":"","id":55,"url":"http://localhost:5000/images/growlithe.png"},{"Name":"arcanine","Type1":"Fire","Type2":"","id":56,"url":"http://localhost:5000/images/arcanine.png"},{"Name":"poliwag","Type1":"Water","Type2":"","id":57,"url":"http://localhost:5000/images/poliwag.png"},{"Name":"poliwhirl","Type1":"Water","Type2":"","id":58,"url":"http://localhost:5000/images/poliwhirl.png"},{"Name":"poliwrath","Type1":"Water","Type2":"Fighting","id":59,"url":"http://localhost:5000/images/poliwrath.png"},{"Name":"abra","Type1":"Psychic","Type2":"","id":60,"url":"http://localhost:5000/images/abra.png"},{"Name":"kadabra","Type1":"Psychic","Type2":"","id":61,"url":"http://localhost:5000/images/kadabra.png"},{"Name":"alakazam","Type1":"Psychic","Type2":"","id":62,"url":"http://localhost:5000/images/alakazam.png"},{"Name":"machop","Type1":"Fighting","Type2":"","id":63,"url":"http://localhost:5000/images/machop.png"},{"Name":"machoke","Type1":"Fighting","Type2":"","id":64,"url":"http://localhost:5000/images/machoke.png"},{"Name":"machamp","Type1":"Fighting","Type2":"","id":65,"url":"http://localhost:5000/images/machamp.png"},{"Name":"bellsprout","Type1":"Grass","Type2":"Poison","id":66,"url":"http://localhost:5000/images/bellsprout.png"},{"Name":"weepinbell","Type1":"Grass","Type2":"Poison","id":67,"url":"http://localhost:5000/images/weepinbell.png"},{"Name":"victreebel","Type1":"Grass","Type2":"Poison","id":68,"url":"http://localhost:5000/images/victreebel.png"},{"Name":"tentacool","Type1":"Water","Type2":"Poison","id":69,"url":"http://localhost:5000/images/tentacool.png"},{"Name":"tentacruel","Type1":"Water","Type2":"Poison","id":70,"url":"http://localhost:5000/images/tentacruel.png"},{"Name":"geodude","Type1":"Rock","Type2":"Ground","id":71,"url":"http://localhost:5000/images/geodude.png"},{"Name":"graveler","Type1":"Rock","Type2":"Ground","id":72,"url":"http://localhost:5000/images/graveler.png"},{"Name":"golem","Type1":"Rock","Type2":"Ground","id":73,"url":"http://localhost:5000/images/golem.png"},{"Name":"ponyta","Type1":"Fire","Type2":"","id":74,"url":"http://localhost:5000/images/ponyta.png"},{"Name":"rapidash","Type1":"Fire","Type2":"","id":75,"url":"http://localhost:5000/images/rapidash.png"},{"Name":"slowpoke","Type1":"Water","Type2":"Psychic","id":76,"url":"http://localhost:5000/images/slowpoke.png"},{"Name":"slowbro","Type1":"Water","Type2":"Psychic","id":77,"url":"http://localhost:5000/images/slowbro.png"},{"Name":"magnemite","Type1":"Electric","Type2":"Steel","id":78,"url":"http://localhost:5000/images/magnemite.png"},{"Name":"magneton","Type1":"Electric","Type2":"Steel","id":79,"url":"http://localhost:5000/images/magneton.png"},{"Name":"farfetchd","Type1":"Normal","Type2":"Flying","id":80,"url":"http://localhost:5000/images/farfetchd.png"},{"Name":"doduo","Type1":"Normal","Type2":"Flying","id":81,"url":"http://localhost:5000/images/doduo.png"},{"Name":"dodrio","Type1":"Normal","Type2":"Flying","id":82,"url":"http://localhost:5000/images/dodrio.png"},{"Name":"seel","Type1":"Water","Type2":"","id":83,"url":"http://localhost:5000/images/seel.png"},{"Name":"dewgong","Type1":"Water","Type2":"Ice","id":84,"url":"http://localhost:5000/images/dewgong.png"},{"Name":"grimer","Type1":"Poison","Type2":"","id":85,"url":"http://localhost:5000/images/grimer.png"},{"Name":"muk","Type1":"Poison","Type2":"","id":86,"url":"http://localhost:5000/images/muk.png"},{"Name":"shellder","Type1":"Water","Type2":"","id":87,"url":"http://localhost:5000/images/shellder.png"},{"Name":"cloyster","Type1":"Water","Type2":"Ice","id":88,"url":"http://localhost:5000/images/cloyster.png"},{"Name":"gastly","Type1":"Ghost","Type2":"Poison","id":89,"url":"http://localhost:5000/images/gastly.png"},{"Name":"haunter","Type1":"Ghost","Type2":"Poison","id":90,"url":"http://localhost:5000/images/haunter.png"},{"Name":"gengar","Type1":"Ghost","Type2":"Poison","id":91,"url":"http://localhost:5000/images/gengar.png"},{"Name":"onix","Type1":"Rock","Type2":"Ground","id":92,"url":"http://localhost:5000/images/onix.png"},{"Name":"drowzee","Type1":"Psychic","Type2":"","id":93,"url":"http://localhost:5000/images/drowzee.png"},{"Name":"hypno","Type1":"Psychic","Type2":"","id":94,"url":"http://localhost:5000/images/hypno.png"},{"Name":"krabby","Type1":"Water","Type2":"","id":95,"url":"http://localhost:5000/images/krabby.png"},{"Name":"kingler","Type1":"Water","Type2":"","id":96,"url":"http://localhost:5000/images/kingler.png"},{"Name":"voltorb","Type1":"Electric","Type2":"","id":97,"url":"http://localhost:5000/images/voltorb.png"},{"Name":"electrode","Type1":"Electric","Type2":"","id":98,"url":"http://localhost:5000/images/electrode.png"},{"Name":"exeggcute","Type1":"Grass","Type2":"Psychic","id":99,"url":"http://localhost:5000/images/exeggcute.png"},{"Name":"exeggutor","Type1":"Grass","Type2":"Psychic","id":100,"url":"http://localhost:5000/images/exeggutor.png"},{"Name":"cubone","Type1":"Ground","Type2":"","id":101,"url":"http://localhost:5000/images/cubone.png"},{"Name":"marowak","Type1":"Ground","Type2":"","id":102,"url":"http://localhost:5000/images/marowak.png"},{"Name":"hitmonlee","Type1":"Fighting","Type2":"","id":103,"url":"http://localhost:5000/images/hitmonlee.png"},{"Name":"hitmonchan","Type1":"Fighting","Type2":"","id":104,"url":"http://localhost:5000/images/hitmonchan.png"},{"Name":"lickitung","Type1":"Normal","Type2":"","id":105,"url":"http://localhost:5000/images/lickitung.png"},{"Name":"koffing","Type1":"Poison","Type2":"","id":106,"url":"http://localhost:5000/images/koffing.png"},{"Name":"weezing","Type1":"Poison","Type2":"","id":107,"url":"http://localhost:5000/images/weezing.png"},{"Name":"rhyhorn","Type1":"Ground","Type2":"Rock","id":108,"url":"http://localhost:5000/images/rhyhorn.png"},{"Name":"rhydon","Type1":"Ground","Type2":"Rock","id":109,"url":"http://localhost:5000/images/rhydon.png"},{"Name":"chansey","Type1":"Normal","Type2":"","id":110,"url":"http://localhost:5000/images/chansey.png"},{"Name":"tangela","Type1":"Grass","Type2":"","id":111,"url":"http://localhost:5000/images/tangela.png"},{"Name":"kangaskhan","Type1":"Normal","Type2":"","id":112,"url":"http://localhost:5000/images/kangaskhan.png"},{"Name":"horsea","Type1":"Water","Type2":"","id":113,"url":"http://localhost:5000/images/horsea.png"},{"Name":"seadra","Type1":"Water","Type2":"","id":114,"url":"http://localhost:5000/images/seadra.png"},{"Name":"goldeen","Type1":"Water","Type2":"","id":115,"url":"http://localhost:5000/images/goldeen.png"},{"Name":"seaking","Type1":"Water","Type2":"","id":116,"url":"http://localhost:5000/images/seaking.png"},{"Name":"staryu","Type1":"Water","Type2":"","id":117,"url":"http://localhost:5000/images/staryu.png"},{"Name":"starmie","Type1":"Water","Type2":"Psychic","id":118,"url":"http://localhost:5000/images/starmie.png"},{"Name":"mr-mime","Type1":"Psychic","Type2":"Fairy","id":119,"url":"http://localhost:5000/images/mr-mime.png"},{"Name":"scyther","Type1":"Bug","Type2":"Flying","id":120,"url":"http://localhost:5000/images/scyther.png"},{"Name":"jynx","Type1":"Ice","Type2":"Psychic","id":121,"url":"http://localhost:5000/images/jynx.png"},{"Name":"electabuzz","Type1":"Electric","Type2":"","id":122,"url":"http://localhost:5000/images/electabuzz.png"},{"Name":"magmar","Type1":"Fire","Type2":"","id":123,"url":"http://localhost:5000/images/magmar.png"},{"Name":"pinsir","Type1":"Bug","Type2":"","id":124,"url":"http://localhost:5000/images/pinsir.png"},{"Name":"tauros","Type1":"Normal","Type2":"","id":125,"url":"http://localhost:5000/images/tauros.png"},{"Name":"magikarp","Type1":"Water","Type2":"","id":126,"url":"http://localhost:5000/images/magikarp.png"},{"Name":"gyarados","Type1":"Water","Type2":"Flying","id":127,"url":"http://localhost:5000/images/gyarados.png"},{"Name":"lapras","Type1":"Water","Type2":"Ice","id":128,"url":"http://localhost:5000/images/lapras.png"},{"Name":"ditto","Type1":"Normal","Type2":"","id":129,"url":"http://localhost:5000/images/ditto.png"},{"Name":"eevee","Type1":"Normal","Type2":"","id":130,"url":"http://localhost:5000/images/eevee.png"},{"Name":"vaporeon","Type1":"Water","Type2":"","id":131,"url":"http://localhost:5000/images/vaporeon.png"},{"Name":"jolteon","Type1":"Electric","Type2":"","id":132,"url":"http://localhost:5000/images/jolteon.png"},{"Name":"flareon","Type1":"Fire","Type2":"","id":133,"url":"http://localhost:5000/images/flareon.png"},{"Name":"porygon","Type1":"Normal","Type2":"","id":134,"url":"http://localhost:5000/images/porygon.png"},{"Name":"omanyte","Type1":"Rock","Type2":"Water","id":135,"url":"http://localhost:5000/images/omanyte.png"},{"Name":"omastar","Type1":"Rock","Type2":"Water","id":136,"url":"http://localhost:5000/images/omastar.png"},{"Name":"kabuto","Type1":"Rock","Type2":"Water","id":137,"url":"http://localhost:5000/images/kabuto.png"},{"Name":"kabutops","Type1":"Rock","Type2":"Water","id":138,"url":"http://localhost:5000/images/kabutops.png"},{"Name":"aerodactyl","Type1":"Rock","Type2":"Flying","id":139,"url":"http://localhost:5000/images/aerodactyl.png"},{"Name":"snorlax","Type1":"Normal","Type2":"","id":140,"url":"http://localhost:5000/images/snorlax.png"},{"Name":"articuno","Type1":"Ice","Type2":"Flying","id":141,"url":"http://localhost:5000/images/articuno.png"},{"Name":"zapdos","Type1":"Electric","Type2":"Flying","id":142,"url":"http://localhost:5000/images/zapdos.png"},{"Name":"moltres","Type1":"Fire","Type2":"Flying","id":143,"url":"http://localhost:5000/images/moltres.png"},{"Name":"dratini","Type1":"Dragon","Type2":"","id":144,"url":"http://localhost:5000/images/dratini.png"},{"Name":"dragonair","Type1":"Dragon","Type2":"","id":145,"url":"http://localhost:5000/images/dragonair.png"},{"Name":"dragonite","Type1":"Dragon","Type2":"Flying","id":146,"url":"http://localhost:5000/images/dragonite.png"},{"Name":"mewtwo","Type1":"Psychic","Type2":"","id":147,"url":"http://localhost:5000/images/mewtwo.png"},{"Name":"mew","Type1":"Psychic","Type2":"","id":148,"url":"http://localhost:5000/images/mew.png"},{"Name":"chikorita","Type1":"Grass","Type2":"","id":149,"url":"http://localhost:5000/images/chikorita.png"},{"Name":"bayleef","Type1":"Grass","Type2":"","id":150,"url":"http://localhost:5000/images/bayleef.png"},{"Name":"meganium","Type1":"Grass","Type2":"","id":151,"url":"http://localhost:5000/images/meganium.png"},{"Name":"cyndaquil","Type1":"Fire","Type2":"","id":152,"url":"http://localhost:5000/images/cyndaquil.png"},{"Name":"quilava","Type1":"Fire","Type2":"","id":153,"url":"http://localhost:5000/images/quilava.png"},{"Name":"typhlosion","Type1":"Fire","Type2":"","id":154,"url":"http://localhost:5000/images/typhlosion.png"},{"Name":"totodile","Type1":"Water","Type2":"","id":155,"url":"http://localhost:5000/images/totodile.png"},{"Name":"croconaw","Type1":"Water","Type2":"","id":156,"url":"http://localhost:5000/images/croconaw.png"},{"Name":"feraligatr","Type1":"Water","Type2":"","id":157,"url":"http://localhost:5000/images/feraligatr.png"},{"Name":"sentret","Type1":"Normal","Type2":"","id":158,"url":"http://localhost:5000/images/sentret.png"},{"Name":"furret","Type1":"Normal","Type2":"","id":159,"url":"http://localhost:5000/images/furret.png"},{"Name":"hoothoot","Type1":"Normal","Type2":"Flying","id":160,"url":"http://localhost:5000/images/hoothoot.png"},{"Name":"noctowl","Type1":"Normal","Type2":"Flying","id":161,"url":"http://localhost:5000/images/noctowl.png"},{"Name":"ledyba","Type1":"Bug","Type2":"Flying","id":162,"url":"http://localhost:5000/images/ledyba.png"},{"Name":"ledian","Type1":"Bug","Type2":"Flying","id":163,"url":"http://localhost:5000/images/ledian.png"},{"Name":"spinarak","Type1":"Bug","Type2":"Poison","id":164,"url":"http://localhost:5000/images/spinarak.png"},{"Name":"ariados","Type1":"Bug","Type2":"Poison","id":165,"url":"http://localhost:5000/images/ariados.png"},{"Name":"crobat","Type1":"Poison","Type2":"Flying","id":166,"url":"http://localhost:5000/images/crobat.png"},{"Name":"chinchou","Type1":"Water","Type2":"Electric","id":167,"url":"http://localhost:5000/images/chinchou.png"},{"Name":"lanturn","Type1":"Water","Type2":"Electric","id":168,"url":"http://localhost:5000/images/lanturn.png"},{"Name":"pichu","Type1":"Electric","Type2":"","id":169,"url":"http://localhost:5000/images/pichu.png"},{"Name":"cleffa","Type1":"Fairy","Type2":"","id":170,"url":"http://localhost:5000/images/cleffa.png"},{"Name":"igglybuff","Type1":"Normal","Type2":"Fairy","id":171,"url":"http://localhost:5000/images/igglybuff.png"},{"Name":"togepi","Type1":"Fairy","Type2":"","id":172,"url":"http://localhost:5000/images/togepi.png"},{"Name":"togetic","Type1":"Fairy","Type2":"Flying","id":173,"url":"http://localhost:5000/images/togetic.png"},{"Name":"natu","Type1":"Psychic","Type2":"Flying","id":174,"url":"http://localhost:5000/images/natu.png"},{"Name":"xatu","Type1":"Psychic","Type2":"Flying","id":175,"url":"http://localhost:5000/images/xatu.png"},{"Name":"mareep","Type1":"Electric","Type2":"","id":176,"url":"http://localhost:5000/images/mareep.png"},{"Name":"flaaffy","Type1":"Electric","Type2":"","id":177,"url":"http://localhost:5000/images/flaaffy.png"},{"Name":"ampharos","Type1":"Electric","Type2":"","id":178,"url":"http://localhost:5000/images/ampharos.png"},{"Name":"bellossom","Type1":"Grass","Type2":"","id":179,"url":"http://localhost:5000/images/bellossom.png"},{"Name":"marill","Type1":"Water","Type2":"Fairy","id":180,"url":"http://localhost:5000/images/marill.png"},{"Name":"azumarill","Type1":"Water","Type2":"Fairy","id":181,"url":"http://localhost:5000/images/azumarill.png"},{"Name":"sudowoodo","Type1":"Rock","Type2":"","id":182,"url":"http://localhost:5000/images/sudowoodo.png"},{"Name":"politoed","Type1":"Water","Type2":"","id":183,"url":"http://localhost:5000/images/politoed.png"},{"Name":"hoppip","Type1":"Grass","Type2":"Flying","id":184,"url":"http://localhost:5000/images/hoppip.png"},{"Name":"skiploom","Type1":"Grass","Type2":"Flying","id":185,"url":"http://localhost:5000/images/skiploom.png"},{"Name":"jumpluff","Type1":"Grass","Type2":"Flying","id":186,"url":"http://localhost:5000/images/jumpluff.png"},{"Name":"aipom","Type1":"Normal","Type2":"","id":187,"url":"http://localhost:5000/images/aipom.png"},{"Name":"sunkern","Type1":"Grass","Type2":"","id":188,"url":"http://localhost:5000/images/sunkern.png"},{"Name":"sunflora","Type1":"Grass","Type2":"","id":189,"url":"http://localhost:5000/images/sunflora.png"},{"Name":"yanma","Type1":"Bug","Type2":"Flying","id":190,"url":"http://localhost:5000/images/yanma.png"},{"Name":"wooper","Type1":"Water","Type2":"Ground","id":191,"url":"http://localhost:5000/images/wooper.png"},{"Name":"quagsire","Type1":"Water","Type2":"Ground","id":192,"url":"http://localhost:5000/images/quagsire.png"},{"Name":"espeon","Type1":"Psychic","Type2":"","id":193,"url":"http://localhost:5000/images/espeon.png"},{"Name":"umbreon","Type1":"Dark","Type2":"","id":194,"url":"http://localhost:5000/images/umbreon.png"},{"Name":"murkrow","Type1":"Dark","Type2":"Flying","id":195,"url":"http://localhost:5000/images/murkrow.png"},{"Name":"slowking","Type1":"Water","Type2":"Psychic","id":196,"url":"http://localhost:5000/images/slowking.png"},{"Name":"misdreavus","Type1":"Ghost","Type2":"","id":197,"url":"http://localhost:5000/images/misdreavus.png"},{"Name":"unown","Type1":"Psychic","Type2":"","id":198,"url":"http://localhost:5000/images/unown.png"},{"Name":"wobbuffet","Type1":"Psychic","Type2":"","id":199,"url":"http://localhost:5000/images/wobbuffet.png"},{"Name":"girafarig","Type1":"Normal","Type2":"Psychic","id":200,"url":"http://localhost:5000/images/girafarig.png"},{"Name":"pineco","Type1":"Bug","Type2":"","id":201,"url":"http://localhost:5000/images/pineco.png"},{"Name":"forretress","Type1":"Bug","Type2":"Steel","id":202,"url":"http://localhost:5000/images/forretress.png"},{"Name":"dunsparce","Type1":"Normal","Type2":"","id":203,"url":"http://localhost:5000/images/dunsparce.png"},{"Name":"gligar","Type1":"Ground","Type2":"Flying","id":204,"url":"http://localhost:5000/images/gligar.png"},{"Name":"steelix","Type1":"Steel","Type2":"Ground","id":205,"url":"http://localhost:5000/images/steelix.png"},{"Name":"snubbull","Type1":"Fairy","Type2":"","id":206,"url":"http://localhost:5000/images/snubbull.png"},{"Name":"granbull","Type1":"Fairy","Type2":"","id":207,"url":"http://localhost:5000/images/granbull.png"},{"Name":"qwilfish","Type1":"Water","Type2":"Poison","id":208,"url":"http://localhost:5000/images/qwilfish.png"},{"Name":"scizor","Type1":"Bug","Type2":"Steel","id":209,"url":"http://localhost:5000/images/scizor.png"},{"Name":"shuckle","Type1":"Bug","Type2":"Rock","id":210,"url":"http://localhost:5000/images/shuckle.png"},{"Name":"heracross","Type1":"Bug","Type2":"Fighting","id":211,"url":"http://localhost:5000/images/heracross.png"},{"Name":"sneasel","Type1":"Dark","Type2":"Ice","id":212,"url":"http://localhost:5000/images/sneasel.png"},{"Name":"teddiursa","Type1":"Normal","Type2":"","id":213,"url":"http://localhost:5000/images/teddiursa.png"},{"Name":"ursaring","Type1":"Normal","Type2":"","id":214,"url":"http://localhost:5000/images/ursaring.png"},{"Name":"slugma","Type1":"Fire","Type2":"","id":215,"url":"http://localhost:5000/images/slugma.png"},{"Name":"magcargo","Type1":"Fire","Type2":"Rock","id":216,"url":"http://localhost:5000/images/magcargo.png"},{"Name":"swinub","Type1":"Ice","Type2":"Ground","id":217,"url":"http://localhost:5000/images/swinub.png"},{"Name":"piloswine","Type1":"Ice","Type2":"Ground","id":218,"url":"http://localhost:5000/images/piloswine.png"},{"Name":"corsola","Type1":"Water","Type2":"Rock","id":219,"url":"http://localhost:5000/images/corsola.png"},{"Name":"remoraid","Type1":"Water","Type2":"","id":220,"url":"http://localhost:5000/images/remoraid.png"},{"Name":"octillery","Type1":"Water","Type2":"","id":221,"url":"http://localhost:5000/images/octillery.png"},{"Name":"delibird","Type1":"Ice","Type2":"Flying","id":222,"url":"http://localhost:5000/images/delibird.png"},{"Name":"mantine","Type1":"Water","Type2":"Flying","id":223,"url":"http://localhost:5000/images/mantine.png"},{"Name":"skarmory","Type1":"Steel","Type2":"Flying","id":224,"url":"http://localhost:5000/images/skarmory.png"},{"Name":"houndour","Type1":"Dark","Type2":"Fire","id":225,"url":"http://localhost:5000/images/houndour.png"},{"Name":"houndoom","Type1":"Dark","Type2":"Fire","id":226,"url":"http://localhost:5000/images/houndoom.png"},{"Name":"kingdra","Type1":"Water","Type2":"Dragon","id":227,"url":"http://localhost:5000/images/kingdra.png"},{"Name":"phanpy","Type1":"Ground","Type2":"","id":228,"url":"http://localhost:5000/images/phanpy.png"},{"Name":"donphan","Type1":"Ground","Type2":"","id":229,"url":"http://localhost:5000/images/donphan.png"},{"Name":"porygon2","Type1":"Normal","Type2":"","id":230,"url":"http://localhost:5000/images/porygon2.png"},{"Name":"stantler","Type1":"Normal","Type2":"","id":231,"url":"http://localhost:5000/images/stantler.png"},{"Name":"smeargle","Type1":"Normal","Type2":"","id":232,"url":"http://localhost:5000/images/smeargle.png"},{"Name":"tyrogue","Type1":"Fighting","Type2":"","id":233,"url":"http://localhost:5000/images/tyrogue.png"},{"Name":"hitmontop","Type1":"Fighting","Type2":"","id":234,"url":"http://localhost:5000/images/hitmontop.png"},{"Name":"smoochum","Type1":"Ice","Type2":"Psychic","id":235,"url":"http://localhost:5000/images/smoochum.png"},{"Name":"elekid","Type1":"Electric","Type2":"","id":236,"url":"http://localhost:5000/images/elekid.png"},{"Name":"magby","Type1":"Fire","Type2":"","id":237,"url":"http://localhost:5000/images/magby.png"},{"Name":"miltank","Type1":"Normal","Type2":"","id":238,"url":"http://localhost:5000/images/miltank.png"},{"Name":"blissey","Type1":"Normal","Type2":"","id":239,"url":"http://localhost:5000/images/blissey.png"},{"Name":"raikou","Type1":"Electric","Type2":"","id":240,"url":"http://localhost:5000/images/raikou.png"},{"Name":"entei","Type1":"Fire","Type2":"","id":241,"url":"http://localhost:5000/images/entei.png"},{"Name":"suicune","Type1":"Water","Type2":"","id":242,"url":"http://localhost:5000/images/suicune.png"},{"Name":"larvitar","Type1":"Rock","Type2":"Ground","id":243,"url":"http://localhost:5000/images/larvitar.png"},{"Name":"pupitar","Type1":"Rock","Type2":"Ground","id":244,"url":"http://localhost:5000/images/pupitar.png"},{"Name":"tyranitar","Type1":"Rock","Type2":"Dark","id":245,"url":"http://localhost:5000/images/tyranitar.png"},{"Name":"lugia","Type1":"Psychic","Type2":"Flying","id":246,"url":"http://localhost:5000/images/lugia.png"},{"Name":"ho-oh","Type1":"Fire","Type2":"Flying","id":247,"url":"http://localhost:5000/images/ho-oh.png"},{"Name":"celebi","Type1":"Psychic","Type2":"Grass","id":248,"url":"http://localhost:5000/images/celebi.png"},{"Name":"treecko","Type1":"Grass","Type2":"","id":249,"url":"http://localhost:5000/images/treecko.png"},{"Name":"grovyle","Type1":"Grass","Type2":"","id":250,"url":"http://localhost:5000/images/grovyle.png"},{"Name":"sceptile","Type1":"Grass","Type2":"","id":251,"url":"http://localhost:5000/images/sceptile.png"},{"Name":"torchic","Type1":"Fire","Type2":"","id":252,"url":"http://localhost:5000/images/torchic.png"},{"Name":"combusken","Type1":"Fire","Type2":"Fighting","id":253,"url":"http://localhost:5000/images/combusken.png"},{"Name":"blaziken","Type1":"Fire","Type2":"Fighting","id":254,"url":"http://localhost:5000/images/blaziken.png"},{"Name":"mudkip","Type1":"Water","Type2":"","id":255,"url":"http://localhost:5000/images/mudkip.png"},{"Name":"marshtomp","Type1":"Water","Type2":"Ground","id":256,"url":"http://localhost:5000/images/marshtomp.png"},{"Name":"swampert","Type1":"Water","Type2":"Ground","id":257,"url":"http://localhost:5000/images/swampert.png"},{"Name":"poochyena","Type1":"Dark","Type2":"","id":258,"url":"http://localhost:5000/images/poochyena.png"},{"Name":"mightyena","Type1":"Dark","Type2":"","id":259,"url":"http://localhost:5000/images/mightyena.png"},{"Name":"zigzagoon","Type1":"Normal","Type2":"","id":260,"url":"http://localhost:5000/images/zigzagoon.png"},{"Name":"linoone","Type1":"Normal","Type2":"","id":261,"url":"http://localhost:5000/images/linoone.png"},{"Name":"wurmple","Type1":"Bug","Type2":"","id":262,"url":"http://localhost:5000/images/wurmple.png"},{"Name":"silcoon","Type1":"Bug","Type2":"","id":263,"url":"http://localhost:5000/images/silcoon.png"},{"Name":"beautifly","Type1":"Bug","Type2":"Flying","id":264,"url":"http://localhost:5000/images/beautifly.png"},{"Name":"cascoon","Type1":"Bug","Type2":"","id":265,"url":"http://localhost:5000/images/cascoon.png"},{"Name":"dustox","Type1":"Bug","Type2":"Poison","id":266,"url":"http://localhost:5000/images/dustox.png"},{"Name":"lotad","Type1":"Water","Type2":"Grass","id":267,"url":"http://localhost:5000/images/lotad.png"},{"Name":"lombre","Type1":"Water","Type2":"Grass","id":268,"url":"http://localhost:5000/images/lombre.png"},{"Name":"ludicolo","Type1":"Water","Type2":"Grass","id":269,"url":"http://localhost:5000/images/ludicolo.png"},{"Name":"seedot","Type1":"Grass","Type2":"","id":270,"url":"http://localhost:5000/images/seedot.png"},{"Name":"nuzleaf","Type1":"Grass","Type2":"Dark","id":271,"url":"http://localhost:5000/images/nuzleaf.png"},{"Name":"shiftry","Type1":"Grass","Type2":"Dark","id":272,"url":"http://localhost:5000/images/shiftry.png"},{"Name":"taillow","Type1":"Normal","Type2":"Flying","id":273,"url":"http://localhost:5000/images/taillow.png"},{"Name":"swellow","Type1":"Normal","Type2":"Flying","id":274,"url":"http://localhost:5000/images/swellow.png"},{"Name":"wingull","Type1":"Water","Type2":"Flying","id":275,"url":"http://localhost:5000/images/wingull.png"},{"Name":"pelipper","Type1":"Water","Type2":"Flying","id":276,"url":"http://localhost:5000/images/pelipper.png"},{"Name":"ralts","Type1":"Psychic","Type2":"Fairy","id":277,"url":"http://localhost:5000/images/ralts.png"},{"Name":"kirlia","Type1":"Psychic","Type2":"Fairy","id":278,"url":"http://localhost:5000/images/kirlia.png"},{"Name":"gardevoir","Type1":"Psychic","Type2":"Fairy","id":279,"url":"http://localhost:5000/images/gardevoir.png"},{"Name":"surskit","Type1":"Bug","Type2":"Water","id":280,"url":"http://localhost:5000/images/surskit.png"},{"Name":"masquerain","Type1":"Bug","Type2":"Flying","id":281,"url":"http://localhost:5000/images/masquerain.png"},{"Name":"shroomish","Type1":"Grass","Type2":"","id":282,"url":"http://localhost:5000/images/shroomish.png"},{"Name":"breloom","Type1":"Grass","Type2":"Fighting","id":283,"url":"http://localhost:5000/images/breloom.png"},{"Name":"slakoth","Type1":"Normal","Type2":"","id":284,"url":"http://localhost:5000/images/slakoth.png"},{"Name":"vigoroth","Type1":"Normal","Type2":"","id":285,"url":"http://localhost:5000/images/vigoroth.png"},{"Name":"slaking","Type1":"Normal","Type2":"","id":286,"url":"http://localhost:5000/images/slaking.png"},{"Name":"nincada","Type1":"Bug","Type2":"Ground","id":287,"url":"http://localhost:5000/images/nincada.png"},{"Name":"ninjask","Type1":"Bug","Type2":"Flying","id":288,"url":"http://localhost:5000/images/ninjask.png"},{"Name":"shedinja","Type1":"Bug","Type2":"Ghost","id":289,"url":"http://localhost:5000/images/shedinja.png"},{"Name":"whismur","Type1":"Normal","Type2":"","id":290,"url":"http://localhost:5000/images/whismur.png"},{"Name":"loudred","Type1":"Normal","Type2":"","id":291,"url":"http://localhost:5000/images/loudred.png"},{"Name":"exploud","Type1":"Normal","Type2":"","id":292,"url":"http://localhost:5000/images/exploud.png"},{"Name":"makuhita","Type1":"Fighting","Type2":"","id":293,"url":"http://localhost:5000/images/makuhita.png"},{"Name":"hariyama","Type1":"Fighting","Type2":"","id":294,"url":"http://localhost:5000/images/hariyama.png"},{"Name":"azurill","Type1":"Normal","Type2":"Fairy","id":295,"url":"http://localhost:5000/images/azurill.png"},{"Name":"nosepass","Type1":"Rock","Type2":"","id":296,"url":"http://localhost:5000/images/nosepass.png"},{"Name":"skitty","Type1":"Normal","Type2":"","id":297,"url":"http://localhost:5000/images/skitty.png"},{"Name":"delcatty","Type1":"Normal","Type2":"","id":298,"url":"http://localhost:5000/images/delcatty.png"},{"Name":"sableye","Type1":"Dark","Type2":"Ghost","id":299,"url":"http://localhost:5000/images/sableye.png"},{"Name":"mawile","Type1":"Steel","Type2":"Fairy","id":300,"url":"http://localhost:5000/images/mawile.png"},{"Name":"aron","Type1":"Steel","Type2":"Rock","id":301,"url":"http://localhost:5000/images/aron.png"},{"Name":"lairon","Type1":"Steel","Type2":"Rock","id":302,"url":"http://localhost:5000/images/lairon.png"},{"Name":"aggron","Type1":"Steel","Type2":"Rock","id":303,"url":"http://localhost:5000/images/aggron.png"},{"Name":"meditite","Type1":"Fighting","Type2":"Psychic","id":304,"url":"http://localhost:5000/images/meditite.png"},{"Name":"medicham","Type1":"Fighting","Type2":"Psychic","id":305,"url":"http://localhost:5000/images/medicham.png"},{"Name":"electrike","Type1":"Electric","Type2":"","id":306,"url":"http://localhost:5000/images/electrike.png"},{"Name":"manectric","Type1":"Electric","Type2":"","id":307,"url":"http://localhost:5000/images/manectric.png"},{"Name":"plusle","Type1":"Electric","Type2":"","id":308,"url":"http://localhost:5000/images/plusle.png"},{"Name":"minun","Type1":"Electric","Type2":"","id":309,"url":"http://localhost:5000/images/minun.png"},{"Name":"volbeat","Type1":"Bug","Type2":"","id":310,"url":"http://localhost:5000/images/volbeat.png"},{"Name":"illumise","Type1":"Bug","Type2":"","id":311,"url":"http://localhost:5000/images/illumise.png"},{"Name":"roselia","Type1":"Grass","Type2":"Poison","id":312,"url":"http://localhost:5000/images/roselia.png"},{"Name":"gulpin","Type1":"Poison","Type2":"","id":313,"url":"http://localhost:5000/images/gulpin.png"},{"Name":"swalot","Type1":"Poison","Type2":"","id":314,"url":"http://localhost:5000/images/swalot.png"},{"Name":"carvanha","Type1":"Water","Type2":"Dark","id":315,"url":"http://localhost:5000/images/carvanha.png"},{"Name":"sharpedo","Type1":"Water","Type2":"Dark","id":316,"url":"http://localhost:5000/images/sharpedo.png"},{"Name":"wailmer","Type1":"Water","Type2":"","id":317,"url":"http://localhost:5000/images/wailmer.png"},{"Name":"wailord","Type1":"Water","Type2":"","id":318,"url":"http://localhost:5000/images/wailord.png"},{"Name":"numel","Type1":"Fire","Type2":"Ground","id":319,"url":"http://localhost:5000/images/numel.png"},{"Name":"camerupt","Type1":"Fire","Type2":"Ground","id":320,"url":"http://localhost:5000/images/camerupt.png"},{"Name":"torkoal","Type1":"Fire","Type2":"","id":321,"url":"http://localhost:5000/images/torkoal.png"},{"Name":"spoink","Type1":"Psychic","Type2":"","id":322,"url":"http://localhost:5000/images/spoink.png"},{"Name":"grumpig","Type1":"Psychic","Type2":"","id":323,"url":"http://localhost:5000/images/grumpig.png"},{"Name":"spinda","Type1":"Normal","Type2":"","id":324,"url":"http://localhost:5000/images/spinda.png"},{"Name":"trapinch","Type1":"Ground","Type2":"","id":325,"url":"http://localhost:5000/images/trapinch.png"},{"Name":"vibrava","Type1":"Ground","Type2":"Dragon","id":326,"url":"http://localhost:5000/images/vibrava.png"},{"Name":"flygon","Type1":"Ground","Type2":"Dragon","id":327,"url":"http://localhost:5000/images/flygon.png"},{"Name":"cacnea","Type1":"Grass","Type2":"","id":328,"url":"http://localhost:5000/images/cacnea.png"},{"Name":"cacturne","Type1":"Grass","Type2":"Dark","id":329,"url":"http://localhost:5000/images/cacturne.png"},{"Name":"swablu","Type1":"Normal","Type2":"Flying","id":330,"url":"http://localhost:5000/images/swablu.png"},{"Name":"altaria","Type1":"Dragon","Type2":"Flying","id":331,"url":"http://localhost:5000/images/altaria.png"},{"Name":"zangoose","Type1":"Normal","Type2":"","id":332,"url":"http://localhost:5000/images/zangoose.png"},{"Name":"seviper","Type1":"Poison","Type2":"","id":333,"url":"http://localhost:5000/images/seviper.png"},{"Name":"lunatone","Type1":"Rock","Type2":"Psychic","id":334,"url":"http://localhost:5000/images/lunatone.png"},{"Name":"solrock","Type1":"Rock","Type2":"Psychic","id":335,"url":"http://localhost:5000/images/solrock.png"},{"Name":"barboach","Type1":"Water","Type2":"Ground","id":336,"url":"http://localhost:5000/images/barboach.png"},{"Name":"whiscash","Type1":"Water","Type2":"Ground","id":337,"url":"http://localhost:5000/images/whiscash.png"},{"Name":"corphish","Type1":"Water","Type2":"","id":338,"url":"http://localhost:5000/images/corphish.png"},{"Name":"crawdaunt","Type1":"Water","Type2":"Dark","id":339,"url":"http://localhost:5000/images/crawdaunt.png"},{"Name":"baltoy","Type1":"Ground","Type2":"Psychic","id":340,"url":"http://localhost:5000/images/baltoy.png"},{"Name":"claydol","Type1":"Ground","Type2":"Psychic","id":341,"url":"http://localhost:5000/images/claydol.png"},{"Name":"lileep","Type1":"Rock","Type2":"Grass","id":342,"url":"http://localhost:5000/images/lileep.png"},{"Name":"cradily","Type1":"Rock","Type2":"Grass","id":343,"url":"http://localhost:5000/images/cradily.png"},{"Name":"anorith","Type1":"Rock","Type2":"Bug","id":344,"url":"http://localhost:5000/images/anorith.png"},{"Name":"armaldo","Type1":"Rock","Type2":"Bug","id":345,"url":"http://localhost:5000/images/armaldo.png"},{"Name":"feebas","Type1":"Water","Type2":"","id":346,"url":"http://localhost:5000/images/feebas.png"},{"Name":"milotic","Type1":"Water","Type2":"","id":347,"url":"http://localhost:5000/images/milotic.png"},{"Name":"castform","Type1":"Normal","Type2":"","id":348,"url":"http://localhost:5000/images/castform.png"},{"Name":"kecleon","Type1":"Normal","Type2":"","id":349,"url":"http://localhost:5000/images/kecleon.png"},{"Name":"shuppet","Type1":"Ghost","Type2":"","id":350,"url":"http://localhost:5000/images/shuppet.png"},{"Name":"banette","Type1":"Ghost","Type2":"","id":351,"url":"http://localhost:5000/images/banette.png"},{"Name":"duskull","Type1":"Ghost","Type2":"","id":352,"url":"http://localhost:5000/images/duskull.png"},{"Name":"dusclops","Type1":"Ghost","Type2":"","id":353,"url":"http://localhost:5000/images/dusclops.png"},{"Name":"tropius","Type1":"Grass","Type2":"Flying","id":354,"url":"http://localhost:5000/images/tropius.png"},{"Name":"chimecho","Type1":"Psychic","Type2":"","id":355,"url":"http://localhost:5000/images/chimecho.png"},{"Name":"absol","Type1":"Dark","Type2":"","id":356,"url":"http://localhost:5000/images/absol.png"},{"Name":"wynaut","Type1":"Psychic","Type2":"","id":357,"url":"http://localhost:5000/images/wynaut.png"},{"Name":"snorunt","Type1":"Ice","Type2":"","id":358,"url":"http://localhost:5000/images/snorunt.png"},{"Name":"glalie","Type1":"Ice","Type2":"","id":359,"url":"http://localhost:5000/images/glalie.png"},{"Name":"spheal","Type1":"Ice","Type2":"Water","id":360,"url":"http://localhost:5000/images/spheal.png"},{"Name":"sealeo","Type1":"Ice","Type2":"Water","id":361,"url":"http://localhost:5000/images/sealeo.png"},{"Name":"walrein","Type1":"Ice","Type2":"Water","id":362,"url":"http://localhost:5000/images/walrein.png"},{"Name":"clamperl","Type1":"Water","Type2":"","id":363,"url":"http://localhost:5000/images/clamperl.png"},{"Name":"huntail","Type1":"Water","Type2":"","id":364,"url":"http://localhost:5000/images/huntail.png"},{"Name":"gorebyss","Type1":"Water","Type2":"","id":365,"url":"http://localhost:5000/images/gorebyss.png"},{"Name":"relicanth","Type1":"Water","Type2":"Rock","id":366,"url":"http://localhost:5000/images/relicanth.png"},{"Name":"luvdisc","Type1":"Water","Type2":"","id":367,"url":"http://localhost:5000/images/luvdisc.png"},{"Name":"bagon","Type1":"Dragon","Type2":"","id":368,"url":"http://localhost:5000/images/bagon.png"},{"Name":"shelgon","Type1":"Dragon","Type2":"","id":369,"url":"http://localhost:5000/images/shelgon.png"},{"Name":"salamence","Type1":"Dragon","Type2":"Flying","id":370,"url":"http://localhost:5000/images/salamence.png"},{"Name":"beldum","Type1":"Steel","Type2":"Psychic","id":371,"url":"http://localhost:5000/images/beldum.png"},{"Name":"metang","Type1":"Steel","Type2":"Psychic","id":372,"url":"http://localhost:5000/images/metang.png"},{"Name":"metagross","Type1":"Steel","Type2":"Psychic","id":373,"url":"http://localhost:5000/images/metagross.png"},{"Name":"regirock","Type1":"Rock","Type2":"","id":374,"url":"http://localhost:5000/images/regirock.png"},{"Name":"regice","Type1":"Ice","Type2":"","id":375,"url":"http://localhost:5000/images/regice.png"},{"Name":"registeel","Type1":"Steel","Type2":"","id":376,"url":"http://localhost:5000/images/registeel.png"},{"Name":"latias","Type1":"Dragon","Type2":"Psychic","id":377,"url":"http://localhost:5000/images/latias.png"},{"Name":"latios","Type1":"Dragon","Type2":"Psychic","id":378,"url":"http://localhost:5000/images/latios.png"},{"Name":"kyogre","Type1":"Water","Type2":"","id":379,"url":"http://localhost:5000/images/kyogre.png"},{"Name":"groudon","Type1":"Ground","Type2":"","id":380,"url":"http://localhost:5000/images/groudon.png"},{"Name":"rayquaza","Type1":"Dragon","Type2":"Flying","id":381,"url":"http://localhost:5000/images/rayquaza.png"},{"Name":"jirachi","Type1":"Steel","Type2":"Psychic","id":382,"url":"http://localhost:5000/images/jirachi.png"},{"Name":"deoxys-normal","Type1":"Psychic","Type2":"","id":383,"url":"http://localhost:5000/images/deoxys-normal.png"},{"Name":"turtwig","Type1":"Grass","Type2":"","id":384,"url":"http://localhost:5000/images/turtwig.png"},{"Name":"grotle","Type1":"Grass","Type2":"","id":385,"url":"http://localhost:5000/images/grotle.png"},{"Name":"torterra","Type1":"Grass","Type2":"Ground","id":386,"url":"http://localhost:5000/images/torterra.png"},{"Name":"chimchar","Type1":"Fire","Type2":"","id":387,"url":"http://localhost:5000/images/chimchar.png"},{"Name":"monferno","Type1":"Fire","Type2":"Fighting","id":388,"url":"http://localhost:5000/images/monferno.png"},{"Name":"infernape","Type1":"Fire","Type2":"Fighting","id":389,"url":"http://localhost:5000/images/infernape.png"},{"Name":"piplup","Type1":"Water","Type2":"","id":390,"url":"http://localhost:5000/images/piplup.png"},{"Name":"prinplup","Type1":"Water","Type2":"","id":391,"url":"http://localhost:5000/images/prinplup.png"},{"Name":"empoleon","Type1":"Water","Type2":"Steel","id":392,"url":"http://localhost:5000/images/empoleon.png"},{"Name":"starly","Type1":"Normal","Type2":"Flying","id":393,"url":"http://localhost:5000/images/starly.png"},{"Name":"staravia","Type1":"Normal","Type2":"Flying","id":394,"url":"http://localhost:5000/images/staravia.png"},{"Name":"staraptor","Type1":"Normal","Type2":"Flying","id":395,"url":"http://localhost:5000/images/staraptor.png"},{"Name":"bidoof","Type1":"Normal","Type2":"","id":396,"url":"http://localhost:5000/images/bidoof.png"},{"Name":"bibarel","Type1":"Normal","Type2":"Water","id":397,"url":"http://localhost:5000/images/bibarel.png"},{"Name":"kricketot","Type1":"Bug","Type2":"","id":398,"url":"http://localhost:5000/images/kricketot.png"},{"Name":"kricketune","Type1":"Bug","Type2":"","id":399,"url":"http://localhost:5000/images/kricketune.png"},{"Name":"shinx","Type1":"Electric","Type2":"","id":400,"url":"http://localhost:5000/images/shinx.png"},{"Name":"luxio","Type1":"Electric","Type2":"","id":401,"url":"http://localhost:5000/images/luxio.png"},{"Name":"luxray","Type1":"Electric","Type2":"","id":402,"url":"http://localhost:5000/images/luxray.png"},{"Name":"budew","Type1":"Grass","Type2":"Poison","id":403,"url":"http://localhost:5000/images/budew.png"},{"Name":"roserade","Type1":"Grass","Type2":"Poison","id":404,"url":"http://localhost:5000/images/roserade.png"},{"Name":"cranidos","Type1":"Rock","Type2":"","id":405,"url":"http://localhost:5000/images/cranidos.png"},{"Name":"rampardos","Type1":"Rock","Type2":"","id":406,"url":"http://localhost:5000/images/rampardos.png"},{"Name":"shieldon","Type1":"Rock","Type2":"Steel","id":407,"url":"http://localhost:5000/images/shieldon.png"},{"Name":"bastiodon","Type1":"Rock","Type2":"Steel","id":408,"url":"http://localhost:5000/images/bastiodon.png"},{"Name":"burmy","Type1":"Bug","Type2":"","id":409,"url":"http://localhost:5000/images/burmy.png"},{"Name":"wormadam-plant","Type1":"Bug","Type2":"Grass","id":410,"url":"http://localhost:5000/images/wormadam-plant.png"},{"Name":"mothim","Type1":"Bug","Type2":"Flying","id":411,"url":"http://localhost:5000/images/mothim.png"},{"Name":"combee","Type1":"Bug","Type2":"Flying","id":412,"url":"http://localhost:5000/images/combee.png"},{"Name":"vespiquen","Type1":"Bug","Type2":"Flying","id":413,"url":"http://localhost:5000/images/vespiquen.png"},{"Name":"pachirisu","Type1":"Electric","Type2":"","id":414,"url":"http://localhost:5000/images/pachirisu.png"},{"Name":"buizel","Type1":"Water","Type2":"","id":415,"url":"http://localhost:5000/images/buizel.png"},{"Name":"floatzel","Type1":"Water","Type2":"","id":416,"url":"http://localhost:5000/images/floatzel.png"},{"Name":"cherubi","Type1":"Grass","Type2":"","id":417,"url":"http://localhost:5000/images/cherubi.png"},{"Name":"cherrim","Type1":"Grass","Type2":"","id":418,"url":"http://localhost:5000/images/cherrim.png"},{"Name":"shellos","Type1":"Water","Type2":"","id":419,"url":"http://localhost:5000/images/shellos.png"},{"Name":"gastrodon","Type1":"Water","Type2":"Ground","id":420,"url":"http://localhost:5000/images/gastrodon.png"},{"Name":"ambipom","Type1":"Normal","Type2":"","id":421,"url":"http://localhost:5000/images/ambipom.png"},{"Name":"drifloon","Type1":"Ghost","Type2":"Flying","id":422,"url":"http://localhost:5000/images/drifloon.png"},{"Name":"drifblim","Type1":"Ghost","Type2":"Flying","id":423,"url":"http://localhost:5000/images/drifblim.png"},{"Name":"buneary","Type1":"Normal","Type2":"","id":424,"url":"http://localhost:5000/images/buneary.png"},{"Name":"lopunny","Type1":"Normal","Type2":"","id":425,"url":"http://localhost:5000/images/lopunny.png"},{"Name":"mismagius","Type1":"Ghost","Type2":"","id":426,"url":"http://localhost:5000/images/mismagius.png"},{"Name":"honchkrow","Type1":"Dark","Type2":"Flying","id":427,"url":"http://localhost:5000/images/honchkrow.png"},{"Name":"glameow","Type1":"Normal","Type2":"","id":428,"url":"http://localhost:5000/images/glameow.png"},{"Name":"purugly","Type1":"Normal","Type2":"","id":429,"url":"http://localhost:5000/images/purugly.png"},{"Name":"chingling","Type1":"Psychic","Type2":"","id":430,"url":"http://localhost:5000/images/chingling.png"},{"Name":"stunky","Type1":"Poison","Type2":"Dark","id":431,"url":"http://localhost:5000/images/stunky.png"},{"Name":"skuntank","Type1":"Poison","Type2":"Dark","id":432,"url":"http://localhost:5000/images/skuntank.png"},{"Name":"bronzor","Type1":"Steel","Type2":"Psychic","id":433,"url":"http://localhost:5000/images/bronzor.png"},{"Name":"bronzong","Type1":"Steel","Type2":"Psychic","id":434,"url":"http://localhost:5000/images/bronzong.png"},{"Name":"bonsly","Type1":"Rock","Type2":"","id":435,"url":"http://localhost:5000/images/bonsly.png"},{"Name":"mime-jr","Type1":"Psychic","Type2":"Fairy","id":436,"url":"http://localhost:5000/images/mime-jr.png"},{"Name":"happiny","Type1":"Normal","Type2":"","id":437,"url":"http://localhost:5000/images/happiny.png"},{"Name":"chatot","Type1":"Normal","Type2":"Flying","id":438,"url":"http://localhost:5000/images/chatot.png"},{"Name":"spiritomb","Type1":"Ghost","Type2":"Dark","id":439,"url":"http://localhost:5000/images/spiritomb.png"},{"Name":"gible","Type1":"Dragon","Type2":"Ground","id":440,"url":"http://localhost:5000/images/gible.png"},{"Name":"gabite","Type1":"Dragon","Type2":"Ground","id":441,"url":"http://localhost:5000/images/gabite.png"},{"Name":"garchomp","Type1":"Dragon","Type2":"Ground","id":442,"url":"http://localhost:5000/images/garchomp.png"},{"Name":"munchlax","Type1":"Normal","Type2":"","id":443,"url":"http://localhost:5000/images/munchlax.png"},{"Name":"riolu","Type1":"Fighting","Type2":"","id":444,"url":"http://localhost:5000/images/riolu.png"},{"Name":"lucario","Type1":"Fighting","Type2":"Steel","id":445,"url":"http://localhost:5000/images/lucario.png"},{"Name":"hippopotas","Type1":"Ground","Type2":"","id":446,"url":"http://localhost:5000/images/hippopotas.png"},{"Name":"hippowdon","Type1":"Ground","Type2":"","id":447,"url":"http://localhost:5000/images/hippowdon.png"},{"Name":"skorupi","Type1":"Poison","Type2":"Bug","id":448,"url":"http://localhost:5000/images/skorupi.png"},{"Name":"drapion","Type1":"Poison","Type2":"Dark","id":449,"url":"http://localhost:5000/images/drapion.png"},{"Name":"croagunk","Type1":"Poison","Type2":"Fighting","id":450,"url":"http://localhost:5000/images/croagunk.png"},{"Name":"toxicroak","Type1":"Poison","Type2":"Fighting","id":451,"url":"http://localhost:5000/images/toxicroak.png"},{"Name":"carnivine","Type1":"Grass","Type2":"","id":452,"url":"http://localhost:5000/images/carnivine.png"},{"Name":"finneon","Type1":"Water","Type2":"","id":453,"url":"http://localhost:5000/images/finneon.png"},{"Name":"lumineon","Type1":"Water","Type2":"","id":454,"url":"http://localhost:5000/images/lumineon.png"},{"Name":"mantyke","Type1":"Water","Type2":"Flying","id":455,"url":"http://localhost:5000/images/mantyke.png"},{"Name":"snover","Type1":"Grass","Type2":"Ice","id":456,"url":"http://localhost:5000/images/snover.png"},{"Name":"abomasnow","Type1":"Grass","Type2":"Ice","id":457,"url":"http://localhost:5000/images/abomasnow.png"},{"Name":"weavile","Type1":"Dark","Type2":"Ice","id":458,"url":"http://localhost:5000/images/weavile.png"},{"Name":"magnezone","Type1":"Electric","Type2":"Steel","id":459,"url":"http://localhost:5000/images/magnezone.png"},{"Name":"lickilicky","Type1":"Normal","Type2":"","id":460,"url":"http://localhost:5000/images/lickilicky.png"},{"Name":"rhyperior","Type1":"Ground","Type2":"Rock","id":461,"url":"http://localhost:5000/images/rhyperior.png"},{"Name":"tangrowth","Type1":"Grass","Type2":"","id":462,"url":"http://localhost:5000/images/tangrowth.png"},{"Name":"electivire","Type1":"Electric","Type2":"","id":463,"url":"http://localhost:5000/images/electivire.png"},{"Name":"magmortar","Type1":"Fire","Type2":"","id":464,"url":"http://localhost:5000/images/magmortar.png"},{"Name":"togekiss","Type1":"Fairy","Type2":"Flying","id":465,"url":"http://localhost:5000/images/togekiss.png"},{"Name":"yanmega","Type1":"Bug","Type2":"Flying","id":466,"url":"http://localhost:5000/images/yanmega.png"},{"Name":"leafeon","Type1":"Grass","Type2":"","id":467,"url":"http://localhost:5000/images/leafeon.png"},{"Name":"glaceon","Type1":"Ice","Type2":"","id":468,"url":"http://localhost:5000/images/glaceon.png"},{"Name":"gliscor","Type1":"Ground","Type2":"Flying","id":469,"url":"http://localhost:5000/images/gliscor.png"},{"Name":"mamoswine","Type1":"Ice","Type2":"Ground","id":470,"url":"http://localhost:5000/images/mamoswine.png"},{"Name":"porygon-z","Type1":"Normal","Type2":"","id":471,"url":"http://localhost:5000/images/porygon-z.png"},{"Name":"gallade","Type1":"Psychic","Type2":"Fighting","id":472,"url":"http://localhost:5000/images/gallade.png"},{"Name":"probopass","Type1":"Rock","Type2":"Steel","id":473,"url":"http://localhost:5000/images/probopass.png"},{"Name":"dusknoir","Type1":"Ghost","Type2":"","id":474,"url":"http://localhost:5000/images/dusknoir.png"},{"Name":"froslass","Type1":"Ice","Type2":"Ghost","id":475,"url":"http://localhost:5000/images/froslass.png"},{"Name":"rotom","Type1":"Electric","Type2":"Ghost","id":476,"url":"http://localhost:5000/images/rotom.png"},{"Name":"uxie","Type1":"Psychic","Type2":"","id":477,"url":"http://localhost:5000/images/uxie.png"},{"Name":"mesprit","Type1":"Psychic","Type2":"","id":478,"url":"http://localhost:5000/images/mesprit.png"},{"Name":"azelf","Type1":"Psychic","Type2":"","id":479,"url":"http://localhost:5000/images/azelf.png"},{"Name":"dialga","Type1":"Steel","Type2":"Dragon","id":480,"url":"http://localhost:5000/images/dialga.png"},{"Name":"palkia","Type1":"Water","Type2":"Dragon","id":481,"url":"http://localhost:5000/images/palkia.png"},{"Name":"heatran","Type1":"Fire","Type2":"Steel","id":482,"url":"http://localhost:5000/images/heatran.png"},{"Name":"regigigas","Type1":"Normal","Type2":"","id":483,"url":"http://localhost:5000/images/regigigas.png"},{"Name":"giratina-altered","Type1":"Ghost","Type2":"Dragon","id":484,"url":"http://localhost:5000/images/giratina-altered.png"},{"Name":"cresselia","Type1":"Psychic","Type2":"","id":485,"url":"http://localhost:5000/images/cresselia.png"},{"Name":"phione","Type1":"Water","Type2":"","id":486,"url":"http://localhost:5000/images/phione.png"},{"Name":"manaphy","Type1":"Water","Type2":"","id":487,"url":"http://localhost:5000/images/manaphy.png"},{"Name":"darkrai","Type1":"Dark","Type2":"","id":488,"url":"http://localhost:5000/images/darkrai.png"},{"Name":"shaymin-land","Type1":"Grass","Type2":"","id":489,"url":"http://localhost:5000/images/shaymin-land.png"},{"Name":"arceus","Type1":"Normal","Type2":"","id":490,"url":"http://localhost:5000/images/arceus.png"},{"Name":"victini","Type1":"Psychic","Type2":"Fire","id":491,"url":"http://localhost:5000/images/victini.png"},{"Name":"snivy","Type1":"Grass","Type2":"","id":492,"url":"http://localhost:5000/images/snivy.png"},{"Name":"servine","Type1":"Grass","Type2":"","id":493,"url":"http://localhost:5000/images/servine.png"},{"Name":"serperior","Type1":"Grass","Type2":"","id":494,"url":"http://localhost:5000/images/serperior.png"},{"Name":"tepig","Type1":"Fire","Type2":"","id":495,"url":"http://localhost:5000/images/tepig.png"},{"Name":"pignite","Type1":"Fire","Type2":"Fighting","id":496,"url":"http://localhost:5000/images/pignite.png"},{"Name":"emboar","Type1":"Fire","Type2":"Fighting","id":497,"url":"http://localhost:5000/images/emboar.png"},{"Name":"oshawott","Type1":"Water","Type2":"","id":498,"url":"http://localhost:5000/images/oshawott.png"},{"Name":"dewott","Type1":"Water","Type2":"","id":499,"url":"http://localhost:5000/images/dewott.png"},{"Name":"samurott","Type1":"Water","Type2":"","id":500,"url":"http://localhost:5000/images/samurott.png"},{"Name":"patrat","Type1":"Normal","Type2":"","id":501,"url":"http://localhost:5000/images/patrat.png"},{"Name":"watchog","Type1":"Normal","Type2":"","id":502,"url":"http://localhost:5000/images/watchog.png"},{"Name":"lillipup","Type1":"Normal","Type2":"","id":503,"url":"http://localhost:5000/images/lillipup.png"},{"Name":"herdier","Type1":"Normal","Type2":"","id":504,"url":"http://localhost:5000/images/herdier.png"},{"Name":"stoutland","Type1":"Normal","Type2":"","id":505,"url":"http://localhost:5000/images/stoutland.png"},{"Name":"purrloin","Type1":"Dark","Type2":"","id":506,"url":"http://localhost:5000/images/purrloin.png"},{"Name":"liepard","Type1":"Dark","Type2":"","id":507,"url":"http://localhost:5000/images/liepard.png"},{"Name":"pansage","Type1":"Grass","Type2":"","id":508,"url":"http://localhost:5000/images/pansage.png"},{"Name":"simisage","Type1":"Grass","Type2":"","id":509,"url":"http://localhost:5000/images/simisage.png"},{"Name":"pansear","Type1":"Fire","Type2":"","id":510,"url":"http://localhost:5000/images/pansear.png"},{"Name":"simisear","Type1":"Fire","Type2":"","id":511,"url":"http://localhost:5000/images/simisear.png"},{"Name":"panpour","Type1":"Water","Type2":"","id":512,"url":"http://localhost:5000/images/panpour.png"},{"Name":"simipour","Type1":"Water","Type2":"","id":513,"url":"http://localhost:5000/images/simipour.png"},{"Name":"munna","Type1":"Psychic","Type2":"","id":514,"url":"http://localhost:5000/images/munna.png"},{"Name":"musharna","Type1":"Psychic","Type2":"","id":515,"url":"http://localhost:5000/images/musharna.png"},{"Name":"pidove","Type1":"Normal","Type2":"Flying","id":516,"url":"http://localhost:5000/images/pidove.png"},{"Name":"tranquill","Type1":"Normal","Type2":"Flying","id":517,"url":"http://localhost:5000/images/tranquill.png"},{"Name":"unfezant","Type1":"Normal","Type2":"Flying","id":518,"url":"http://localhost:5000/images/unfezant.png"},{"Name":"blitzle","Type1":"Electric","Type2":"","id":519,"url":"http://localhost:5000/images/blitzle.png"},{"Name":"zebstrika","Type1":"Electric","Type2":"","id":520,"url":"http://localhost:5000/images/zebstrika.png"},{"Name":"roggenrola","Type1":"Rock","Type2":"","id":521,"url":"http://localhost:5000/images/roggenrola.png"},{"Name":"boldore","Type1":"Rock","Type2":"","id":522,"url":"http://localhost:5000/images/boldore.png"},{"Name":"gigalith","Type1":"Rock","Type2":"","id":523,"url":"http://localhost:5000/images/gigalith.png"},{"Name":"woobat","Type1":"Psychic","Type2":"Flying","id":524,"url":"http://localhost:5000/images/woobat.png"},{"Name":"swoobat","Type1":"Psychic","Type2":"Flying","id":525,"url":"http://localhost:5000/images/swoobat.png"},{"Name":"drilbur","Type1":"Ground","Type2":"","id":526,"url":"http://localhost:5000/images/drilbur.png"},{"Name":"excadrill","Type1":"Ground","Type2":"Steel","id":527,"url":"http://localhost:5000/images/excadrill.png"},{"Name":"audino","Type1":"Normal","Type2":"","id":528,"url":"http://localhost:5000/images/audino.png"},{"Name":"timburr","Type1":"Fighting","Type2":"","id":529,"url":"http://localhost:5000/images/timburr.png"},{"Name":"gurdurr","Type1":"Fighting","Type2":"","id":530,"url":"http://localhost:5000/images/gurdurr.png"},{"Name":"conkeldurr","Type1":"Fighting","Type2":"","id":531,"url":"http://localhost:5000/images/conkeldurr.png"},{"Name":"tympole","Type1":"Water","Type2":"","id":532,"url":"http://localhost:5000/images/tympole.png"},{"Name":"palpitoad","Type1":"Water","Type2":"Ground","id":533,"url":"http://localhost:5000/images/palpitoad.png"},{"Name":"seismitoad","Type1":"Water","Type2":"Ground","id":534,"url":"http://localhost:5000/images/seismitoad.png"},{"Name":"throh","Type1":"Fighting","Type2":"","id":535,"url":"http://localhost:5000/images/throh.png"},{"Name":"sawk","Type1":"Fighting","Type2":"","id":536,"url":"http://localhost:5000/images/sawk.png"},{"Name":"sewaddle","Type1":"Bug","Type2":"Grass","id":537,"url":"http://localhost:5000/images/sewaddle.png"},{"Name":"swadloon","Type1":"Bug","Type2":"Grass","id":538,"url":"http://localhost:5000/images/swadloon.png"},{"Name":"leavanny","Type1":"Bug","Type2":"Grass","id":539,"url":"http://localhost:5000/images/leavanny.png"},{"Name":"venipede","Type1":"Bug","Type2":"Poison","id":540,"url":"http://localhost:5000/images/venipede.png"},{"Name":"whirlipede","Type1":"Bug","Type2":"Poison","id":541,"url":"http://localhost:5000/images/whirlipede.png"},{"Name":"scolipede","Type1":"Bug","Type2":"Poison","id":542,"url":"http://localhost:5000/images/scolipede.png"},{"Name":"cottonee","Type1":"Grass","Type2":"Fairy","id":543,"url":"http://localhost:5000/images/cottonee.png"},{"Name":"whimsicott","Type1":"Grass","Type2":"Fairy","id":544,"url":"http://localhost:5000/images/whimsicott.png"},{"Name":"petilil","Type1":"Grass","Type2":"","id":545,"url":"http://localhost:5000/images/petilil.png"},{"Name":"lilligant","Type1":"Grass","Type2":"","id":546,"url":"http://localhost:5000/images/lilligant.png"},{"Name":"basculin-red-striped","Type1":"Water","Type2":"","id":547,"url":"http://localhost:5000/images/basculin-red-striped.png"},{"Name":"sandile","Type1":"Ground","Type2":"Dark","id":548,"url":"http://localhost:5000/images/sandile.png"},{"Name":"krokorok","Type1":"Ground","Type2":"Dark","id":549,"url":"http://localhost:5000/images/krokorok.png"},{"Name":"krookodile","Type1":"Ground","Type2":"Dark","id":550,"url":"http://localhost:5000/images/krookodile.png"},{"Name":"darumaka","Type1":"Fire","Type2":"","id":551,"url":"http://localhost:5000/images/darumaka.png"},{"Name":"darmanitan-standard","Type1":"Fire","Type2":"","id":552,"url":"http://localhost:5000/images/darmanitan-standard.png"},{"Name":"maractus","Type1":"Grass","Type2":"","id":553,"url":"http://localhost:5000/images/maractus.png"},{"Name":"dwebble","Type1":"Bug","Type2":"Rock","id":554,"url":"http://localhost:5000/images/dwebble.png"},{"Name":"crustle","Type1":"Bug","Type2":"Rock","id":555,"url":"http://localhost:5000/images/crustle.png"},{"Name":"scraggy","Type1":"Dark","Type2":"Fighting","id":556,"url":"http://localhost:5000/images/scraggy.png"},{"Name":"scrafty","Type1":"Dark","Type2":"Fighting","id":557,"url":"http://localhost:5000/images/scrafty.png"},{"Name":"sigilyph","Type1":"Psychic","Type2":"Flying","id":558,"url":"http://localhost:5000/images/sigilyph.png"},{"Name":"yamask","Type1":"Ghost","Type2":"","id":559,"url":"http://localhost:5000/images/yamask.png"},{"Name":"cofagrigus","Type1":"Ghost","Type2":"","id":560,"url":"http://localhost:5000/images/cofagrigus.png"},{"Name":"tirtouga","Type1":"Water","Type2":"Rock","id":561,"url":"http://localhost:5000/images/tirtouga.png"},{"Name":"carracosta","Type1":"Water","Type2":"Rock","id":562,"url":"http://localhost:5000/images/carracosta.png"},{"Name":"archen","Type1":"Rock","Type2":"Flying","id":563,"url":"http://localhost:5000/images/archen.png"},{"Name":"archeops","Type1":"Rock","Type2":"Flying","id":564,"url":"http://localhost:5000/images/archeops.png"},{"Name":"trubbish","Type1":"Poison","Type2":"","id":565,"url":"http://localhost:5000/images/trubbish.png"},{"Name":"garbodor","Type1":"Poison","Type2":"","id":566,"url":"http://localhost:5000/images/garbodor.png"},{"Name":"zorua","Type1":"Dark","Type2":"","id":567,"url":"http://localhost:5000/images/zorua.png"},{"Name":"zoroark","Type1":"Dark","Type2":"","id":568,"url":"http://localhost:5000/images/zoroark.png"},{"Name":"minccino","Type1":"Normal","Type2":"","id":569,"url":"http://localhost:5000/images/minccino.png"},{"Name":"cinccino","Type1":"Normal","Type2":"","id":570,"url":"http://localhost:5000/images/cinccino.png"},{"Name":"gothita","Type1":"Psychic","Type2":"","id":571,"url":"http://localhost:5000/images/gothita.png"},{"Name":"gothorita","Type1":"Psychic","Type2":"","id":572,"url":"http://localhost:5000/images/gothorita.png"},{"Name":"gothitelle","Type1":"Psychic","Type2":"","id":573,"url":"http://localhost:5000/images/gothitelle.png"},{"Name":"solosis","Type1":"Psychic","Type2":"","id":574,"url":"http://localhost:5000/images/solosis.png"},{"Name":"duosion","Type1":"Psychic","Type2":"","id":575,"url":"http://localhost:5000/images/duosion.png"},{"Name":"reuniclus","Type1":"Psychic","Type2":"","id":576,"url":"http://localhost:5000/images/reuniclus.png"},{"Name":"ducklett","Type1":"Water","Type2":"Flying","id":577,"url":"http://localhost:5000/images/ducklett.png"},{"Name":"swanna","Type1":"Water","Type2":"Flying","id":578,"url":"http://localhost:5000/images/swanna.png"},{"Name":"vanillite","Type1":"Ice","Type2":"","id":579,"url":"http://localhost:5000/images/vanillite.png"},{"Name":"vanillish","Type1":"Ice","Type2":"","id":580,"url":"http://localhost:5000/images/vanillish.png"},{"Name":"vanilluxe","Type1":"Ice","Type2":"","id":581,"url":"http://localhost:5000/images/vanilluxe.png"},{"Name":"deerling","Type1":"Normal","Type2":"Grass","id":582,"url":"http://localhost:5000/images/deerling.png"},{"Name":"sawsbuck","Type1":"Normal","Type2":"Grass","id":583,"url":"http://localhost:5000/images/sawsbuck.png"},{"Name":"emolga","Type1":"Electric","Type2":"Flying","id":584,"url":"http://localhost:5000/images/emolga.png"},{"Name":"karrablast","Type1":"Bug","Type2":"","id":585,"url":"http://localhost:5000/images/karrablast.png"},{"Name":"escavalier","Type1":"Bug","Type2":"Steel","id":586,"url":"http://localhost:5000/images/escavalier.png"},{"Name":"foongus","Type1":"Grass","Type2":"Poison","id":587,"url":"http://localhost:5000/images/foongus.png"},{"Name":"amoonguss","Type1":"Grass","Type2":"Poison","id":588,"url":"http://localhost:5000/images/amoonguss.png"},{"Name":"frillish","Type1":"Water","Type2":"Ghost","id":589,"url":"http://localhost:5000/images/frillish.png"},{"Name":"jellicent","Type1":"Water","Type2":"Ghost","id":590,"url":"http://localhost:5000/images/jellicent.png"},{"Name":"alomomola","Type1":"Water","Type2":"","id":591,"url":"http://localhost:5000/images/alomomola.png"},{"Name":"joltik","Type1":"Bug","Type2":"Electric","id":592,"url":"http://localhost:5000/images/joltik.png"},{"Name":"galvantula","Type1":"Bug","Type2":"Electric","id":593,"url":"http://localhost:5000/images/galvantula.png"},{"Name":"ferroseed","Type1":"Grass","Type2":"Steel","id":594,"url":"http://localhost:5000/images/ferroseed.png"},{"Name":"ferrothorn","Type1":"Grass","Type2":"Steel","id":595,"url":"http://localhost:5000/images/ferrothorn.png"},{"Name":"klink","Type1":"Steel","Type2":"","id":596,"url":"http://localhost:5000/images/klink.png"},{"Name":"klang","Type1":"Steel","Type2":"","id":597,"url":"http://localhost:5000/images/klang.png"},{"Name":"klinklang","Type1":"Steel","Type2":"","id":598,"url":"http://localhost:5000/images/klinklang.png"},{"Name":"tynamo","Type1":"Electric","Type2":"","id":599,"url":"http://localhost:5000/images/tynamo.png"},{"Name":"eelektrik","Type1":"Electric","Type2":"","id":600,"url":"http://localhost:5000/images/eelektrik.png"},{"Name":"eelektross","Type1":"Electric","Type2":"","id":601,"url":"http://localhost:5000/images/eelektross.png"},{"Name":"elgyem","Type1":"Psychic","Type2":"","id":602,"url":"http://localhost:5000/images/elgyem.png"},{"Name":"beheeyem","Type1":"Psychic","Type2":"","id":603,"url":"http://localhost:5000/images/beheeyem.png"},{"Name":"litwick","Type1":"Ghost","Type2":"Fire","id":604,"url":"http://localhost:5000/images/litwick.png"},{"Name":"lampent","Type1":"Ghost","Type2":"Fire","id":605,"url":"http://localhost:5000/images/lampent.png"},{"Name":"chandelure","Type1":"Ghost","Type2":"Fire","id":606,"url":"http://localhost:5000/images/chandelure.png"},{"Name":"axew","Type1":"Dragon","Type2":"","id":607,"url":"http://localhost:5000/images/axew.png"},{"Name":"fraxure","Type1":"Dragon","Type2":"","id":608,"url":"http://localhost:5000/images/fraxure.png"},{"Name":"haxorus","Type1":"Dragon","Type2":"","id":609,"url":"http://localhost:5000/images/haxorus.png"},{"Name":"cubchoo","Type1":"Ice","Type2":"","id":610,"url":"http://localhost:5000/images/cubchoo.png"},{"Name":"beartic","Type1":"Ice","Type2":"","id":611,"url":"http://localhost:5000/images/beartic.png"},{"Name":"cryogonal","Type1":"Ice","Type2":"","id":612,"url":"http://localhost:5000/images/cryogonal.png"},{"Name":"shelmet","Type1":"Bug","Type2":"","id":613,"url":"http://localhost:5000/images/shelmet.png"},{"Name":"accelgor","Type1":"Bug","Type2":"","id":614,"url":"http://localhost:5000/images/accelgor.png"},{"Name":"stunfisk","Type1":"Ground","Type2":"Electric","id":615,"url":"http://localhost:5000/images/stunfisk.png"},{"Name":"mienfoo","Type1":"Fighting","Type2":"","id":616,"url":"http://localhost:5000/images/mienfoo.png"},{"Name":"mienshao","Type1":"Fighting","Type2":"","id":617,"url":"http://localhost:5000/images/mienshao.png"},{"Name":"druddigon","Type1":"Dragon","Type2":"","id":618,"url":"http://localhost:5000/images/druddigon.png"},{"Name":"golett","Type1":"Ground","Type2":"Ghost","id":619,"url":"http://localhost:5000/images/golett.png"},{"Name":"golurk","Type1":"Ground","Type2":"Ghost","id":620,"url":"http://localhost:5000/images/golurk.png"},{"Name":"pawniard","Type1":"Dark","Type2":"Steel","id":621,"url":"http://localhost:5000/images/pawniard.png"},{"Name":"bisharp","Type1":"Dark","Type2":"Steel","id":622,"url":"http://localhost:5000/images/bisharp.png"},{"Name":"bouffalant","Type1":"Normal","Type2":"","id":623,"url":"http://localhost:5000/images/bouffalant.png"},{"Name":"rufflet","Type1":"Normal","Type2":"Flying","id":624,"url":"http://localhost:5000/images/rufflet.png"},{"Name":"braviary","Type1":"Normal","Type2":"Flying","id":625,"url":"http://localhost:5000/images/braviary.png"},{"Name":"vullaby","Type1":"Dark","Type2":"Flying","id":626,"url":"http://localhost:5000/images/vullaby.png"},{"Name":"mandibuzz","Type1":"Dark","Type2":"Flying","id":627,"url":"http://localhost:5000/images/mandibuzz.png"},{"Name":"heatmor","Type1":"Fire","Type2":"","id":628,"url":"http://localhost:5000/images/heatmor.png"},{"Name":"durant","Type1":"Bug","Type2":"Steel","id":629,"url":"http://localhost:5000/images/durant.png"},{"Name":"deino","Type1":"Dark","Type2":"Dragon","id":630,"url":"http://localhost:5000/images/deino.png"},{"Name":"zweilous","Type1":"Dark","Type2":"Dragon","id":631,"url":"http://localhost:5000/images/zweilous.png"},{"Name":"hydreigon","Type1":"Dark","Type2":"Dragon","id":632,"url":"http://localhost:5000/images/hydreigon.png"},{"Name":"larvesta","Type1":"Bug","Type2":"Fire","id":633,"url":"http://localhost:5000/images/larvesta.png"},{"Name":"volcarona","Type1":"Bug","Type2":"Fire","id":634,"url":"http://localhost:5000/images/volcarona.png"},{"Name":"cobalion","Type1":"Steel","Type2":"Fighting","id":635,"url":"http://localhost:5000/images/cobalion.png"},{"Name":"terrakion","Type1":"Rock","Type2":"Fighting","id":636,"url":"http://localhost:5000/images/terrakion.png"},{"Name":"virizion","Type1":"Grass","Type2":"Fighting","id":637,"url":"http://localhost:5000/images/virizion.png"},{"Name":"tornadus-incarnate","Type1":"Flying","Type2":"","id":638,"url":"http://localhost:5000/images/tornadus-incarnate.png"},{"Name":"thundurus-incarnate","Type1":"Electric","Type2":"Flying","id":639,"url":"http://localhost:5000/images/thundurus-incarnate.png"},{"Name":"reshiram","Type1":"Dragon","Type2":"Fire","id":640,"url":"http://localhost:5000/images/reshiram.png"},{"Name":"zekrom","Type1":"Dragon","Type2":"Electric","id":641,"url":"http://localhost:5000/images/zekrom.png"},{"Name":"landorus-incarnate","Type1":"Ground","Type2":"Flying","id":642,"url":"http://localhost:5000/images/landorus-incarnate.png"},{"Name":"kyurem","Type1":"Dragon","Type2":"Ice","id":643,"url":"http://localhost:5000/images/kyurem.png"},{"Name":"keldeo-ordinary","Type1":"Water","Type2":"Fighting","id":644,"url":"http://localhost:5000/images/keldeo-ordinary.png"},{"Name":"meloetta-aria","Type1":"Normal","Type2":"Psychic","id":645,"url":"http://localhost:5000/images/meloetta-aria.png"},{"Name":"genesect","Type1":"Bug","Type2":"Steel","id":646,"url":"http://localhost:5000/images/genesect.png"},{"Name":"chespin","Type1":"Grass","Type2":"","id":647,"url":"http://localhost:5000/images/chespin.png"},{"Name":"quilladin","Type1":"Grass","Type2":"","id":648,"url":"http://localhost:5000/images/quilladin.png"},{"Name":"chesnaught","Type1":"Grass","Type2":"Fighting","id":649,"url":"http://localhost:5000/images/chesnaught.png"},{"Name":"fennekin","Type1":"Fire","Type2":"","id":650,"url":"http://localhost:5000/images/fennekin.png"},{"Name":"braixen","Type1":"Fire","Type2":"","id":651,"url":"http://localhost:5000/images/braixen.png"},{"Name":"delphox","Type1":"Fire","Type2":"Psychic","id":652,"url":"http://localhost:5000/images/delphox.png"},{"Name":"froakie","Type1":"Water","Type2":"","id":653,"url":"http://localhost:5000/images/froakie.png"},{"Name":"frogadier","Type1":"Water","Type2":"","id":654,"url":"http://localhost:5000/images/frogadier.png"},{"Name":"greninja","Type1":"Water","Type2":"Dark","id":655,"url":"http://localhost:5000/images/greninja.png"},{"Name":"bunnelby","Type1":"Normal","Type2":"","id":656,"url":"http://localhost:5000/images/bunnelby.png"},{"Name":"diggersby","Type1":"Normal","Type2":"Ground","id":657,"url":"http://localhost:5000/images/diggersby.png"},{"Name":"fletchling","Type1":"Normal","Type2":"Flying","id":658,"url":"http://localhost:5000/images/fletchling.png"},{"Name":"fletchinder","Type1":"Fire","Type2":"Flying","id":659,"url":"http://localhost:5000/images/fletchinder.png"},{"Name":"talonflame","Type1":"Fire","Type2":"Flying","id":660,"url":"http://localhost:5000/images/talonflame.png"},{"Name":"scatterbug","Type1":"Bug","Type2":"","id":661,"url":"http://localhost:5000/images/scatterbug.png"},{"Name":"spewpa","Type1":"Bug","Type2":"","id":662,"url":"http://localhost:5000/images/spewpa.png"},{"Name":"vivillon","Type1":"Bug","Type2":"Flying","id":663,"url":"http://localhost:5000/images/vivillon.png"},{"Name":"litleo","Type1":"Fire","Type2":"Normal","id":664,"url":"http://localhost:5000/images/litleo.png"},{"Name":"pyroar","Type1":"Fire","Type2":"Normal","id":665,"url":"http://localhost:5000/images/pyroar.png"},{"Name":"flabebe","Type1":"Fairy","Type2":"","id":666,"url":"http://localhost:5000/images/flabebe.png"},{"Name":"floette","Type1":"Fairy","Type2":"","id":667,"url":"http://localhost:5000/images/floette.png"},{"Name":"florges","Type1":"Fairy","Type2":"","id":668,"url":"http://localhost:5000/images/florges.png"},{"Name":"skiddo","Type1":"Grass","Type2":"","id":669,"url":"http://localhost:5000/images/skiddo.png"},{"Name":"gogoat","Type1":"Grass","Type2":"","id":670,"url":"http://localhost:5000/images/gogoat.png"},{"Name":"pancham","Type1":"Fighting","Type2":"","id":671,"url":"http://localhost:5000/images/pancham.png"},{"Name":"pangoro","Type1":"Fighting","Type2":"Dark","id":672,"url":"http://localhost:5000/images/pangoro.png"},{"Name":"furfrou","Type1":"Normal","Type2":"","id":673,"url":"http://localhost:5000/images/furfrou.png"},{"Name":"espurr","Type1":"Psychic","Type2":"","id":674,"url":"http://localhost:5000/images/espurr.png"},{"Name":"meowstic-male","Type1":"Psychic","Type2":"","id":675,"url":"http://localhost:5000/images/meowstic-male.png"},{"Name":"honedge","Type1":"Steel","Type2":"Ghost","id":676,"url":"http://localhost:5000/images/honedge.png"},{"Name":"doublade","Type1":"Steel","Type2":"Ghost","id":677,"url":"http://localhost:5000/images/doublade.png"},{"Name":"aegislash-blade","Type1":"Steel","Type2":"Ghost","id":678,"url":"http://localhost:5000/images/aegislash-blade.png"},{"Name":"spritzee","Type1":"Fairy","Type2":"","id":679,"url":"http://localhost:5000/images/spritzee.png"},{"Name":"aromatisse","Type1":"Fairy","Type2":"","id":680,"url":"http://localhost:5000/images/aromatisse.png"},{"Name":"swirlix","Type1":"Fairy","Type2":"","id":681,"url":"http://localhost:5000/images/swirlix.png"},{"Name":"slurpuff","Type1":"Fairy","Type2":"","id":682,"url":"http://localhost:5000/images/slurpuff.png"},{"Name":"inkay","Type1":"Dark","Type2":"Psychic","id":683,"url":"http://localhost:5000/images/inkay.png"},{"Name":"malamar","Type1":"Dark","Type2":"Psychic","id":684,"url":"http://localhost:5000/images/malamar.png"},{"Name":"binacle","Type1":"Rock","Type2":"Water","id":685,"url":"http://localhost:5000/images/binacle.png"},{"Name":"barbaracle","Type1":"Rock","Type2":"Water","id":686,"url":"http://localhost:5000/images/barbaracle.png"},{"Name":"skrelp","Type1":"Poison","Type2":"Water","id":687,"url":"http://localhost:5000/images/skrelp.png"},{"Name":"dragalge","Type1":"Poison","Type2":"Dragon","id":688,"url":"http://localhost:5000/images/dragalge.png"},{"Name":"clauncher","Type1":"Water","Type2":"","id":689,"url":"http://localhost:5000/images/clauncher.png"},{"Name":"clawitzer","Type1":"Water","Type2":"","id":690,"url":"http://localhost:5000/images/clawitzer.png"},{"Name":"helioptile","Type1":"Electric","Type2":"Normal","id":691,"url":"http://localhost:5000/images/helioptile.png"},{"Name":"heliolisk","Type1":"Electric","Type2":"Normal","id":692,"url":"http://localhost:5000/images/heliolisk.png"},{"Name":"tyrunt","Type1":"Rock","Type2":"Dragon","id":693,"url":"http://localhost:5000/images/tyrunt.png"},{"Name":"tyrantrum","Type1":"Rock","Type2":"Dragon","id":694,"url":"http://localhost:5000/images/tyrantrum.png"},{"Name":"amaura","Type1":"Rock","Type2":"Ice","id":695,"url":"http://localhost:5000/images/amaura.png"},{"Name":"aurorus","Type1":"Rock","Type2":"Ice","id":696,"url":"http://localhost:5000/images/aurorus.png"},{"Name":"sylveon","Type1":"Fairy","Type2":"","id":697,"url":"http://localhost:5000/images/sylveon.png"},{"Name":"hawlucha","Type1":"Fighting","Type2":"Flying","id":698,"url":"http://localhost:5000/images/hawlucha.png"},{"Name":"dedenne","Type1":"Electric","Type2":"Fairy","id":699,"url":"http://localhost:5000/images/dedenne.png"},{"Name":"carbink","Type1":"Rock","Type2":"Fairy","id":700,"url":"http://localhost:5000/images/carbink.png"},{"Name":"goomy","Type1":"Dragon","Type2":"","id":701,"url":"http://localhost:5000/images/goomy.png"},{"Name":"sliggoo","Type1":"Dragon","Type2":"","id":702,"url":"http://localhost:5000/images/sliggoo.png"},{"Name":"goodra","Type1":"Dragon","Type2":"","id":703,"url":"http://localhost:5000/images/goodra.png"},{"Name":"klefki","Type1":"Steel","Type2":"Fairy","id":704,"url":"http://localhost:5000/images/klefki.png"},{"Name":"phantump","Type1":"Ghost","Type2":"Grass","id":705,"url":"http://localhost:5000/images/phantump.png"},{"Name":"trevenant","Type1":"Ghost","Type2":"Grass","id":706,"url":"http://localhost:5000/images/trevenant.png"},{"Name":"pumpkaboo-average","Type1":"Ghost","Type2":"Grass","id":707,"url":"http://localhost:5000/images/pumpkaboo-average.png"},{"Name":"gourgeist-average","Type1":"Ghost","Type2":"Grass","id":708,"url":"http://localhost:5000/images/gourgeist-average.png"},{"Name":"bergmite","Type1":"Ice","Type2":"","id":709,"url":"http://localhost:5000/images/bergmite.png"},{"Name":"avalugg","Type1":"Ice","Type2":"","id":710,"url":"http://localhost:5000/images/avalugg.png"},{"Name":"noibat","Type1":"Flying","Type2":"Dragon","id":711,"url":"http://localhost:5000/images/noibat.png"},{"Name":"noivern","Type1":"Flying","Type2":"Dragon","id":712,"url":"http://localhost:5000/images/noivern.png"},{"Name":"xerneas","Type1":"Fairy","Type2":"","id":713,"url":"http://localhost:5000/images/xerneas.png"},{"Name":"yveltal","Type1":"Dark","Type2":"Flying","id":714,"url":"http://localhost:5000/images/yveltal.png"},{"Name":"zygarde-50","Type1":"Dragon","Type2":"Ground","id":715,"url":"http://localhost:5000/images/zygarde-50.png"},{"Name":"diancie","Type1":"Rock","Type2":"Fairy","id":716,"url":"http://localhost:5000/images/diancie.png"},{"Name":"hoopa-confined","Type1":"Psychic","Type2":"Ghost","id":717,"url":"http://localhost:5000/images/hoopa-confined.png"},{"Name":"volcanion","Type1":"Fire","Type2":"Water","id":718,"url":"http://localhost:5000/images/volcanion.png"},{"Name":"rowlet","Type1":"Grass","Type2":"Flying","id":719,"url":"http://localhost:5000/images/rowlet.png"},{"Name":"dartrix","Type1":"Grass","Type2":"Flying","id":720,"url":"http://localhost:5000/images/dartrix.png"},{"Name":"decidueye","Type1":"Grass","Type2":"Ghost","id":721,"url":"http://localhost:5000/images/decidueye.png"},{"Name":"litten","Type1":"Fire","Type2":"","id":722,"url":"http://localhost:5000/images/litten.png"},{"Name":"torracat","Type1":"Fire","Type2":"","id":723,"url":"http://localhost:5000/images/torracat.png"},{"Name":"incineroar","Type1":"Fire","Type2":"Dark","id":724,"url":"http://localhost:5000/images/incineroar.png"},{"Name":"popplio","Type1":"Water","Type2":"","id":725,"url":"http://localhost:5000/images/popplio.png"},{"Name":"brionne","Type1":"Water","Type2":"","id":726,"url":"http://localhost:5000/images/brionne.png"},{"Name":"primarina","Type1":"Water","Type2":"Fairy","id":727,"url":"http://localhost:5000/images/primarina.png"},{"Name":"pikipek","Type1":"Normal","Type2":"Flying","id":728,"url":"http://localhost:5000/images/pikipek.png"},{"Name":"trumbeak","Type1":"Normal","Type2":"Flying","id":729,"url":"http://localhost:5000/images/trumbeak.png"},{"Name":"toucannon","Type1":"Normal","Type2":"Flying","id":730,"url":"http://localhost:5000/images/toucannon.png"},{"Name":"yungoos","Type1":"Normal","Type2":"","id":731,"url":"http://localhost:5000/images/yungoos.png"},{"Name":"gumshoos","Type1":"Normal","Type2":"","id":732,"url":"http://localhost:5000/images/gumshoos.png"},{"Name":"grubbin","Type1":"Bug","Type2":"","id":733,"url":"http://localhost:5000/images/grubbin.png"},{"Name":"charjabug","Type1":"Bug","Type2":"Electric","id":734,"url":"http://localhost:5000/images/charjabug.png"},{"Name":"vikavolt","Type1":"Bug","Type2":"Electric","id":735,"url":"http://localhost:5000/images/vikavolt.png"},{"Name":"crabrawler","Type1":"Fighting","Type2":"","id":736,"url":"http://localhost:5000/images/crabrawler.png"},{"Name":"crabominable","Type1":"Fighting","Type2":"Ice","id":737,"url":"http://localhost:5000/images/crabominable.png"},{"Name":"oricorio-baile","Type1":"Fire","Type2":"Flying","id":738,"url":"http://localhost:5000/images/oricorio-baile.png"},{"Name":"cutiefly","Type1":"Bug","Type2":"Fairy","id":739,"url":"http://localhost:5000/images/cutiefly.png"},{"Name":"ribombee","Type1":"Bug","Type2":"Fairy","id":740,"url":"http://localhost:5000/images/ribombee.png"},{"Name":"rockruff","Type1":"Rock","Type2":"","id":741,"url":"http://localhost:5000/images/rockruff.png"},{"Name":"lycanroc-midday","Type1":"Rock","Type2":"","id":742,"url":"http://localhost:5000/images/lycanroc-midday.png"},{"Name":"wishiwashi-solo","Type1":"Water","Type2":"","id":743,"url":"http://localhost:5000/images/wishiwashi-solo.png"},{"Name":"mareanie","Type1":"Poison","Type2":"Water","id":744,"url":"http://localhost:5000/images/mareanie.png"},{"Name":"toxapex","Type1":"Poison","Type2":"Water","id":745,"url":"http://localhost:5000/images/toxapex.png"},{"Name":"mudbray","Type1":"Ground","Type2":"","id":746,"url":"http://localhost:5000/images/mudbray.png"},{"Name":"mudsdale","Type1":"Ground","Type2":"","id":747,"url":"http://localhost:5000/images/mudsdale.png"},{"Name":"dewpider","Type1":"Water","Type2":"Bug","id":748,"url":"http://localhost:5000/images/dewpider.png"},{"Name":"araquanid","Type1":"Water","Type2":"Bug","id":749,"url":"http://localhost:5000/images/araquanid.png"},{"Name":"fomantis","Type1":"Grass","Type2":"","id":750,"url":"http://localhost:5000/images/fomantis.png"},{"Name":"lurantis","Type1":"Grass","Type2":"","id":751,"url":"http://localhost:5000/images/lurantis.png"},{"Name":"morelull","Type1":"Grass","Type2":"Fairy","id":752,"url":"http://localhost:5000/images/morelull.png"},{"Name":"shiinotic","Type1":"Grass","Type2":"Fairy","id":753,"url":"http://localhost:5000/images/shiinotic.png"},{"Name":"salandit","Type1":"Poison","Type2":"Fire","id":754,"url":"http://localhost:5000/images/salandit.png"},{"Name":"salazzle","Type1":"Poison","Type2":"Fire","id":755,"url":"http://localhost:5000/images/salazzle.png"},{"Name":"stufful","Type1":"Normal","Type2":"Fighting","id":756,"url":"http://localhost:5000/images/stufful.png"},{"Name":"bewear","Type1":"Normal","Type2":"Fighting","id":757,"url":"http://localhost:5000/images/bewear.png"},{"Name":"bounsweet","Type1":"Grass","Type2":"","id":758,"url":"http://localhost:5000/images/bounsweet.png"},{"Name":"steenee","Type1":"Grass","Type2":"","id":759,"url":"http://localhost:5000/images/steenee.png"},{"Name":"tsareena","Type1":"Grass","Type2":"","id":760,"url":"http://localhost:5000/images/tsareena.png"},{"Name":"comfey","Type1":"Fairy","Type2":"","id":761,"url":"http://localhost:5000/images/comfey.png"},{"Name":"oranguru","Type1":"Normal","Type2":"Psychic","id":762,"url":"http://localhost:5000/images/oranguru.png"},{"Name":"passimian","Type1":"Fighting","Type2":"","id":763,"url":"http://localhost:5000/images/passimian.png"},{"Name":"wimpod","Type1":"Bug","Type2":"Water","id":764,"url":"http://localhost:5000/images/wimpod.png"},{"Name":"golisopod","Type1":"Bug","Type2":"Water","id":765,"url":"http://localhost:5000/images/golisopod.png"},{"Name":"sandygast","Type1":"Ghost","Type2":"Ground","id":766,"url":"http://localhost:5000/images/sandygast.png"},{"Name":"palossand","Type1":"Ghost","Type2":"Ground","id":767,"url":"http://localhost:5000/images/palossand.png"},{"Name":"pyukumuku","Type1":"Water","Type2":"","id":768,"url":"http://localhost:5000/images/pyukumuku.png"},{"Name":"type-null","Type1":"Normal","Type2":"","id":769,"url":"http://localhost:5000/images/type-null.png"},{"Name":"silvally","Type1":"Normal","Type2":"","id":770,"url":"http://localhost:5000/images/silvally.png"},{"Name":"minior-meteor","Type1":"Rock","Type2":"Flying","id":771,"url":"http://localhost:5000/images/minior-meteor.png"},{"Name":"komala","Type1":"Normal","Type2":"","id":772,"url":"http://localhost:5000/images/komala.png"},{"Name":"turtonator","Type1":"Fire","Type2":"Dragon","id":773,"url":"http://localhost:5000/images/turtonator.png"},{"Name":"togedemaru","Type1":"Electric","Type2":"Steel","id":774,"url":"http://localhost:5000/images/togedemaru.png"},{"Name":"mimikyu","Type1":"Ghost","Type2":"Fairy","id":775,"url":"http://localhost:5000/images/mimikyu.png"},{"Name":"bruxish","Type1":"Water","Type2":"Psychic","id":776,"url":"http://localhost:5000/images/bruxish.png"},{"Name":"drampa","Type1":"Normal","Type2":"Dragon","id":777,"url":"http://localhost:5000/images/drampa.png"},{"Name":"dhelmise","Type1":"Ghost","Type2":"Grass","id":778,"url":"http://localhost:5000/images/dhelmise.png"},{"Name":"jangmo-o","Type1":"Dragon","Type2":"","id":779,"url":"http://localhost:5000/images/jangmo-o.png"},{"Name":"hakamo-o","Type1":"Dragon","Type2":"Fighting","id":780,"url":"http://localhost:5000/images/hakamo-o.png"},{"Name":"kommo-o","Type1":"Dragon","Type2":"Fighting","id":781,"url":"http://localhost:5000/images/kommo-o.png"},{"Name":"tapu-koko","Type1":"Electric","Type2":"Fairy","id":782,"url":"http://localhost:5000/images/tapu-koko.png"},{"Name":"tapu-lele","Type1":"Psychic","Type2":"Fairy","id":783,"url":"http://localhost:5000/images/tapu-lele.png"},{"Name":"tapu-bulu","Type1":"Grass","Type2":"Fairy","id":784,"url":"http://localhost:5000/images/tapu-bulu.png"},{"Name":"tapu-fini","Type1":"Water","Type2":"Fairy","id":785,"url":"http://localhost:5000/images/tapu-fini.png"},{"Name":"cosmog","Type1":"Psychic","Type2":"","id":786,"url":"http://localhost:5000/images/cosmog.png"},{"Name":"cosmoem","Type1":"Psychic","Type2":"","id":787,"url":"http://localhost:5000/images/cosmoem.png"},{"Name":"solgaleo","Type1":"Psychic","Type2":"Steel","id":788,"url":"http://localhost:5000/images/solgaleo.png"},{"Name":"lunala","Type1":"Psychic","Type2":"Ghost","id":789,"url":"http://localhost:5000/images/lunala.png"},{"Name":"nihilego","Type1":"Rock","Type2":"Poison","id":790,"url":"http://localhost:5000/images/nihilego.png"},{"Name":"buzzwole","Type1":"Bug","Type2":"Fighting","id":791,"url":"http://localhost:5000/images/buzzwole.png"},{"Name":"pheromosa","Type1":"Bug","Type2":"Fighting","id":792,"url":"http://localhost:5000/images/pheromosa.png"},{"Name":"xurkitree","Type1":"Electric","Type2":"","id":793,"url":"http://localhost:5000/images/xurkitree.png"},{"Name":"celesteela","Type1":"Steel","Type2":"Flying","id":794,"url":"http://localhost:5000/images/celesteela.png"},{"Name":"kartana","Type1":"Grass","Type2":"Steel","id":795,"url":"http://localhost:5000/images/kartana.png"},{"Name":"guzzlord","Type1":"Dark","Type2":"Dragon","id":796,"url":"http://localhost:5000/images/guzzlord.png"},{"Name":"necrozma","Type1":"Psychic","Type2":"","id":797,"url":"http://localhost:5000/images/necrozma.png"},{"Name":"magearna","Type1":"Steel","Type2":"Fairy","id":798,"url":"http://localhost:5000/images/magearna.png"},{"Name":"marshadow","Type1":"Fighting","Type2":"Ghost","id":799,"url":"http://localhost:5000/images/marshadow.png"},{"Name":"poipole","Type1":"Poison","Type2":"","id":800,"url":"http://localhost:5000/images/poipole.png"},{"Name":"naganadel","Type1":"Poison","Type2":"Dragon","id":801,"url":"http://localhost:5000/images/naganadel.png"},{"Name":"stakataka","Type1":"Rock","Type2":"Steel","id":802,"url":"http://localhost:5000/images/stakataka.png"},{"Name":"blacephalon","Type1":"Fire","Type2":"Ghost","id":803,"url":"http://localhost:5000/images/blacephalon.png"},{"Name":"zeraora","Type1":"Electric","Type2":"","id":804,"url":"http://localhost:5000/images/zeraora.png"},{"Name":"meltan","Type1":"Steel","Type2":"","id":805,"url":"http://localhost:5000/images/meltan.png"},{"Name":"melmetal","Type1":"Steel","Type2":"","id":806,"url":"http://localhost:5000/images/melmetal.png"},{"Name":"Tuan Hoang","imageURL":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n","Type1":"Fire","Type2":"Flying","id":807,"url":"http://localhost:5000/images/Tuan Hoang.png"},{"Name":"Tuan","imageURL":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n","Type1":"Fire","Type2":"Flying","id":808,"url":"http://localhost:5000/images/Tuan.png"}]
+[
+	{
+		"Name": "Tuan",
+		"id": 1,
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"url": "/assets/images/Tuan.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "ivys",
+		"id": 2,
+		"url": "/assets/images/ivys.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "squirtle",
+		"id": 3,
+		"url": "/assets/images/squirtle.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "wartortle",
+		"id": 4,
+		"url": "/assets/images/wartortle.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "blastoise",
+		"id": 5,
+		"url": "/assets/images/blastoise.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "caterpie",
+		"id": 6,
+		"url": "/assets/images/caterpie.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "metapod",
+		"id": 7,
+		"url": "/assets/images/metapod.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "butterfree",
+		"id": 8,
+		"url": "/assets/images/butterfree.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "weedle",
+		"id": 9,
+		"url": "/assets/images/weedle.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "kakuna",
+		"id": 10,
+		"url": "/assets/images/kakuna.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "beedrill",
+		"id": 11,
+		"url": "/assets/images/beedrill.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "pidgey",
+		"id": 12,
+		"url": "/assets/images/pidgey.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "pidgeotto",
+		"id": 13,
+		"url": "/assets/images/pidgeotto.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "pidgeot",
+		"id": 14,
+		"url": "/assets/images/pidgeot.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "rattata",
+		"id": 15,
+		"url": "/assets/images/rattata.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "raticate",
+		"id": 16,
+		"url": "/assets/images/raticate.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "spearow",
+		"id": 17,
+		"url": "/assets/images/spearow.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "fearow",
+		"id": 18,
+		"url": "/assets/images/fearow.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "ekans",
+		"id": 19,
+		"url": "/assets/images/ekans.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "arbok",
+		"id": 20,
+		"url": "/assets/images/arbok.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "pikachu",
+		"id": 21,
+		"url": "/assets/images/pikachu.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "raichu",
+		"id": 22,
+		"url": "/assets/images/raichu.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "sandshrew",
+		"id": 23,
+		"url": "/assets/images/sandshrew.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "sandslash",
+		"id": 24,
+		"url": "/assets/images/sandslash.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "nidoran-f",
+		"id": 25,
+		"url": "/assets/images/nidoran-f.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "nidorina",
+		"id": 26,
+		"url": "/assets/images/nidorina.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "nidoqueen",
+		"id": 27,
+		"url": "/assets/images/nidoqueen.png",
+		"Types": ["Poison", "Ground"]
+	},
+	{
+		"Name": "nidoran-m",
+		"id": 28,
+		"url": "/assets/images/nidoran-m.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "nidorino",
+		"id": 29,
+		"url": "/assets/images/nidorino.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "nidoking",
+		"id": 30,
+		"url": "/assets/images/nidoking.png",
+		"Types": ["Poison", "Ground"]
+	},
+	{
+		"Name": "clefairy",
+		"id": 31,
+		"url": "/assets/images/clefairy.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "clefable",
+		"id": 32,
+		"url": "/assets/images/clefable.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "vulpix",
+		"id": 33,
+		"url": "/assets/images/vulpix.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "ninetales",
+		"id": 34,
+		"url": "/assets/images/ninetales.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "jigglypuff",
+		"id": 35,
+		"url": "/assets/images/jigglypuff.png",
+		"Types": ["Normal", "Fairy"]
+	},
+	{
+		"Name": "wigglytuff",
+		"id": 36,
+		"url": "/assets/images/wigglytuff.png",
+		"Types": ["Normal", "Fairy"]
+	},
+	{
+		"Name": "zubat",
+		"id": 37,
+		"url": "/assets/images/zubat.png",
+		"Types": ["Poison", "Flying"]
+	},
+	{
+		"Name": "golbat",
+		"id": 38,
+		"url": "/assets/images/golbat.png",
+		"Types": ["Poison", "Flying"]
+	},
+	{
+		"Name": "oddish",
+		"id": 39,
+		"url": "/assets/images/oddish.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "gloom",
+		"id": 40,
+		"url": "/assets/images/gloom.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "vileplume",
+		"id": 41,
+		"url": "/assets/images/vileplume.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "paras",
+		"id": 42,
+		"url": "/assets/images/paras.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "parasect",
+		"id": 43,
+		"url": "/assets/images/parasect.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "venonat",
+		"id": 44,
+		"url": "/assets/images/venonat.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "venomoth",
+		"id": 45,
+		"url": "/assets/images/venomoth.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "diglett",
+		"id": 46,
+		"url": "/assets/images/diglett.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "dugtrio",
+		"id": 47,
+		"url": "/assets/images/dugtrio.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "meowth",
+		"id": 48,
+		"url": "/assets/images/meowth.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "persian",
+		"id": 49,
+		"url": "/assets/images/persian.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "psyduck",
+		"id": 50,
+		"url": "/assets/images/psyduck.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "golduck",
+		"id": 51,
+		"url": "/assets/images/golduck.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "mankey",
+		"id": 52,
+		"url": "/assets/images/mankey.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "primeape",
+		"id": 53,
+		"url": "/assets/images/primeape.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "growlithe",
+		"id": 54,
+		"url": "/assets/images/growlithe.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "arcanine",
+		"id": 55,
+		"url": "/assets/images/arcanine.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "poliwag",
+		"id": 56,
+		"url": "/assets/images/poliwag.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "poliwhirl",
+		"id": 57,
+		"url": "/assets/images/poliwhirl.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "poliwrath",
+		"id": 58,
+		"url": "/assets/images/poliwrath.png",
+		"Types": ["Water", "Fighting"]
+	},
+	{
+		"Name": "abra",
+		"id": 59,
+		"url": "/assets/images/abra.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "kadabra",
+		"id": 60,
+		"url": "/assets/images/kadabra.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "alakazam",
+		"id": 61,
+		"url": "/assets/images/alakazam.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "machop",
+		"id": 62,
+		"url": "/assets/images/machop.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "machoke",
+		"id": 63,
+		"url": "/assets/images/machoke.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "machamp",
+		"id": 64,
+		"url": "/assets/images/machamp.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "bellsprout",
+		"id": 65,
+		"url": "/assets/images/bellsprout.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "weepinbell",
+		"id": 66,
+		"url": "/assets/images/weepinbell.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "victreebel",
+		"id": 67,
+		"url": "/assets/images/victreebel.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "tentacool",
+		"id": 68,
+		"url": "/assets/images/tentacool.png",
+		"Types": ["Water", "Poison"]
+	},
+	{
+		"Name": "tentacruel",
+		"id": 69,
+		"url": "/assets/images/tentacruel.png",
+		"Types": ["Water", "Poison"]
+	},
+	{
+		"Name": "geodude",
+		"id": 70,
+		"url": "/assets/images/geodude.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "graveler",
+		"id": 71,
+		"url": "/assets/images/graveler.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "golem",
+		"id": 72,
+		"url": "/assets/images/golem.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "ponyta",
+		"id": 73,
+		"url": "/assets/images/ponyta.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "rapidash",
+		"id": 74,
+		"url": "/assets/images/rapidash.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "slowpoke",
+		"id": 75,
+		"url": "/assets/images/slowpoke.png",
+		"Types": ["Water", "Psychic"]
+	},
+	{
+		"Name": "slowbro",
+		"id": 76,
+		"url": "/assets/images/slowbro.png",
+		"Types": ["Water", "Psychic"]
+	},
+	{
+		"Name": "magnemite",
+		"id": 77,
+		"url": "/assets/images/magnemite.png",
+		"Types": ["Electric", "Steel"]
+	},
+	{
+		"Name": "magneton",
+		"id": 78,
+		"url": "/assets/images/magneton.png",
+		"Types": ["Electric", "Steel"]
+	},
+	{
+		"Name": "farfetchd",
+		"id": 79,
+		"url": "/assets/images/farfetchd.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "doduo",
+		"id": 80,
+		"url": "/assets/images/doduo.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "dodrio",
+		"id": 81,
+		"url": "/assets/images/dodrio.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "seel",
+		"id": 82,
+		"url": "/assets/images/seel.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "dewgong",
+		"id": 83,
+		"url": "/assets/images/dewgong.png",
+		"Types": ["Water", "Ice"]
+	},
+	{
+		"Name": "grimer",
+		"id": 84,
+		"url": "/assets/images/grimer.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "muk",
+		"id": 85,
+		"url": "/assets/images/muk.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "shellder",
+		"id": 86,
+		"url": "/assets/images/shellder.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "cloyster",
+		"id": 87,
+		"url": "/assets/images/cloyster.png",
+		"Types": ["Water", "Ice"]
+	},
+	{
+		"Name": "gastly",
+		"id": 88,
+		"url": "/assets/images/gastly.png",
+		"Types": ["Ghost", "Poison"]
+	},
+	{
+		"Name": "haunter",
+		"id": 89,
+		"url": "/assets/images/haunter.png",
+		"Types": ["Ghost", "Poison"]
+	},
+	{
+		"Name": "gengar",
+		"id": 90,
+		"url": "/assets/images/gengar.png",
+		"Types": ["Ghost", "Poison"]
+	},
+	{
+		"Name": "onix",
+		"id": 91,
+		"url": "/assets/images/onix.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "drowzee",
+		"id": 92,
+		"url": "/assets/images/drowzee.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "hypno",
+		"id": 93,
+		"url": "/assets/images/hypno.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "krabby",
+		"id": 94,
+		"url": "/assets/images/krabby.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "kingler",
+		"id": 95,
+		"url": "/assets/images/kingler.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "voltorb",
+		"id": 96,
+		"url": "/assets/images/voltorb.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "electrode",
+		"id": 97,
+		"url": "/assets/images/electrode.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "exeggcute",
+		"id": 98,
+		"url": "/assets/images/exeggcute.png",
+		"Types": ["Grass", "Psychic"]
+	},
+	{
+		"Name": "exeggutor",
+		"id": 99,
+		"url": "/assets/images/exeggutor.png",
+		"Types": ["Grass", "Psychic"]
+	},
+	{
+		"Name": "cubone",
+		"id": 100,
+		"url": "/assets/images/cubone.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "marowak",
+		"id": 101,
+		"url": "/assets/images/marowak.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "hitmonlee",
+		"id": 102,
+		"url": "/assets/images/hitmonlee.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "hitmonchan",
+		"id": 103,
+		"url": "/assets/images/hitmonchan.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "lickitung",
+		"id": 104,
+		"url": "/assets/images/lickitung.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "koffing",
+		"id": 105,
+		"url": "/assets/images/koffing.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "weezing",
+		"id": 106,
+		"url": "/assets/images/weezing.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "rhyhorn",
+		"id": 107,
+		"url": "/assets/images/rhyhorn.png",
+		"Types": ["Ground", "Rock"]
+	},
+	{
+		"Name": "rhydon",
+		"id": 108,
+		"url": "/assets/images/rhydon.png",
+		"Types": ["Ground", "Rock"]
+	},
+	{
+		"Name": "chansey",
+		"id": 109,
+		"url": "/assets/images/chansey.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "tangela",
+		"id": 110,
+		"url": "/assets/images/tangela.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "kangaskhan",
+		"id": 111,
+		"url": "/assets/images/kangaskhan.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "horsea",
+		"id": 112,
+		"url": "/assets/images/horsea.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "seadra",
+		"id": 113,
+		"url": "/assets/images/seadra.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "goldeen",
+		"id": 114,
+		"url": "/assets/images/goldeen.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "seaking",
+		"id": 115,
+		"url": "/assets/images/seaking.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "staryu",
+		"id": 116,
+		"url": "/assets/images/staryu.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "starmie",
+		"id": 117,
+		"url": "/assets/images/starmie.png",
+		"Types": ["Water", "Psychic"]
+	},
+	{
+		"Name": "mr-mime",
+		"id": 118,
+		"url": "/assets/images/mr-mime.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "scyther",
+		"id": 119,
+		"url": "/assets/images/scyther.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "jynx",
+		"id": 120,
+		"url": "/assets/images/jynx.png",
+		"Types": ["Ice", "Psychic"]
+	},
+	{
+		"Name": "electabuzz",
+		"id": 121,
+		"url": "/assets/images/electabuzz.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "magmar",
+		"id": 122,
+		"url": "/assets/images/magmar.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "pinsir",
+		"id": 123,
+		"url": "/assets/images/pinsir.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "tauros",
+		"id": 124,
+		"url": "/assets/images/tauros.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "magikarp",
+		"id": 125,
+		"url": "/assets/images/magikarp.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "gyarados",
+		"id": 126,
+		"url": "/assets/images/gyarados.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "lapras",
+		"id": 127,
+		"url": "/assets/images/lapras.png",
+		"Types": ["Water", "Ice"]
+	},
+	{
+		"Name": "ditto",
+		"id": 128,
+		"url": "/assets/images/ditto.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "eevee",
+		"id": 129,
+		"url": "/assets/images/eevee.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "vaporeon",
+		"id": 130,
+		"url": "/assets/images/vaporeon.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "jolteon",
+		"id": 131,
+		"url": "/assets/images/jolteon.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "flareon",
+		"id": 132,
+		"url": "/assets/images/flareon.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "porygon",
+		"id": 133,
+		"url": "/assets/images/porygon.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "omanyte",
+		"id": 134,
+		"url": "/assets/images/omanyte.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "omastar",
+		"id": 135,
+		"url": "/assets/images/omastar.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "kabuto",
+		"id": 136,
+		"url": "/assets/images/kabuto.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "kabutops",
+		"id": 137,
+		"url": "/assets/images/kabutops.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "aerodactyl",
+		"id": 138,
+		"url": "/assets/images/aerodactyl.png",
+		"Types": ["Rock", "Flying"]
+	},
+	{
+		"Name": "snorlax",
+		"id": 139,
+		"url": "/assets/images/snorlax.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "articuno",
+		"id": 140,
+		"url": "/assets/images/articuno.png",
+		"Types": ["Ice", "Flying"]
+	},
+	{
+		"Name": "zapdos",
+		"id": 141,
+		"url": "/assets/images/zapdos.png",
+		"Types": ["Electric", "Flying"]
+	},
+	{
+		"Name": "moltres",
+		"id": 142,
+		"url": "/assets/images/moltres.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "dratini",
+		"id": 143,
+		"url": "/assets/images/dratini.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "dragonair",
+		"id": 144,
+		"url": "/assets/images/dragonair.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "dragonite",
+		"id": 145,
+		"url": "/assets/images/dragonite.png",
+		"Types": ["Dragon", "Flying"]
+	},
+	{
+		"Name": "mewtwo",
+		"id": 146,
+		"url": "/assets/images/mewtwo.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "mew",
+		"id": 147,
+		"url": "/assets/images/mew.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "chikorita",
+		"id": 148,
+		"url": "/assets/images/chikorita.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "bayleef",
+		"id": 149,
+		"url": "/assets/images/bayleef.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "meganium",
+		"id": 150,
+		"url": "/assets/images/meganium.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "cyndaquil",
+		"id": 151,
+		"url": "/assets/images/cyndaquil.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "quilava",
+		"id": 152,
+		"url": "/assets/images/quilava.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "typhlosion",
+		"id": 153,
+		"url": "/assets/images/typhlosion.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "totodile",
+		"id": 154,
+		"url": "/assets/images/totodile.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "croconaw",
+		"id": 155,
+		"url": "/assets/images/croconaw.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "feraligatr",
+		"id": 156,
+		"url": "/assets/images/feraligatr.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "sentret",
+		"id": 157,
+		"url": "/assets/images/sentret.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "furret",
+		"id": 158,
+		"url": "/assets/images/furret.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "hoothoot",
+		"id": 159,
+		"url": "/assets/images/hoothoot.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "noctowl",
+		"id": 160,
+		"url": "/assets/images/noctowl.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "ledyba",
+		"id": 161,
+		"url": "/assets/images/ledyba.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "ledian",
+		"id": 162,
+		"url": "/assets/images/ledian.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "spinarak",
+		"id": 163,
+		"url": "/assets/images/spinarak.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "ariados",
+		"id": 164,
+		"url": "/assets/images/ariados.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "crobat",
+		"id": 165,
+		"url": "/assets/images/crobat.png",
+		"Types": ["Poison", "Flying"]
+	},
+	{
+		"Name": "chinchou",
+		"id": 166,
+		"url": "/assets/images/chinchou.png",
+		"Types": ["Water", "Electric"]
+	},
+	{
+		"Name": "lanturn",
+		"id": 167,
+		"url": "/assets/images/lanturn.png",
+		"Types": ["Water", "Electric"]
+	},
+	{
+		"Name": "pichu",
+		"id": 168,
+		"url": "/assets/images/pichu.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "cleffa",
+		"id": 169,
+		"url": "/assets/images/cleffa.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "igglybuff",
+		"id": 170,
+		"url": "/assets/images/igglybuff.png",
+		"Types": ["Normal", "Fairy"]
+	},
+	{
+		"Name": "togepi",
+		"id": 171,
+		"url": "/assets/images/togepi.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "togetic",
+		"id": 172,
+		"url": "/assets/images/togetic.png",
+		"Types": ["Fairy", "Flying"]
+	},
+	{
+		"Name": "natu",
+		"id": 173,
+		"url": "/assets/images/natu.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "xatu",
+		"id": 174,
+		"url": "/assets/images/xatu.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "mareep",
+		"id": 175,
+		"url": "/assets/images/mareep.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "flaaffy",
+		"id": 176,
+		"url": "/assets/images/flaaffy.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "ampharos",
+		"id": 177,
+		"url": "/assets/images/ampharos.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "bellossom",
+		"id": 178,
+		"url": "/assets/images/bellossom.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "marill",
+		"id": 179,
+		"url": "/assets/images/marill.png",
+		"Types": ["Water", "Fairy"]
+	},
+	{
+		"Name": "azumarill",
+		"id": 180,
+		"url": "/assets/images/azumarill.png",
+		"Types": ["Water", "Fairy"]
+	},
+	{
+		"Name": "sudowoodo",
+		"id": 181,
+		"url": "/assets/images/sudowoodo.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "politoed",
+		"id": 182,
+		"url": "/assets/images/politoed.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "hoppip",
+		"id": 183,
+		"url": "/assets/images/hoppip.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "skiploom",
+		"id": 184,
+		"url": "/assets/images/skiploom.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "jumpluff",
+		"id": 185,
+		"url": "/assets/images/jumpluff.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "aipom",
+		"id": 186,
+		"url": "/assets/images/aipom.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "sunkern",
+		"id": 187,
+		"url": "/assets/images/sunkern.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "sunflora",
+		"id": 188,
+		"url": "/assets/images/sunflora.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "yanma",
+		"id": 189,
+		"url": "/assets/images/yanma.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "wooper",
+		"id": 190,
+		"url": "/assets/images/wooper.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "quagsire",
+		"id": 191,
+		"url": "/assets/images/quagsire.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "espeon",
+		"id": 192,
+		"url": "/assets/images/espeon.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "umbreon",
+		"id": 193,
+		"url": "/assets/images/umbreon.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "murkrow",
+		"id": 194,
+		"url": "/assets/images/murkrow.png",
+		"Types": ["Dark", "Flying"]
+	},
+	{
+		"Name": "slowking",
+		"id": 195,
+		"url": "/assets/images/slowking.png",
+		"Types": ["Water", "Psychic"]
+	},
+	{
+		"Name": "misdreavus",
+		"id": 196,
+		"url": "/assets/images/misdreavus.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "unown",
+		"id": 197,
+		"url": "/assets/images/unown.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "wobbuffet",
+		"id": 198,
+		"url": "/assets/images/wobbuffet.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "girafarig",
+		"id": 199,
+		"url": "/assets/images/girafarig.png",
+		"Types": ["Normal", "Psychic"]
+	},
+	{
+		"Name": "pineco",
+		"id": 200,
+		"url": "/assets/images/pineco.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "forretress",
+		"id": 201,
+		"url": "/assets/images/forretress.png",
+		"Types": ["Bug", "Steel"]
+	},
+	{
+		"Name": "dunsparce",
+		"id": 202,
+		"url": "/assets/images/dunsparce.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "gligar",
+		"id": 203,
+		"url": "/assets/images/gligar.png",
+		"Types": ["Ground", "Flying"]
+	},
+	{
+		"Name": "steelix",
+		"id": 204,
+		"url": "/assets/images/steelix.png",
+		"Types": ["Steel", "Ground"]
+	},
+	{
+		"Name": "snubbull",
+		"id": 205,
+		"url": "/assets/images/snubbull.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "granbull",
+		"id": 206,
+		"url": "/assets/images/granbull.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "qwilfish",
+		"id": 207,
+		"url": "/assets/images/qwilfish.png",
+		"Types": ["Water", "Poison"]
+	},
+	{
+		"Name": "scizor",
+		"id": 208,
+		"url": "/assets/images/scizor.png",
+		"Types": ["Bug", "Steel"]
+	},
+	{
+		"Name": "shuckle",
+		"id": 209,
+		"url": "/assets/images/shuckle.png",
+		"Types": ["Bug", "Rock"]
+	},
+	{
+		"Name": "heracross",
+		"id": 210,
+		"url": "/assets/images/heracross.png",
+		"Types": ["Bug", "Fighting"]
+	},
+	{
+		"Name": "sneasel",
+		"id": 211,
+		"url": "/assets/images/sneasel.png",
+		"Types": ["Dark", "Ice"]
+	},
+	{
+		"Name": "teddiursa",
+		"id": 212,
+		"url": "/assets/images/teddiursa.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "ursaring",
+		"id": 213,
+		"url": "/assets/images/ursaring.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "slugma",
+		"id": 214,
+		"url": "/assets/images/slugma.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "magcargo",
+		"id": 215,
+		"url": "/assets/images/magcargo.png",
+		"Types": ["Fire", "Rock"]
+	},
+	{
+		"Name": "swinub",
+		"id": 216,
+		"url": "/assets/images/swinub.png",
+		"Types": ["Ice", "Ground"]
+	},
+	{
+		"Name": "piloswine",
+		"id": 217,
+		"url": "/assets/images/piloswine.png",
+		"Types": ["Ice", "Ground"]
+	},
+	{
+		"Name": "corsola",
+		"id": 218,
+		"url": "/assets/images/corsola.png",
+		"Types": ["Water", "Rock"]
+	},
+	{
+		"Name": "remoraid",
+		"id": 219,
+		"url": "/assets/images/remoraid.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "octillery",
+		"id": 220,
+		"url": "/assets/images/octillery.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "delibird",
+		"id": 221,
+		"url": "/assets/images/delibird.png",
+		"Types": ["Ice", "Flying"]
+	},
+	{
+		"Name": "mantine",
+		"id": 222,
+		"url": "/assets/images/mantine.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "skarmory",
+		"id": 223,
+		"url": "/assets/images/skarmory.png",
+		"Types": ["Steel", "Flying"]
+	},
+	{
+		"Name": "houndour",
+		"id": 224,
+		"url": "/assets/images/houndour.png",
+		"Types": ["Dark", "Fire"]
+	},
+	{
+		"Name": "houndoom",
+		"id": 225,
+		"url": "/assets/images/houndoom.png",
+		"Types": ["Dark", "Fire"]
+	},
+	{
+		"Name": "kingdra",
+		"id": 226,
+		"url": "/assets/images/kingdra.png",
+		"Types": ["Water", "Dragon"]
+	},
+	{
+		"Name": "phanpy",
+		"id": 227,
+		"url": "/assets/images/phanpy.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "donphan",
+		"id": 228,
+		"url": "/assets/images/donphan.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "porygon2",
+		"id": 229,
+		"url": "/assets/images/porygon2.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "stantler",
+		"id": 230,
+		"url": "/assets/images/stantler.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "smeargle",
+		"id": 231,
+		"url": "/assets/images/smeargle.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "tyrogue",
+		"id": 232,
+		"url": "/assets/images/tyrogue.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "hitmontop",
+		"id": 233,
+		"url": "/assets/images/hitmontop.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "smoochum",
+		"id": 234,
+		"url": "/assets/images/smoochum.png",
+		"Types": ["Ice", "Psychic"]
+	},
+	{
+		"Name": "elekid",
+		"id": 235,
+		"url": "/assets/images/elekid.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "magby",
+		"id": 236,
+		"url": "/assets/images/magby.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "miltank",
+		"id": 237,
+		"url": "/assets/images/miltank.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "blissey",
+		"id": 238,
+		"url": "/assets/images/blissey.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "raikou",
+		"id": 239,
+		"url": "/assets/images/raikou.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "entei",
+		"id": 240,
+		"url": "/assets/images/entei.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "suicune",
+		"id": 241,
+		"url": "/assets/images/suicune.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "larvitar",
+		"id": 242,
+		"url": "/assets/images/larvitar.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "pupitar",
+		"id": 243,
+		"url": "/assets/images/pupitar.png",
+		"Types": ["Rock", "Ground"]
+	},
+	{
+		"Name": "tyranitar",
+		"id": 244,
+		"url": "/assets/images/tyranitar.png",
+		"Types": ["Rock", "Dark"]
+	},
+	{
+		"Name": "lugia",
+		"id": 245,
+		"url": "/assets/images/lugia.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "ho-oh",
+		"id": 246,
+		"url": "/assets/images/ho-oh.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "celebi",
+		"id": 247,
+		"url": "/assets/images/celebi.png",
+		"Types": ["Psychic", "Grass"]
+	},
+	{
+		"Name": "treecko",
+		"id": 248,
+		"url": "/assets/images/treecko.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "grovyle",
+		"id": 249,
+		"url": "/assets/images/grovyle.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "sceptile",
+		"id": 250,
+		"url": "/assets/images/sceptile.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "torchic",
+		"id": 251,
+		"url": "/assets/images/torchic.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "combusken",
+		"id": 252,
+		"url": "/assets/images/combusken.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "blaziken",
+		"id": 253,
+		"url": "/assets/images/blaziken.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "mudkip",
+		"id": 254,
+		"url": "/assets/images/mudkip.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "marshtomp",
+		"id": 255,
+		"url": "/assets/images/marshtomp.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "swampert",
+		"id": 256,
+		"url": "/assets/images/swampert.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "poochyena",
+		"id": 257,
+		"url": "/assets/images/poochyena.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "mightyena",
+		"id": 258,
+		"url": "/assets/images/mightyena.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "zigzagoon",
+		"id": 259,
+		"url": "/assets/images/zigzagoon.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "linoone",
+		"id": 260,
+		"url": "/assets/images/linoone.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "wurmple",
+		"id": 261,
+		"url": "/assets/images/wurmple.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "silcoon",
+		"id": 262,
+		"url": "/assets/images/silcoon.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "beautifly",
+		"id": 263,
+		"url": "/assets/images/beautifly.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "cascoon",
+		"id": 264,
+		"url": "/assets/images/cascoon.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "dustox",
+		"id": 265,
+		"url": "/assets/images/dustox.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "lotad",
+		"id": 266,
+		"url": "/assets/images/lotad.png",
+		"Types": ["Water", "Grass"]
+	},
+	{
+		"Name": "lombre",
+		"id": 267,
+		"url": "/assets/images/lombre.png",
+		"Types": ["Water", "Grass"]
+	},
+	{
+		"Name": "ludicolo",
+		"id": 268,
+		"url": "/assets/images/ludicolo.png",
+		"Types": ["Water", "Grass"]
+	},
+	{
+		"Name": "seedot",
+		"id": 269,
+		"url": "/assets/images/seedot.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "nuzleaf",
+		"id": 270,
+		"url": "/assets/images/nuzleaf.png",
+		"Types": ["Grass", "Dark"]
+	},
+	{
+		"Name": "shiftry",
+		"id": 271,
+		"url": "/assets/images/shiftry.png",
+		"Types": ["Grass", "Dark"]
+	},
+	{
+		"Name": "taillow",
+		"id": 272,
+		"url": "/assets/images/taillow.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "swellow",
+		"id": 273,
+		"url": "/assets/images/swellow.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "wingull",
+		"id": 274,
+		"url": "/assets/images/wingull.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "pelipper",
+		"id": 275,
+		"url": "/assets/images/pelipper.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "ralts",
+		"id": 276,
+		"url": "/assets/images/ralts.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "kirlia",
+		"id": 277,
+		"url": "/assets/images/kirlia.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "gardevoir",
+		"id": 278,
+		"url": "/assets/images/gardevoir.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "surskit",
+		"id": 279,
+		"url": "/assets/images/surskit.png",
+		"Types": ["Bug", "Water"]
+	},
+	{
+		"Name": "masquerain",
+		"id": 280,
+		"url": "/assets/images/masquerain.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "shroomish",
+		"id": 281,
+		"url": "/assets/images/shroomish.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "breloom",
+		"id": 282,
+		"url": "/assets/images/breloom.png",
+		"Types": ["Grass", "Fighting"]
+	},
+	{
+		"Name": "slakoth",
+		"id": 283,
+		"url": "/assets/images/slakoth.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "vigoroth",
+		"id": 284,
+		"url": "/assets/images/vigoroth.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "slaking",
+		"id": 285,
+		"url": "/assets/images/slaking.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "nincada",
+		"id": 286,
+		"url": "/assets/images/nincada.png",
+		"Types": ["Bug", "Ground"]
+	},
+	{
+		"Name": "ninjask",
+		"id": 287,
+		"url": "/assets/images/ninjask.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "shedinja",
+		"id": 288,
+		"url": "/assets/images/shedinja.png",
+		"Types": ["Bug", "Ghost"]
+	},
+	{
+		"Name": "whismur",
+		"id": 289,
+		"url": "/assets/images/whismur.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "loudred",
+		"id": 290,
+		"url": "/assets/images/loudred.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "exploud",
+		"id": 291,
+		"url": "/assets/images/exploud.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "makuhita",
+		"id": 292,
+		"url": "/assets/images/makuhita.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "hariyama",
+		"id": 293,
+		"url": "/assets/images/hariyama.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "azurill",
+		"id": 294,
+		"url": "/assets/images/azurill.png",
+		"Types": ["Normal", "Fairy"]
+	},
+	{
+		"Name": "nosepass",
+		"id": 295,
+		"url": "/assets/images/nosepass.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "skitty",
+		"id": 296,
+		"url": "/assets/images/skitty.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "delcatty",
+		"id": 297,
+		"url": "/assets/images/delcatty.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "sableye",
+		"id": 298,
+		"url": "/assets/images/sableye.png",
+		"Types": ["Dark", "Ghost"]
+	},
+	{
+		"Name": "mawile",
+		"id": 299,
+		"url": "/assets/images/mawile.png",
+		"Types": ["Steel", "Fairy"]
+	},
+	{
+		"Name": "aron",
+		"id": 300,
+		"url": "/assets/images/aron.png",
+		"Types": ["Steel", "Rock"]
+	},
+	{
+		"Name": "lairon",
+		"id": 301,
+		"url": "/assets/images/lairon.png",
+		"Types": ["Steel", "Rock"]
+	},
+	{
+		"Name": "aggron",
+		"id": 302,
+		"url": "/assets/images/aggron.png",
+		"Types": ["Steel", "Rock"]
+	},
+	{
+		"Name": "meditite",
+		"id": 303,
+		"url": "/assets/images/meditite.png",
+		"Types": ["Fighting", "Psychic"]
+	},
+	{
+		"Name": "medicham",
+		"id": 304,
+		"url": "/assets/images/medicham.png",
+		"Types": ["Fighting", "Psychic"]
+	},
+	{
+		"Name": "electrike",
+		"id": 305,
+		"url": "/assets/images/electrike.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "manectric",
+		"id": 306,
+		"url": "/assets/images/manectric.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "plusle",
+		"id": 307,
+		"url": "/assets/images/plusle.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "minun",
+		"id": 308,
+		"url": "/assets/images/minun.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "volbeat",
+		"id": 309,
+		"url": "/assets/images/volbeat.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "illumise",
+		"id": 310,
+		"url": "/assets/images/illumise.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "roselia",
+		"id": 311,
+		"url": "/assets/images/roselia.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "gulpin",
+		"id": 312,
+		"url": "/assets/images/gulpin.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "swalot",
+		"id": 313,
+		"url": "/assets/images/swalot.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "carvanha",
+		"id": 314,
+		"url": "/assets/images/carvanha.png",
+		"Types": ["Water", "Dark"]
+	},
+	{
+		"Name": "sharpedo",
+		"id": 315,
+		"url": "/assets/images/sharpedo.png",
+		"Types": ["Water", "Dark"]
+	},
+	{
+		"Name": "wailmer",
+		"id": 316,
+		"url": "/assets/images/wailmer.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "wailord",
+		"id": 317,
+		"url": "/assets/images/wailord.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "numel",
+		"id": 318,
+		"url": "/assets/images/numel.png",
+		"Types": ["Fire", "Ground"]
+	},
+	{
+		"Name": "camerupt",
+		"id": 319,
+		"url": "/assets/images/camerupt.png",
+		"Types": ["Fire", "Ground"]
+	},
+	{
+		"Name": "torkoal",
+		"id": 320,
+		"url": "/assets/images/torkoal.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "spoink",
+		"id": 321,
+		"url": "/assets/images/spoink.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "grumpig",
+		"id": 322,
+		"url": "/assets/images/grumpig.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "spinda",
+		"id": 323,
+		"url": "/assets/images/spinda.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "trapinch",
+		"id": 324,
+		"url": "/assets/images/trapinch.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "vibrava",
+		"id": 325,
+		"url": "/assets/images/vibrava.png",
+		"Types": ["Ground", "Dragon"]
+	},
+	{
+		"Name": "flygon",
+		"id": 326,
+		"url": "/assets/images/flygon.png",
+		"Types": ["Ground", "Dragon"]
+	},
+	{
+		"Name": "cacnea",
+		"id": 327,
+		"url": "/assets/images/cacnea.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "cacturne",
+		"id": 328,
+		"url": "/assets/images/cacturne.png",
+		"Types": ["Grass", "Dark"]
+	},
+	{
+		"Name": "swablu",
+		"id": 329,
+		"url": "/assets/images/swablu.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "altaria",
+		"id": 330,
+		"url": "/assets/images/altaria.png",
+		"Types": ["Dragon", "Flying"]
+	},
+	{
+		"Name": "zangoose",
+		"id": 331,
+		"url": "/assets/images/zangoose.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "seviper",
+		"id": 332,
+		"url": "/assets/images/seviper.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "lunatone",
+		"id": 333,
+		"url": "/assets/images/lunatone.png",
+		"Types": ["Rock", "Psychic"]
+	},
+	{
+		"Name": "solrock",
+		"id": 334,
+		"url": "/assets/images/solrock.png",
+		"Types": ["Rock", "Psychic"]
+	},
+	{
+		"Name": "barboach",
+		"id": 335,
+		"url": "/assets/images/barboach.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "whiscash",
+		"id": 336,
+		"url": "/assets/images/whiscash.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "corphish",
+		"id": 337,
+		"url": "/assets/images/corphish.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "crawdaunt",
+		"id": 338,
+		"url": "/assets/images/crawdaunt.png",
+		"Types": ["Water", "Dark"]
+	},
+	{
+		"Name": "baltoy",
+		"id": 339,
+		"url": "/assets/images/baltoy.png",
+		"Types": ["Ground", "Psychic"]
+	},
+	{
+		"Name": "claydol",
+		"id": 340,
+		"url": "/assets/images/claydol.png",
+		"Types": ["Ground", "Psychic"]
+	},
+	{
+		"Name": "lileep",
+		"id": 341,
+		"url": "/assets/images/lileep.png",
+		"Types": ["Rock", "Grass"]
+	},
+	{
+		"Name": "cradily",
+		"id": 342,
+		"url": "/assets/images/cradily.png",
+		"Types": ["Rock", "Grass"]
+	},
+	{
+		"Name": "anorith",
+		"id": 343,
+		"url": "/assets/images/anorith.png",
+		"Types": ["Rock", "Bug"]
+	},
+	{
+		"Name": "armaldo",
+		"id": 344,
+		"url": "/assets/images/armaldo.png",
+		"Types": ["Rock", "Bug"]
+	},
+	{
+		"Name": "feebas",
+		"id": 345,
+		"url": "/assets/images/feebas.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "milotic",
+		"id": 346,
+		"url": "/assets/images/milotic.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "castform",
+		"id": 347,
+		"url": "/assets/images/castform.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "kecleon",
+		"id": 348,
+		"url": "/assets/images/kecleon.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "shuppet",
+		"id": 349,
+		"url": "/assets/images/shuppet.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "banette",
+		"id": 350,
+		"url": "/assets/images/banette.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "duskull",
+		"id": 351,
+		"url": "/assets/images/duskull.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "dusclops",
+		"id": 352,
+		"url": "/assets/images/dusclops.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "tropius",
+		"id": 353,
+		"url": "/assets/images/tropius.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "chimecho",
+		"id": 354,
+		"url": "/assets/images/chimecho.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "absol",
+		"id": 355,
+		"url": "/assets/images/absol.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "wynaut",
+		"id": 356,
+		"url": "/assets/images/wynaut.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "snorunt",
+		"id": 357,
+		"url": "/assets/images/snorunt.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "glalie",
+		"id": 358,
+		"url": "/assets/images/glalie.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "spheal",
+		"id": 359,
+		"url": "/assets/images/spheal.png",
+		"Types": ["Ice", "Water"]
+	},
+	{
+		"Name": "sealeo",
+		"id": 360,
+		"url": "/assets/images/sealeo.png",
+		"Types": ["Ice", "Water"]
+	},
+	{
+		"Name": "walrein",
+		"id": 361,
+		"url": "/assets/images/walrein.png",
+		"Types": ["Ice", "Water"]
+	},
+	{
+		"Name": "clamperl",
+		"id": 362,
+		"url": "/assets/images/clamperl.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "huntail",
+		"id": 363,
+		"url": "/assets/images/huntail.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "gorebyss",
+		"id": 364,
+		"url": "/assets/images/gorebyss.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "relicanth",
+		"id": 365,
+		"url": "/assets/images/relicanth.png",
+		"Types": ["Water", "Rock"]
+	},
+	{
+		"Name": "luvdisc",
+		"id": 366,
+		"url": "/assets/images/luvdisc.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "bagon",
+		"id": 367,
+		"url": "/assets/images/bagon.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "shelgon",
+		"id": 368,
+		"url": "/assets/images/shelgon.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "salamence",
+		"id": 369,
+		"url": "/assets/images/salamence.png",
+		"Types": ["Dragon", "Flying"]
+	},
+	{
+		"Name": "beldum",
+		"id": 370,
+		"url": "/assets/images/beldum.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "metang",
+		"id": 371,
+		"url": "/assets/images/metang.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "metagross",
+		"id": 372,
+		"url": "/assets/images/metagross.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "regirock",
+		"id": 373,
+		"url": "/assets/images/regirock.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "regice",
+		"id": 374,
+		"url": "/assets/images/regice.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "registeel",
+		"id": 375,
+		"url": "/assets/images/registeel.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "latias",
+		"id": 376,
+		"url": "/assets/images/latias.png",
+		"Types": ["Dragon", "Psychic"]
+	},
+	{
+		"Name": "latios",
+		"id": 377,
+		"url": "/assets/images/latios.png",
+		"Types": ["Dragon", "Psychic"]
+	},
+	{
+		"Name": "kyogre",
+		"id": 378,
+		"url": "/assets/images/kyogre.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "groudon",
+		"id": 379,
+		"url": "/assets/images/groudon.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "rayquaza",
+		"id": 380,
+		"url": "/assets/images/rayquaza.png",
+		"Types": ["Dragon", "Flying"]
+	},
+	{
+		"Name": "jirachi",
+		"id": 381,
+		"url": "/assets/images/jirachi.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "deoxys-normal",
+		"id": 382,
+		"url": "/assets/images/deoxys-normal.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "turtwig",
+		"id": 383,
+		"url": "/assets/images/turtwig.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "grotle",
+		"id": 384,
+		"url": "/assets/images/grotle.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "torterra",
+		"id": 385,
+		"url": "/assets/images/torterra.png",
+		"Types": ["Grass", "Ground"]
+	},
+	{
+		"Name": "chimchar",
+		"id": 386,
+		"url": "/assets/images/chimchar.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "monferno",
+		"id": 387,
+		"url": "/assets/images/monferno.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "infernape",
+		"id": 388,
+		"url": "/assets/images/infernape.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "piplup",
+		"id": 389,
+		"url": "/assets/images/piplup.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "prinplup",
+		"id": 390,
+		"url": "/assets/images/prinplup.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "empoleon",
+		"id": 391,
+		"url": "/assets/images/empoleon.png",
+		"Types": ["Water", "Steel"]
+	},
+	{
+		"Name": "starly",
+		"id": 392,
+		"url": "/assets/images/starly.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "staravia",
+		"id": 393,
+		"url": "/assets/images/staravia.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "staraptor",
+		"id": 394,
+		"url": "/assets/images/staraptor.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "bidoof",
+		"id": 395,
+		"url": "/assets/images/bidoof.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "bibarel",
+		"id": 396,
+		"url": "/assets/images/bibarel.png",
+		"Types": ["Normal", "Water"]
+	},
+	{
+		"Name": "kricketot",
+		"id": 397,
+		"url": "/assets/images/kricketot.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "kricketune",
+		"id": 398,
+		"url": "/assets/images/kricketune.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "shinx",
+		"id": 399,
+		"url": "/assets/images/shinx.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "luxio",
+		"id": 400,
+		"url": "/assets/images/luxio.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "luxray",
+		"id": 401,
+		"url": "/assets/images/luxray.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "budew",
+		"id": 402,
+		"url": "/assets/images/budew.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "roserade",
+		"id": 403,
+		"url": "/assets/images/roserade.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "cranidos",
+		"id": 404,
+		"url": "/assets/images/cranidos.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "rampardos",
+		"id": 405,
+		"url": "/assets/images/rampardos.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "shieldon",
+		"id": 406,
+		"url": "/assets/images/shieldon.png",
+		"Types": ["Rock", "Steel"]
+	},
+	{
+		"Name": "bastiodon",
+		"id": 407,
+		"url": "/assets/images/bastiodon.png",
+		"Types": ["Rock", "Steel"]
+	},
+	{
+		"Name": "burmy",
+		"id": 408,
+		"url": "/assets/images/burmy.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "wormadam-plant",
+		"id": 409,
+		"url": "/assets/images/wormadam-plant.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "mothim",
+		"id": 410,
+		"url": "/assets/images/mothim.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "combee",
+		"id": 411,
+		"url": "/assets/images/combee.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "vespiquen",
+		"id": 412,
+		"url": "/assets/images/vespiquen.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "pachirisu",
+		"id": 413,
+		"url": "/assets/images/pachirisu.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "buizel",
+		"id": 414,
+		"url": "/assets/images/buizel.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "floatzel",
+		"id": 415,
+		"url": "/assets/images/floatzel.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "cherubi",
+		"id": 416,
+		"url": "/assets/images/cherubi.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "cherrim",
+		"id": 417,
+		"url": "/assets/images/cherrim.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "shellos",
+		"id": 418,
+		"url": "/assets/images/shellos.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "gastrodon",
+		"id": 419,
+		"url": "/assets/images/gastrodon.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "ambipom",
+		"id": 420,
+		"url": "/assets/images/ambipom.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "drifloon",
+		"id": 421,
+		"url": "/assets/images/drifloon.png",
+		"Types": ["Ghost", "Flying"]
+	},
+	{
+		"Name": "drifblim",
+		"id": 422,
+		"url": "/assets/images/drifblim.png",
+		"Types": ["Ghost", "Flying"]
+	},
+	{
+		"Name": "buneary",
+		"id": 423,
+		"url": "/assets/images/buneary.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "lopunny",
+		"id": 424,
+		"url": "/assets/images/lopunny.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "mismagius",
+		"id": 425,
+		"url": "/assets/images/mismagius.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "honchkrow",
+		"id": 426,
+		"url": "/assets/images/honchkrow.png",
+		"Types": ["Dark", "Flying"]
+	},
+	{
+		"Name": "glameow",
+		"id": 427,
+		"url": "/assets/images/glameow.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "purugly",
+		"id": 428,
+		"url": "/assets/images/purugly.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "chingling",
+		"id": 429,
+		"url": "/assets/images/chingling.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "stunky",
+		"id": 430,
+		"url": "/assets/images/stunky.png",
+		"Types": ["Poison", "Dark"]
+	},
+	{
+		"Name": "skuntank",
+		"id": 431,
+		"url": "/assets/images/skuntank.png",
+		"Types": ["Poison", "Dark"]
+	},
+	{
+		"Name": "bronzor",
+		"id": 432,
+		"url": "/assets/images/bronzor.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "bronzong",
+		"id": 433,
+		"url": "/assets/images/bronzong.png",
+		"Types": ["Steel", "Psychic"]
+	},
+	{
+		"Name": "bonsly",
+		"id": 434,
+		"url": "/assets/images/bonsly.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "mime-jr",
+		"id": 435,
+		"url": "/assets/images/mime-jr.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "happiny",
+		"id": 436,
+		"url": "/assets/images/happiny.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "chatot",
+		"id": 437,
+		"url": "/assets/images/chatot.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "spiritomb",
+		"id": 438,
+		"url": "/assets/images/spiritomb.png",
+		"Types": ["Ghost", "Dark"]
+	},
+	{
+		"Name": "gible",
+		"id": 439,
+		"url": "/assets/images/gible.png",
+		"Types": ["Dragon", "Ground"]
+	},
+	{
+		"Name": "gabite",
+		"id": 440,
+		"url": "/assets/images/gabite.png",
+		"Types": ["Dragon", "Ground"]
+	},
+	{
+		"Name": "garchomp",
+		"id": 441,
+		"url": "/assets/images/garchomp.png",
+		"Types": ["Dragon", "Ground"]
+	},
+	{
+		"Name": "munchlax",
+		"id": 442,
+		"url": "/assets/images/munchlax.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "riolu",
+		"id": 443,
+		"url": "/assets/images/riolu.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "lucario",
+		"id": 444,
+		"url": "/assets/images/lucario.png",
+		"Types": ["Fighting", "Steel"]
+	},
+	{
+		"Name": "hippopotas",
+		"id": 445,
+		"url": "/assets/images/hippopotas.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "hippowdon",
+		"id": 446,
+		"url": "/assets/images/hippowdon.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "skorupi",
+		"id": 447,
+		"url": "/assets/images/skorupi.png",
+		"Types": ["Poison", "Bug"]
+	},
+	{
+		"Name": "drapion",
+		"id": 448,
+		"url": "/assets/images/drapion.png",
+		"Types": ["Poison", "Dark"]
+	},
+	{
+		"Name": "croagunk",
+		"id": 449,
+		"url": "/assets/images/croagunk.png",
+		"Types": ["Poison", "Fighting"]
+	},
+	{
+		"Name": "toxicroak",
+		"id": 450,
+		"url": "/assets/images/toxicroak.png",
+		"Types": ["Poison", "Fighting"]
+	},
+	{
+		"Name": "carnivine",
+		"id": 451,
+		"url": "/assets/images/carnivine.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "finneon",
+		"id": 452,
+		"url": "/assets/images/finneon.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "lumineon",
+		"id": 453,
+		"url": "/assets/images/lumineon.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "mantyke",
+		"id": 454,
+		"url": "/assets/images/mantyke.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "snover",
+		"id": 455,
+		"url": "/assets/images/snover.png",
+		"Types": ["Grass", "Ice"]
+	},
+	{
+		"Name": "abomasnow",
+		"id": 456,
+		"url": "/assets/images/abomasnow.png",
+		"Types": ["Grass", "Ice"]
+	},
+	{
+		"Name": "weavile",
+		"id": 457,
+		"url": "/assets/images/weavile.png",
+		"Types": ["Dark", "Ice"]
+	},
+	{
+		"Name": "magnezone",
+		"id": 458,
+		"url": "/assets/images/magnezone.png",
+		"Types": ["Electric", "Steel"]
+	},
+	{
+		"Name": "lickilicky",
+		"id": 459,
+		"url": "/assets/images/lickilicky.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "rhyperior",
+		"id": 460,
+		"url": "/assets/images/rhyperior.png",
+		"Types": ["Ground", "Rock"]
+	},
+	{
+		"Name": "tangrowth",
+		"id": 461,
+		"url": "/assets/images/tangrowth.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "electivire",
+		"id": 462,
+		"url": "/assets/images/electivire.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "magmortar",
+		"id": 463,
+		"url": "/assets/images/magmortar.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "togekiss",
+		"id": 464,
+		"url": "/assets/images/togekiss.png",
+		"Types": ["Fairy", "Flying"]
+	},
+	{
+		"Name": "yanmega",
+		"id": 465,
+		"url": "/assets/images/yanmega.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "leafeon",
+		"id": 466,
+		"url": "/assets/images/leafeon.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "glaceon",
+		"id": 467,
+		"url": "/assets/images/glaceon.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "gliscor",
+		"id": 468,
+		"url": "/assets/images/gliscor.png",
+		"Types": ["Ground", "Flying"]
+	},
+	{
+		"Name": "mamoswine",
+		"id": 469,
+		"url": "/assets/images/mamoswine.png",
+		"Types": ["Ice", "Ground"]
+	},
+	{
+		"Name": "porygon-z",
+		"id": 470,
+		"url": "/assets/images/porygon-z.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "gallade",
+		"id": 471,
+		"url": "/assets/images/gallade.png",
+		"Types": ["Psychic", "Fighting"]
+	},
+	{
+		"Name": "probopass",
+		"id": 472,
+		"url": "/assets/images/probopass.png",
+		"Types": ["Rock", "Steel"]
+	},
+	{
+		"Name": "dusknoir",
+		"id": 473,
+		"url": "/assets/images/dusknoir.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "froslass",
+		"id": 474,
+		"url": "/assets/images/froslass.png",
+		"Types": ["Ice", "Ghost"]
+	},
+	{
+		"Name": "rotom",
+		"id": 475,
+		"url": "/assets/images/rotom.png",
+		"Types": ["Electric", "Ghost"]
+	},
+	{
+		"Name": "uxie",
+		"id": 476,
+		"url": "/assets/images/uxie.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "mesprit",
+		"id": 477,
+		"url": "/assets/images/mesprit.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "azelf",
+		"id": 478,
+		"url": "/assets/images/azelf.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "dialga",
+		"id": 479,
+		"url": "/assets/images/dialga.png",
+		"Types": ["Steel", "Dragon"]
+	},
+	{
+		"Name": "palkia",
+		"id": 480,
+		"url": "/assets/images/palkia.png",
+		"Types": ["Water", "Dragon"]
+	},
+	{
+		"Name": "heatran",
+		"id": 481,
+		"url": "/assets/images/heatran.png",
+		"Types": ["Fire", "Steel"]
+	},
+	{
+		"Name": "regigigas",
+		"id": 482,
+		"url": "/assets/images/regigigas.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "giratina-altered",
+		"id": 483,
+		"url": "/assets/images/giratina-altered.png",
+		"Types": ["Ghost", "Dragon"]
+	},
+	{
+		"Name": "cresselia",
+		"id": 484,
+		"url": "/assets/images/cresselia.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "phione",
+		"id": 485,
+		"url": "/assets/images/phione.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "manaphy",
+		"id": 486,
+		"url": "/assets/images/manaphy.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "darkrai",
+		"id": 487,
+		"url": "/assets/images/darkrai.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "shaymin-land",
+		"id": 488,
+		"url": "/assets/images/shaymin-land.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "arceus",
+		"id": 489,
+		"url": "/assets/images/arceus.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "victini",
+		"id": 490,
+		"url": "/assets/images/victini.png",
+		"Types": ["Psychic", "Fire"]
+	},
+	{
+		"Name": "snivy",
+		"id": 491,
+		"url": "/assets/images/snivy.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "servine",
+		"id": 492,
+		"url": "/assets/images/servine.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "serperior",
+		"id": 493,
+		"url": "/assets/images/serperior.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "tepig",
+		"id": 494,
+		"url": "/assets/images/tepig.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "pignite",
+		"id": 495,
+		"url": "/assets/images/pignite.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "emboar",
+		"id": 496,
+		"url": "/assets/images/emboar.png",
+		"Types": ["Fire", "Fighting"]
+	},
+	{
+		"Name": "oshawott",
+		"id": 497,
+		"url": "/assets/images/oshawott.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "dewott",
+		"id": 498,
+		"url": "/assets/images/dewott.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "samurott",
+		"id": 499,
+		"url": "/assets/images/samurott.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "patrat",
+		"id": 500,
+		"url": "/assets/images/patrat.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "watchog",
+		"id": 501,
+		"url": "/assets/images/watchog.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "lillipup",
+		"id": 502,
+		"url": "/assets/images/lillipup.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "herdier",
+		"id": 503,
+		"url": "/assets/images/herdier.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "stoutland",
+		"id": 504,
+		"url": "/assets/images/stoutland.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "purrloin",
+		"id": 505,
+		"url": "/assets/images/purrloin.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "liepard",
+		"id": 506,
+		"url": "/assets/images/liepard.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "pansage",
+		"id": 507,
+		"url": "/assets/images/pansage.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "simisage",
+		"id": 508,
+		"url": "/assets/images/simisage.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "pansear",
+		"id": 509,
+		"url": "/assets/images/pansear.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "simisear",
+		"id": 510,
+		"url": "/assets/images/simisear.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "panpour",
+		"id": 511,
+		"url": "/assets/images/panpour.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "simipour",
+		"id": 512,
+		"url": "/assets/images/simipour.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "munna",
+		"id": 513,
+		"url": "/assets/images/munna.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "musharna",
+		"id": 514,
+		"url": "/assets/images/musharna.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "pidove",
+		"id": 515,
+		"url": "/assets/images/pidove.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "tranquill",
+		"id": 516,
+		"url": "/assets/images/tranquill.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "unfezant",
+		"id": 517,
+		"url": "/assets/images/unfezant.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "blitzle",
+		"id": 518,
+		"url": "/assets/images/blitzle.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "zebstrika",
+		"id": 519,
+		"url": "/assets/images/zebstrika.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "roggenrola",
+		"id": 520,
+		"url": "/assets/images/roggenrola.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "boldore",
+		"id": 521,
+		"url": "/assets/images/boldore.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "gigalith",
+		"id": 522,
+		"url": "/assets/images/gigalith.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "woobat",
+		"id": 523,
+		"url": "/assets/images/woobat.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "swoobat",
+		"id": 524,
+		"url": "/assets/images/swoobat.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "drilbur",
+		"id": 525,
+		"url": "/assets/images/drilbur.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "excadrill",
+		"id": 526,
+		"url": "/assets/images/excadrill.png",
+		"Types": ["Ground", "Steel"]
+	},
+	{
+		"Name": "audino",
+		"id": 527,
+		"url": "/assets/images/audino.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "timburr",
+		"id": 528,
+		"url": "/assets/images/timburr.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "gurdurr",
+		"id": 529,
+		"url": "/assets/images/gurdurr.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "conkeldurr",
+		"id": 530,
+		"url": "/assets/images/conkeldurr.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "tympole",
+		"id": 531,
+		"url": "/assets/images/tympole.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "palpitoad",
+		"id": 532,
+		"url": "/assets/images/palpitoad.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "seismitoad",
+		"id": 533,
+		"url": "/assets/images/seismitoad.png",
+		"Types": ["Water", "Ground"]
+	},
+	{
+		"Name": "throh",
+		"id": 534,
+		"url": "/assets/images/throh.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "sawk",
+		"id": 535,
+		"url": "/assets/images/sawk.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "sewaddle",
+		"id": 536,
+		"url": "/assets/images/sewaddle.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "swadloon",
+		"id": 537,
+		"url": "/assets/images/swadloon.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "leavanny",
+		"id": 538,
+		"url": "/assets/images/leavanny.png",
+		"Types": ["Bug", "Grass"]
+	},
+	{
+		"Name": "venipede",
+		"id": 539,
+		"url": "/assets/images/venipede.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "whirlipede",
+		"id": 540,
+		"url": "/assets/images/whirlipede.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "scolipede",
+		"id": 541,
+		"url": "/assets/images/scolipede.png",
+		"Types": ["Bug", "Poison"]
+	},
+	{
+		"Name": "cottonee",
+		"id": 542,
+		"url": "/assets/images/cottonee.png",
+		"Types": ["Grass", "Fairy"]
+	},
+	{
+		"Name": "whimsicott",
+		"id": 543,
+		"url": "/assets/images/whimsicott.png",
+		"Types": ["Grass", "Fairy"]
+	},
+	{
+		"Name": "petilil",
+		"id": 544,
+		"url": "/assets/images/petilil.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "lilligant",
+		"id": 545,
+		"url": "/assets/images/lilligant.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "basculin-red-striped",
+		"id": 546,
+		"url": "/assets/images/basculin-red-striped.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "sandile",
+		"id": 547,
+		"url": "/assets/images/sandile.png",
+		"Types": ["Ground", "Dark"]
+	},
+	{
+		"Name": "krokorok",
+		"id": 548,
+		"url": "/assets/images/krokorok.png",
+		"Types": ["Ground", "Dark"]
+	},
+	{
+		"Name": "krookodile",
+		"id": 549,
+		"url": "/assets/images/krookodile.png",
+		"Types": ["Ground", "Dark"]
+	},
+	{
+		"Name": "darumaka",
+		"id": 550,
+		"url": "/assets/images/darumaka.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "darmanitan-standard",
+		"id": 551,
+		"url": "/assets/images/darmanitan-standard.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "maractus",
+		"id": 552,
+		"url": "/assets/images/maractus.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "dwebble",
+		"id": 553,
+		"url": "/assets/images/dwebble.png",
+		"Types": ["Bug", "Rock"]
+	},
+	{
+		"Name": "crustle",
+		"id": 554,
+		"url": "/assets/images/crustle.png",
+		"Types": ["Bug", "Rock"]
+	},
+	{
+		"Name": "scraggy",
+		"id": 555,
+		"url": "/assets/images/scraggy.png",
+		"Types": ["Dark", "Fighting"]
+	},
+	{
+		"Name": "scrafty",
+		"id": 556,
+		"url": "/assets/images/scrafty.png",
+		"Types": ["Dark", "Fighting"]
+	},
+	{
+		"Name": "sigilyph",
+		"id": 557,
+		"url": "/assets/images/sigilyph.png",
+		"Types": ["Psychic", "Flying"]
+	},
+	{
+		"Name": "yamask",
+		"id": 558,
+		"url": "/assets/images/yamask.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "cofagrigus",
+		"id": 559,
+		"url": "/assets/images/cofagrigus.png",
+		"Types": ["Ghost", ""]
+	},
+	{
+		"Name": "tirtouga",
+		"id": 560,
+		"url": "/assets/images/tirtouga.png",
+		"Types": ["Water", "Rock"]
+	},
+	{
+		"Name": "carracosta",
+		"id": 561,
+		"url": "/assets/images/carracosta.png",
+		"Types": ["Water", "Rock"]
+	},
+	{
+		"Name": "archen",
+		"id": 562,
+		"url": "/assets/images/archen.png",
+		"Types": ["Rock", "Flying"]
+	},
+	{
+		"Name": "archeops",
+		"id": 563,
+		"url": "/assets/images/archeops.png",
+		"Types": ["Rock", "Flying"]
+	},
+	{
+		"Name": "trubbish",
+		"id": 564,
+		"url": "/assets/images/trubbish.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "garbodor",
+		"id": 565,
+		"url": "/assets/images/garbodor.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "zorua",
+		"id": 566,
+		"url": "/assets/images/zorua.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "zoroark",
+		"id": 567,
+		"url": "/assets/images/zoroark.png",
+		"Types": ["Dark", ""]
+	},
+	{
+		"Name": "minccino",
+		"id": 568,
+		"url": "/assets/images/minccino.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "cinccino",
+		"id": 569,
+		"url": "/assets/images/cinccino.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "gothita",
+		"id": 570,
+		"url": "/assets/images/gothita.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "gothorita",
+		"id": 571,
+		"url": "/assets/images/gothorita.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "gothitelle",
+		"id": 572,
+		"url": "/assets/images/gothitelle.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "solosis",
+		"id": 573,
+		"url": "/assets/images/solosis.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "duosion",
+		"id": 574,
+		"url": "/assets/images/duosion.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "reuniclus",
+		"id": 575,
+		"url": "/assets/images/reuniclus.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "ducklett",
+		"id": 576,
+		"url": "/assets/images/ducklett.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "swanna",
+		"id": 577,
+		"url": "/assets/images/swanna.png",
+		"Types": ["Water", "Flying"]
+	},
+	{
+		"Name": "vanillite",
+		"id": 578,
+		"url": "/assets/images/vanillite.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "vanillish",
+		"id": 579,
+		"url": "/assets/images/vanillish.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "vanilluxe",
+		"id": 580,
+		"url": "/assets/images/vanilluxe.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "deerling",
+		"id": 581,
+		"url": "/assets/images/deerling.png",
+		"Types": ["Normal", "Grass"]
+	},
+	{
+		"Name": "sawsbuck",
+		"id": 582,
+		"url": "/assets/images/sawsbuck.png",
+		"Types": ["Normal", "Grass"]
+	},
+	{
+		"Name": "emolga",
+		"id": 583,
+		"url": "/assets/images/emolga.png",
+		"Types": ["Electric", "Flying"]
+	},
+	{
+		"Name": "karrablast",
+		"id": 584,
+		"url": "/assets/images/karrablast.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "escavalier",
+		"id": 585,
+		"url": "/assets/images/escavalier.png",
+		"Types": ["Bug", "Steel"]
+	},
+	{
+		"Name": "foongus",
+		"id": 586,
+		"url": "/assets/images/foongus.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "amoonguss",
+		"id": 587,
+		"url": "/assets/images/amoonguss.png",
+		"Types": ["Grass", "Poison"]
+	},
+	{
+		"Name": "frillish",
+		"id": 588,
+		"url": "/assets/images/frillish.png",
+		"Types": ["Water", "Ghost"]
+	},
+	{
+		"Name": "jellicent",
+		"id": 589,
+		"url": "/assets/images/jellicent.png",
+		"Types": ["Water", "Ghost"]
+	},
+	{
+		"Name": "alomomola",
+		"id": 590,
+		"url": "/assets/images/alomomola.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "joltik",
+		"id": 591,
+		"url": "/assets/images/joltik.png",
+		"Types": ["Bug", "Electric"]
+	},
+	{
+		"Name": "galvantula",
+		"id": 592,
+		"url": "/assets/images/galvantula.png",
+		"Types": ["Bug", "Electric"]
+	},
+	{
+		"Name": "ferroseed",
+		"id": 593,
+		"url": "/assets/images/ferroseed.png",
+		"Types": ["Grass", "Steel"]
+	},
+	{
+		"Name": "ferrothorn",
+		"id": 594,
+		"url": "/assets/images/ferrothorn.png",
+		"Types": ["Grass", "Steel"]
+	},
+	{
+		"Name": "klink",
+		"id": 595,
+		"url": "/assets/images/klink.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "klang",
+		"id": 596,
+		"url": "/assets/images/klang.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "klinklang",
+		"id": 597,
+		"url": "/assets/images/klinklang.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "tynamo",
+		"id": 598,
+		"url": "/assets/images/tynamo.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "eelektrik",
+		"id": 599,
+		"url": "/assets/images/eelektrik.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "eelektross",
+		"id": 600,
+		"url": "/assets/images/eelektross.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "elgyem",
+		"id": 601,
+		"url": "/assets/images/elgyem.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "beheeyem",
+		"id": 602,
+		"url": "/assets/images/beheeyem.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "litwick",
+		"id": 603,
+		"url": "/assets/images/litwick.png",
+		"Types": ["Ghost", "Fire"]
+	},
+	{
+		"Name": "lampent",
+		"id": 604,
+		"url": "/assets/images/lampent.png",
+		"Types": ["Ghost", "Fire"]
+	},
+	{
+		"Name": "chandelure",
+		"id": 605,
+		"url": "/assets/images/chandelure.png",
+		"Types": ["Ghost", "Fire"]
+	},
+	{
+		"Name": "axew",
+		"id": 606,
+		"url": "/assets/images/axew.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "fraxure",
+		"id": 607,
+		"url": "/assets/images/fraxure.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "haxorus",
+		"id": 608,
+		"url": "/assets/images/haxorus.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "cubchoo",
+		"id": 609,
+		"url": "/assets/images/cubchoo.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "beartic",
+		"id": 610,
+		"url": "/assets/images/beartic.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "cryogonal",
+		"id": 611,
+		"url": "/assets/images/cryogonal.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "shelmet",
+		"id": 612,
+		"url": "/assets/images/shelmet.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "accelgor",
+		"id": 613,
+		"url": "/assets/images/accelgor.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "stunfisk",
+		"id": 614,
+		"url": "/assets/images/stunfisk.png",
+		"Types": ["Ground", "Electric"]
+	},
+	{
+		"Name": "mienfoo",
+		"id": 615,
+		"url": "/assets/images/mienfoo.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "mienshao",
+		"id": 616,
+		"url": "/assets/images/mienshao.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "druddigon",
+		"id": 617,
+		"url": "/assets/images/druddigon.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "golett",
+		"id": 618,
+		"url": "/assets/images/golett.png",
+		"Types": ["Ground", "Ghost"]
+	},
+	{
+		"Name": "golurk",
+		"id": 619,
+		"url": "/assets/images/golurk.png",
+		"Types": ["Ground", "Ghost"]
+	},
+	{
+		"Name": "pawniard",
+		"id": 620,
+		"url": "/assets/images/pawniard.png",
+		"Types": ["Dark", "Steel"]
+	},
+	{
+		"Name": "bisharp",
+		"id": 621,
+		"url": "/assets/images/bisharp.png",
+		"Types": ["Dark", "Steel"]
+	},
+	{
+		"Name": "bouffalant",
+		"id": 622,
+		"url": "/assets/images/bouffalant.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "rufflet",
+		"id": 623,
+		"url": "/assets/images/rufflet.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "braviary",
+		"id": 624,
+		"url": "/assets/images/braviary.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "vullaby",
+		"id": 625,
+		"url": "/assets/images/vullaby.png",
+		"Types": ["Dark", "Flying"]
+	},
+	{
+		"Name": "mandibuzz",
+		"id": 626,
+		"url": "/assets/images/mandibuzz.png",
+		"Types": ["Dark", "Flying"]
+	},
+	{
+		"Name": "heatmor",
+		"id": 627,
+		"url": "/assets/images/heatmor.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "durant",
+		"id": 628,
+		"url": "/assets/images/durant.png",
+		"Types": ["Bug", "Steel"]
+	},
+	{
+		"Name": "deino",
+		"id": 629,
+		"url": "/assets/images/deino.png",
+		"Types": ["Dark", "Dragon"]
+	},
+	{
+		"Name": "zweilous",
+		"id": 630,
+		"url": "/assets/images/zweilous.png",
+		"Types": ["Dark", "Dragon"]
+	},
+	{
+		"Name": "hydreigon",
+		"id": 631,
+		"url": "/assets/images/hydreigon.png",
+		"Types": ["Dark", "Dragon"]
+	},
+	{
+		"Name": "larvesta",
+		"id": 632,
+		"url": "/assets/images/larvesta.png",
+		"Types": ["Bug", "Fire"]
+	},
+	{
+		"Name": "volcarona",
+		"id": 633,
+		"url": "/assets/images/volcarona.png",
+		"Types": ["Bug", "Fire"]
+	},
+	{
+		"Name": "cobalion",
+		"id": 634,
+		"url": "/assets/images/cobalion.png",
+		"Types": ["Steel", "Fighting"]
+	},
+	{
+		"Name": "terrakion",
+		"id": 635,
+		"url": "/assets/images/terrakion.png",
+		"Types": ["Rock", "Fighting"]
+	},
+	{
+		"Name": "virizion",
+		"id": 636,
+		"url": "/assets/images/virizion.png",
+		"Types": ["Grass", "Fighting"]
+	},
+	{
+		"Name": "tornadus-incarnate",
+		"id": 637,
+		"url": "/assets/images/tornadus-incarnate.png",
+		"Types": ["Flying", ""]
+	},
+	{
+		"Name": "thundurus-incarnate",
+		"id": 638,
+		"url": "/assets/images/thundurus-incarnate.png",
+		"Types": ["Electric", "Flying"]
+	},
+	{
+		"Name": "reshiram",
+		"id": 639,
+		"url": "/assets/images/reshiram.png",
+		"Types": ["Dragon", "Fire"]
+	},
+	{
+		"Name": "zekrom",
+		"id": 640,
+		"url": "/assets/images/zekrom.png",
+		"Types": ["Dragon", "Electric"]
+	},
+	{
+		"Name": "landorus-incarnate",
+		"id": 641,
+		"url": "/assets/images/landorus-incarnate.png",
+		"Types": ["Ground", "Flying"]
+	},
+	{
+		"Name": "kyurem",
+		"id": 642,
+		"url": "/assets/images/kyurem.png",
+		"Types": ["Dragon", "Ice"]
+	},
+	{
+		"Name": "keldeo-ordinary",
+		"id": 643,
+		"url": "/assets/images/keldeo-ordinary.png",
+		"Types": ["Water", "Fighting"]
+	},
+	{
+		"Name": "meloetta-aria",
+		"id": 644,
+		"url": "/assets/images/meloetta-aria.png",
+		"Types": ["Normal", "Psychic"]
+	},
+	{
+		"Name": "genesect",
+		"id": 645,
+		"url": "/assets/images/genesect.png",
+		"Types": ["Bug", "Steel"]
+	},
+	{
+		"Name": "chespin",
+		"id": 646,
+		"url": "/assets/images/chespin.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "quilladin",
+		"id": 647,
+		"url": "/assets/images/quilladin.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "chesnaught",
+		"id": 648,
+		"url": "/assets/images/chesnaught.png",
+		"Types": ["Grass", "Fighting"]
+	},
+	{
+		"Name": "fennekin",
+		"id": 649,
+		"url": "/assets/images/fennekin.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "braixen",
+		"id": 650,
+		"url": "/assets/images/braixen.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "delphox",
+		"id": 651,
+		"url": "/assets/images/delphox.png",
+		"Types": ["Fire", "Psychic"]
+	},
+	{
+		"Name": "froakie",
+		"id": 652,
+		"url": "/assets/images/froakie.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "frogadier",
+		"id": 653,
+		"url": "/assets/images/frogadier.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "greninja",
+		"id": 654,
+		"url": "/assets/images/greninja.png",
+		"Types": ["Water", "Dark"]
+	},
+	{
+		"Name": "bunnelby",
+		"id": 655,
+		"url": "/assets/images/bunnelby.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "diggersby",
+		"id": 656,
+		"url": "/assets/images/diggersby.png",
+		"Types": ["Normal", "Ground"]
+	},
+	{
+		"Name": "fletchling",
+		"id": 657,
+		"url": "/assets/images/fletchling.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "fletchinder",
+		"id": 658,
+		"url": "/assets/images/fletchinder.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "talonflame",
+		"id": 659,
+		"url": "/assets/images/talonflame.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "scatterbug",
+		"id": 660,
+		"url": "/assets/images/scatterbug.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "spewpa",
+		"id": 661,
+		"url": "/assets/images/spewpa.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "vivillon",
+		"id": 662,
+		"url": "/assets/images/vivillon.png",
+		"Types": ["Bug", "Flying"]
+	},
+	{
+		"Name": "litleo",
+		"id": 663,
+		"url": "/assets/images/litleo.png",
+		"Types": ["Fire", "Normal"]
+	},
+	{
+		"Name": "pyroar",
+		"id": 664,
+		"url": "/assets/images/pyroar.png",
+		"Types": ["Fire", "Normal"]
+	},
+	{
+		"Name": "flabebe",
+		"id": 665,
+		"url": "/assets/images/flabebe.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "floette",
+		"id": 666,
+		"url": "/assets/images/floette.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "florges",
+		"id": 667,
+		"url": "/assets/images/florges.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "skiddo",
+		"id": 668,
+		"url": "/assets/images/skiddo.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "gogoat",
+		"id": 669,
+		"url": "/assets/images/gogoat.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "pancham",
+		"id": 670,
+		"url": "/assets/images/pancham.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "pangoro",
+		"id": 671,
+		"url": "/assets/images/pangoro.png",
+		"Types": ["Fighting", "Dark"]
+	},
+	{
+		"Name": "furfrou",
+		"id": 672,
+		"url": "/assets/images/furfrou.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "espurr",
+		"id": 673,
+		"url": "/assets/images/espurr.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "meowstic-male",
+		"id": 674,
+		"url": "/assets/images/meowstic-male.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "honedge",
+		"id": 675,
+		"url": "/assets/images/honedge.png",
+		"Types": ["Steel", "Ghost"]
+	},
+	{
+		"Name": "doublade",
+		"id": 676,
+		"url": "/assets/images/doublade.png",
+		"Types": ["Steel", "Ghost"]
+	},
+	{
+		"Name": "aegislash-blade",
+		"id": 677,
+		"url": "/assets/images/aegislash-blade.png",
+		"Types": ["Steel", "Ghost"]
+	},
+	{
+		"Name": "spritzee",
+		"id": 678,
+		"url": "/assets/images/spritzee.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "aromatisse",
+		"id": 679,
+		"url": "/assets/images/aromatisse.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "swirlix",
+		"id": 680,
+		"url": "/assets/images/swirlix.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "slurpuff",
+		"id": 681,
+		"url": "/assets/images/slurpuff.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "inkay",
+		"id": 682,
+		"url": "/assets/images/inkay.png",
+		"Types": ["Dark", "Psychic"]
+	},
+	{
+		"Name": "malamar",
+		"id": 683,
+		"url": "/assets/images/malamar.png",
+		"Types": ["Dark", "Psychic"]
+	},
+	{
+		"Name": "binacle",
+		"id": 684,
+		"url": "/assets/images/binacle.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "barbaracle",
+		"id": 685,
+		"url": "/assets/images/barbaracle.png",
+		"Types": ["Rock", "Water"]
+	},
+	{
+		"Name": "skrelp",
+		"id": 686,
+		"url": "/assets/images/skrelp.png",
+		"Types": ["Poison", "Water"]
+	},
+	{
+		"Name": "dragalge",
+		"id": 687,
+		"url": "/assets/images/dragalge.png",
+		"Types": ["Poison", "Dragon"]
+	},
+	{
+		"Name": "clauncher",
+		"id": 688,
+		"url": "/assets/images/clauncher.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "clawitzer",
+		"id": 689,
+		"url": "/assets/images/clawitzer.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "helioptile",
+		"id": 690,
+		"url": "/assets/images/helioptile.png",
+		"Types": ["Electric", "Normal"]
+	},
+	{
+		"Name": "heliolisk",
+		"id": 691,
+		"url": "/assets/images/heliolisk.png",
+		"Types": ["Electric", "Normal"]
+	},
+	{
+		"Name": "tyrunt",
+		"id": 692,
+		"url": "/assets/images/tyrunt.png",
+		"Types": ["Rock", "Dragon"]
+	},
+	{
+		"Name": "tyrantrum",
+		"id": 693,
+		"url": "/assets/images/tyrantrum.png",
+		"Types": ["Rock", "Dragon"]
+	},
+	{
+		"Name": "amaura",
+		"id": 694,
+		"url": "/assets/images/amaura.png",
+		"Types": ["Rock", "Ice"]
+	},
+	{
+		"Name": "aurorus",
+		"id": 695,
+		"url": "/assets/images/aurorus.png",
+		"Types": ["Rock", "Ice"]
+	},
+	{
+		"Name": "sylveon",
+		"id": 696,
+		"url": "/assets/images/sylveon.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "hawlucha",
+		"id": 697,
+		"url": "/assets/images/hawlucha.png",
+		"Types": ["Fighting", "Flying"]
+	},
+	{
+		"Name": "dedenne",
+		"id": 698,
+		"url": "/assets/images/dedenne.png",
+		"Types": ["Electric", "Fairy"]
+	},
+	{
+		"Name": "carbink",
+		"id": 699,
+		"url": "/assets/images/carbink.png",
+		"Types": ["Rock", "Fairy"]
+	},
+	{
+		"Name": "goomy",
+		"id": 700,
+		"url": "/assets/images/goomy.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "sliggoo",
+		"id": 701,
+		"url": "/assets/images/sliggoo.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "goodra",
+		"id": 702,
+		"url": "/assets/images/goodra.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "klefki",
+		"id": 703,
+		"url": "/assets/images/klefki.png",
+		"Types": ["Steel", "Fairy"]
+	},
+	{
+		"Name": "phantump",
+		"id": 704,
+		"url": "/assets/images/phantump.png",
+		"Types": ["Ghost", "Grass"]
+	},
+	{
+		"Name": "trevenant",
+		"id": 705,
+		"url": "/assets/images/trevenant.png",
+		"Types": ["Ghost", "Grass"]
+	},
+	{
+		"Name": "pumpkaboo-average",
+		"id": 706,
+		"url": "/assets/images/pumpkaboo-average.png",
+		"Types": ["Ghost", "Grass"]
+	},
+	{
+		"Name": "gourgeist-average",
+		"id": 707,
+		"url": "/assets/images/gourgeist-average.png",
+		"Types": ["Ghost", "Grass"]
+	},
+	{
+		"Name": "bergmite",
+		"id": 708,
+		"url": "/assets/images/bergmite.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "avalugg",
+		"id": 709,
+		"url": "/assets/images/avalugg.png",
+		"Types": ["Ice", ""]
+	},
+	{
+		"Name": "noibat",
+		"id": 710,
+		"url": "/assets/images/noibat.png",
+		"Types": ["Flying", "Dragon"]
+	},
+	{
+		"Name": "noivern",
+		"id": 711,
+		"url": "/assets/images/noivern.png",
+		"Types": ["Flying", "Dragon"]
+	},
+	{
+		"Name": "xerneas",
+		"id": 712,
+		"url": "/assets/images/xerneas.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "yveltal",
+		"id": 713,
+		"url": "/assets/images/yveltal.png",
+		"Types": ["Dark", "Flying"]
+	},
+	{
+		"Name": "zygarde-50",
+		"id": 714,
+		"url": "/assets/images/zygarde-50.png",
+		"Types": ["Dragon", "Ground"]
+	},
+	{
+		"Name": "diancie",
+		"id": 715,
+		"url": "/assets/images/diancie.png",
+		"Types": ["Rock", "Fairy"]
+	},
+	{
+		"Name": "hoopa-confined",
+		"id": 716,
+		"url": "/assets/images/hoopa-confined.png",
+		"Types": ["Psychic", "Ghost"]
+	},
+	{
+		"Name": "volcanion",
+		"id": 717,
+		"url": "/assets/images/volcanion.png",
+		"Types": ["Fire", "Water"]
+	},
+	{
+		"Name": "rowlet",
+		"id": 718,
+		"url": "/assets/images/rowlet.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "dartrix",
+		"id": 719,
+		"url": "/assets/images/dartrix.png",
+		"Types": ["Grass", "Flying"]
+	},
+	{
+		"Name": "decidueye",
+		"id": 720,
+		"url": "/assets/images/decidueye.png",
+		"Types": ["Grass", "Ghost"]
+	},
+	{
+		"Name": "litten",
+		"id": 721,
+		"url": "/assets/images/litten.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "torracat",
+		"id": 722,
+		"url": "/assets/images/torracat.png",
+		"Types": ["Fire", ""]
+	},
+	{
+		"Name": "incineroar",
+		"id": 723,
+		"url": "/assets/images/incineroar.png",
+		"Types": ["Fire", "Dark"]
+	},
+	{
+		"Name": "popplio",
+		"id": 724,
+		"url": "/assets/images/popplio.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "brionne",
+		"id": 725,
+		"url": "/assets/images/brionne.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "primarina",
+		"id": 726,
+		"url": "/assets/images/primarina.png",
+		"Types": ["Water", "Fairy"]
+	},
+	{
+		"Name": "pikipek",
+		"id": 727,
+		"url": "/assets/images/pikipek.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "trumbeak",
+		"id": 728,
+		"url": "/assets/images/trumbeak.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "toucannon",
+		"id": 729,
+		"url": "/assets/images/toucannon.png",
+		"Types": ["Normal", "Flying"]
+	},
+	{
+		"Name": "yungoos",
+		"id": 730,
+		"url": "/assets/images/yungoos.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "gumshoos",
+		"id": 731,
+		"url": "/assets/images/gumshoos.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "grubbin",
+		"id": 732,
+		"url": "/assets/images/grubbin.png",
+		"Types": ["Bug", ""]
+	},
+	{
+		"Name": "charjabug",
+		"id": 733,
+		"url": "/assets/images/charjabug.png",
+		"Types": ["Bug", "Electric"]
+	},
+	{
+		"Name": "vikavolt",
+		"id": 734,
+		"url": "/assets/images/vikavolt.png",
+		"Types": ["Bug", "Electric"]
+	},
+	{
+		"Name": "crabrawler",
+		"id": 735,
+		"url": "/assets/images/crabrawler.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "crabominable",
+		"id": 736,
+		"url": "/assets/images/crabominable.png",
+		"Types": ["Fighting", "Ice"]
+	},
+	{
+		"Name": "oricorio-baile",
+		"id": 737,
+		"url": "/assets/images/oricorio-baile.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "cutiefly",
+		"id": 738,
+		"url": "/assets/images/cutiefly.png",
+		"Types": ["Bug", "Fairy"]
+	},
+	{
+		"Name": "ribombee",
+		"id": 739,
+		"url": "/assets/images/ribombee.png",
+		"Types": ["Bug", "Fairy"]
+	},
+	{
+		"Name": "rockruff",
+		"id": 740,
+		"url": "/assets/images/rockruff.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "lycanroc-midday",
+		"id": 741,
+		"url": "/assets/images/lycanroc-midday.png",
+		"Types": ["Rock", ""]
+	},
+	{
+		"Name": "wishiwashi-solo",
+		"id": 742,
+		"url": "/assets/images/wishiwashi-solo.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "mareanie",
+		"id": 743,
+		"url": "/assets/images/mareanie.png",
+		"Types": ["Poison", "Water"]
+	},
+	{
+		"Name": "toxapex",
+		"id": 744,
+		"url": "/assets/images/toxapex.png",
+		"Types": ["Poison", "Water"]
+	},
+	{
+		"Name": "mudbray",
+		"id": 745,
+		"url": "/assets/images/mudbray.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "mudsdale",
+		"id": 746,
+		"url": "/assets/images/mudsdale.png",
+		"Types": ["Ground", ""]
+	},
+	{
+		"Name": "dewpider",
+		"id": 747,
+		"url": "/assets/images/dewpider.png",
+		"Types": ["Water", "Bug"]
+	},
+	{
+		"Name": "araquanid",
+		"id": 748,
+		"url": "/assets/images/araquanid.png",
+		"Types": ["Water", "Bug"]
+	},
+	{
+		"Name": "fomantis",
+		"id": 749,
+		"url": "/assets/images/fomantis.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "lurantis",
+		"id": 750,
+		"url": "/assets/images/lurantis.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "morelull",
+		"id": 751,
+		"url": "/assets/images/morelull.png",
+		"Types": ["Grass", "Fairy"]
+	},
+	{
+		"Name": "shiinotic",
+		"id": 752,
+		"url": "/assets/images/shiinotic.png",
+		"Types": ["Grass", "Fairy"]
+	},
+	{
+		"Name": "salandit",
+		"id": 753,
+		"url": "/assets/images/salandit.png",
+		"Types": ["Poison", "Fire"]
+	},
+	{
+		"Name": "salazzle",
+		"id": 754,
+		"url": "/assets/images/salazzle.png",
+		"Types": ["Poison", "Fire"]
+	},
+	{
+		"Name": "stufful",
+		"id": 755,
+		"url": "/assets/images/stufful.png",
+		"Types": ["Normal", "Fighting"]
+	},
+	{
+		"Name": "bewear",
+		"id": 756,
+		"url": "/assets/images/bewear.png",
+		"Types": ["Normal", "Fighting"]
+	},
+	{
+		"Name": "bounsweet",
+		"id": 757,
+		"url": "/assets/images/bounsweet.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "steenee",
+		"id": 758,
+		"url": "/assets/images/steenee.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "tsareena",
+		"id": 759,
+		"url": "/assets/images/tsareena.png",
+		"Types": ["Grass", ""]
+	},
+	{
+		"Name": "comfey",
+		"id": 760,
+		"url": "/assets/images/comfey.png",
+		"Types": ["Fairy", ""]
+	},
+	{
+		"Name": "oranguru",
+		"id": 761,
+		"url": "/assets/images/oranguru.png",
+		"Types": ["Normal", "Psychic"]
+	},
+	{
+		"Name": "passimian",
+		"id": 762,
+		"url": "/assets/images/passimian.png",
+		"Types": ["Fighting", ""]
+	},
+	{
+		"Name": "wimpod",
+		"id": 763,
+		"url": "/assets/images/wimpod.png",
+		"Types": ["Bug", "Water"]
+	},
+	{
+		"Name": "golisopod",
+		"id": 764,
+		"url": "/assets/images/golisopod.png",
+		"Types": ["Bug", "Water"]
+	},
+	{
+		"Name": "sandygast",
+		"id": 765,
+		"url": "/assets/images/sandygast.png",
+		"Types": ["Ghost", "Ground"]
+	},
+	{
+		"Name": "palossand",
+		"id": 766,
+		"url": "/assets/images/palossand.png",
+		"Types": ["Ghost", "Ground"]
+	},
+	{
+		"Name": "pyukumuku",
+		"id": 767,
+		"url": "/assets/images/pyukumuku.png",
+		"Types": ["Water", ""]
+	},
+	{
+		"Name": "type-null",
+		"id": 768,
+		"url": "/assets/images/type-null.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "silvally",
+		"id": 769,
+		"url": "/assets/images/silvally.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "minior-meteor",
+		"id": 770,
+		"url": "/assets/images/minior-meteor.png",
+		"Types": ["Rock", "Flying"]
+	},
+	{
+		"Name": "komala",
+		"id": 771,
+		"url": "/assets/images/komala.png",
+		"Types": ["Normal", ""]
+	},
+	{
+		"Name": "turtonator",
+		"id": 772,
+		"url": "/assets/images/turtonator.png",
+		"Types": ["Fire", "Dragon"]
+	},
+	{
+		"Name": "togedemaru",
+		"id": 773,
+		"url": "/assets/images/togedemaru.png",
+		"Types": ["Electric", "Steel"]
+	},
+	{
+		"Name": "mimikyu",
+		"id": 774,
+		"url": "/assets/images/mimikyu.png",
+		"Types": ["Ghost", "Fairy"]
+	},
+	{
+		"Name": "bruxish",
+		"id": 775,
+		"url": "/assets/images/bruxish.png",
+		"Types": ["Water", "Psychic"]
+	},
+	{
+		"Name": "drampa",
+		"id": 776,
+		"url": "/assets/images/drampa.png",
+		"Types": ["Normal", "Dragon"]
+	},
+	{
+		"Name": "dhelmise",
+		"id": 777,
+		"url": "/assets/images/dhelmise.png",
+		"Types": ["Ghost", "Grass"]
+	},
+	{
+		"Name": "jangmo-o",
+		"id": 778,
+		"url": "/assets/images/jangmo-o.png",
+		"Types": ["Dragon", ""]
+	},
+	{
+		"Name": "hakamo-o",
+		"id": 779,
+		"url": "/assets/images/hakamo-o.png",
+		"Types": ["Dragon", "Fighting"]
+	},
+	{
+		"Name": "kommo-o",
+		"id": 780,
+		"url": "/assets/images/kommo-o.png",
+		"Types": ["Dragon", "Fighting"]
+	},
+	{
+		"Name": "tapu-koko",
+		"id": 781,
+		"url": "/assets/images/tapu-koko.png",
+		"Types": ["Electric", "Fairy"]
+	},
+	{
+		"Name": "tapu-lele",
+		"id": 782,
+		"url": "/assets/images/tapu-lele.png",
+		"Types": ["Psychic", "Fairy"]
+	},
+	{
+		"Name": "tapu-bulu",
+		"id": 783,
+		"url": "/assets/images/tapu-bulu.png",
+		"Types": ["Grass", "Fairy"]
+	},
+	{
+		"Name": "tapu-fini",
+		"id": 784,
+		"url": "/assets/images/tapu-fini.png",
+		"Types": ["Water", "Fairy"]
+	},
+	{
+		"Name": "cosmog",
+		"id": 785,
+		"url": "/assets/images/cosmog.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "cosmoem",
+		"id": 786,
+		"url": "/assets/images/cosmoem.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "solgaleo",
+		"id": 787,
+		"url": "/assets/images/solgaleo.png",
+		"Types": ["Psychic", "Steel"]
+	},
+	{
+		"Name": "lunala",
+		"id": 788,
+		"url": "/assets/images/lunala.png",
+		"Types": ["Psychic", "Ghost"]
+	},
+	{
+		"Name": "nihilego",
+		"id": 789,
+		"url": "/assets/images/nihilego.png",
+		"Types": ["Rock", "Poison"]
+	},
+	{
+		"Name": "buzzwole",
+		"id": 790,
+		"url": "/assets/images/buzzwole.png",
+		"Types": ["Bug", "Fighting"]
+	},
+	{
+		"Name": "pheromosa",
+		"id": 791,
+		"url": "/assets/images/pheromosa.png",
+		"Types": ["Bug", "Fighting"]
+	},
+	{
+		"Name": "xurkitree",
+		"id": 792,
+		"url": "/assets/images/xurkitree.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "celesteela",
+		"id": 793,
+		"url": "/assets/images/celesteela.png",
+		"Types": ["Steel", "Flying"]
+	},
+	{
+		"Name": "kartana",
+		"id": 794,
+		"url": "/assets/images/kartana.png",
+		"Types": ["Grass", "Steel"]
+	},
+	{
+		"Name": "guzzlord",
+		"id": 795,
+		"url": "/assets/images/guzzlord.png",
+		"Types": ["Dark", "Dragon"]
+	},
+	{
+		"Name": "necrozma",
+		"id": 796,
+		"url": "/assets/images/necrozma.png",
+		"Types": ["Psychic", ""]
+	},
+	{
+		"Name": "magearna",
+		"id": 797,
+		"url": "/assets/images/magearna.png",
+		"Types": ["Steel", "Fairy"]
+	},
+	{
+		"Name": "marshadow",
+		"id": 798,
+		"url": "/assets/images/marshadow.png",
+		"Types": ["Fighting", "Ghost"]
+	},
+	{
+		"Name": "poipole",
+		"id": 799,
+		"url": "/assets/images/poipole.png",
+		"Types": ["Poison", ""]
+	},
+	{
+		"Name": "naganadel",
+		"id": 800,
+		"url": "/assets/images/naganadel.png",
+		"Types": ["Poison", "Dragon"]
+	},
+	{
+		"Name": "stakataka",
+		"id": 801,
+		"url": "/assets/images/stakataka.png",
+		"Types": ["Rock", "Steel"]
+	},
+	{
+		"Name": "blacephalon",
+		"id": 802,
+		"url": "/assets/images/blacephalon.png",
+		"Types": ["Fire", "Ghost"]
+	},
+	{
+		"Name": "zeraora",
+		"id": 803,
+		"url": "/assets/images/zeraora.png",
+		"Types": ["Electric", ""]
+	},
+	{
+		"Name": "meltan",
+		"id": 804,
+		"url": "/assets/images/meltan.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "melmetal",
+		"id": 805,
+		"url": "/assets/images/melmetal.png",
+		"Types": ["Steel", ""]
+	},
+	{
+		"Name": "Tuan Hoang",
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"id": 806,
+		"url": "/assets/images/Tuan Hoang.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "Tuan",
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"id": 807,
+		"url": "/assets/images/Tuan.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "Tuan1",
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"id": 808,
+		"url": "/assets/images/Tuan1.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "Vu",
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"id": 809,
+		"url": "/assets/images/Vu.png",
+		"Types": ["Fire", "Flying"]
+	},
+	{
+		"Name": "ABC",
+		"imageURL": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+		"Types": ["Fire", "Flying"],
+		"id": 810,
+		"url": "/assets/images/ABC.png"
+	}
+]
