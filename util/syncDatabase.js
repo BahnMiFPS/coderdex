@@ -1,20 +1,27 @@
 const fs = require("fs")
+const path = require("path")
 
 const syncDatabase = () => {
+	const imagesFolder = path.join(__dirname, "..", "assets", "images")
+
 	let db = fs.readFileSync("db.json", "utf-8")
-	const pokemons = JSON.parse(db)
+	const parsedDb = JSON.parse(db)
+	let pokemons = parsedDb.data
+	console.log(imagesFolder)
+	pokemons = pokemons.filter((pokemon) => {
+		const imagePath = path.join(imagesFolder, `${pokemon.name}.png`)
+		return fs.existsSync(imagePath)
+	})
+
 	pokemons.forEach(function (pokemon, index) {
 		pokemon.id = index + 1
 		pokemon.url = `/assets/images/${pokemon.name}.png`
-		// pokemon.types = [
-		// 	pokemon.Type1 ? pokemon.Type1 : pokemon.Types[0],
-		// 	pokemon.Type2 ? pokemon.Type2 : pokemon.Types[1],
-		// ]
-		// delete pokemon.Type1
-		// delete pokemon.Type2
-		delete pokemon.imageURL
+
+		pokemon.types = pokemon.types.map((type) => type.toLowerCase())
 	})
-	db = JSON.stringify(pokemons)
+
+	parsedDb.data = pokemons
+	db = JSON.stringify(parsedDb)
 	fs.writeFileSync("db.json", db)
 }
 

@@ -4,7 +4,7 @@ const fs = require("fs")
 const allowedTypes = require("../constant/index")
 
 router.get("/", (req, res, next) => {
-	const allowedFilter = ["Name", "Type1", "Type2"]
+	const allowedFilter = ["search", "type"]
 	try {
 		let { page, limit, ...filterQuery } = req.query
 		page = parseInt(page) || 1
@@ -25,32 +25,42 @@ router.get("/", (req, res, next) => {
 
 		//Read data from db.json then parse to JSobject
 		let db = fs.readFileSync("db.json", "utf-8")
-		const pokemons = JSON.parse(db)
+		let parsedData = JSON.parse(db)
+		let pokemons = parsedData.data
 
 		//Filter data by title
-		let result = []
+		let result = pokemons
 		if (filterKeys.length) {
 			filterKeys.forEach((condition) => {
-				result = result.length
-					? result.filter(
-							(pokemon) =>
-								pokemon.types[condition === "Type1" ? 0 : 1] ===
-								filterQuery[condition]
-					  )
-					: pokemons.filter(
-							(pokemon) =>
-								pokemon.types[condition === "Type1" ? 0 : 1] ===
-								filterQuery[condition]
-					  )
+				if (condition === "search") {
+					const searchTerm = filterQuery[condition].toLowerCase()
+					result = result.filter((pokemon) =>
+						pokemon.name.toLowerCase().includes(searchTerm)
+					)
+				} else if (condition === "type") {
+					const searchTypes = Array.isArray(filterQuery[condition])
+						? filterQuery[condition].map((type) => type.toLowerCase())
+						: [filterQuery[condition].toLowerCase()]
+					result = result.filter((pokemon) =>
+						searchTypes.every((searchType) =>
+							pokemon.types.some((type) => type.toLowerCase() === searchType)
+						)
+					)
+				}
 			})
-		} else {
-			result = pokemons
 		}
 
-		//then select number of result by offset
-		result = result.slice(offset, offset + limit)
+		if (result.length === 0) {
+			// If no matching Pokémon found, throw an error
+			const error = new Error("No Pokemon found")
+			error.statusCode = 404
+			throw error
+		}
 
-		//send response
+		result = { data: result.slice(offset, offset + limit) }
+		// Select the number of results by offset
+
+		// Send response
 		res.status(200).send(result)
 	} catch (error) {
 		next(error)
@@ -60,7 +70,9 @@ router.get("/", (req, res, next) => {
 router.get("/:id", (req, res) => {
 	const pokemonId = parseInt(req.params.id) // Convert id to integer
 	let db = fs.readFileSync("db.json", "utf-8")
-	const pokemons = JSON.parse(db)
+	const parsedData = JSON.parse(db)
+	const pokemons = parsedData.data
+
 	const getPokemonById = (id) => {
 		const pokemon = pokemons.find((pokemon) => pokemon.id === id)
 
@@ -84,9 +96,11 @@ router.get("/:id", (req, res) => {
 	const nextPokemon = getPokemonById(nextPokemonId)
 
 	const response = {
-		pokemon,
-		previousPokemon: previousPokemon,
-		nextPokemon: nextPokemon,
+		data: {
+			pokemon,
+			previousPokemon,
+			nextPokemon,
+		},
 	}
 
 	res.status(200).json(response)
