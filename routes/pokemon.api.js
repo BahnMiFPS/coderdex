@@ -108,13 +108,17 @@ router.get("/:id", (req, res) => {
 
 router.post("/", (req, res, next) => {
 	try {
-		const { name, url, types } = req.body
+		let { name, url, types, id } = req.body
+
+		// im too lazy to deal with it lmao
+		id = pokemons.length + 1
 
 		let db = fs.readFileSync("db.json", "utf-8")
-		const pokemons = JSON.parse(db)
+		let parsedData = JSON.parse(db)
+		let pokemons = parsedData.data
 
 		//Missing required data
-		if (!name || !url || !types) {
+		if (!name || !url || !types || !id) {
 			const exception = new Error(`Missing required data. `)
 			exception.statusCode = 401
 			throw exception
@@ -128,29 +132,27 @@ router.post("/", (req, res, next) => {
 			throw exception
 		}
 
-		// //Type is invalid
-		// if (!allowedTypes.includes(types[0]) || !allowedTypes.includes(types[1])) {
-		// 	const exception = new Error(`Pokémon's type is invalid.`)
-		// 	exception.statusCode = 401
-		// 	throw exception
-		// }
+		// Convert data to lowercase
+		const lowercaseName = name.toLowerCase()
+		const lowercaseUrl = url.toLowerCase()
+		const lowercaseTypes = types.map((type) => type.toLowerCase())
 
 		// process input
 		const newPokemon = {
-			name,
-			url,
-			types,
+			name: lowercaseName,
+			url: lowercaseUrl,
+			types: lowercaseTypes,
+			id,
 		}
-		//Read data from db.json then parse to JSobject
 
 		//Add new book to book JS object
 
 		pokemons.push(newPokemon)
 
 		//Add new book to db JS object
-		db = pokemons
+		parsedData.data = pokemons
 		//db JSobject to JSON string
-		db = JSON.stringify(db)
+		db = JSON.stringify(parsedData)
 		//write and save to db.json
 		fs.writeFileSync("db.json", db)
 		//post send response

@@ -4289,6 +4289,12 @@
 			"url": "/assets/images/volcanion.png",
 			"types": ["fire", "water"],
 			"name": "volcanion"
+		},
+		{
+			"name": "absd",
+			"url": "https://en.wikipedia.org/wiki/things_fall_apart\n",
+			"types": ["fire", "flying"],
+			"id": 716
 		}
 	]
 }
