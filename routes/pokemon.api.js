@@ -111,11 +111,11 @@ router.post("/", (req, res, next) => {
 		let { name, url, types, id } = req.body
 
 		// im too lazy to deal with it lmao
-		id = pokemons.length + 1
 
 		let db = fs.readFileSync("db.json", "utf-8")
 		let parsedData = JSON.parse(db)
 		let pokemons = parsedData.data
+		id = pokemons.length + 1
 
 		//Missing required data
 		if (!name || !url || !types || !id) {
