@@ -2,6 +2,7 @@ const express = require("express")
 const router = express.Router()
 const fs = require("fs")
 const allowedTypes = require("../constant/index")
+const { type } = require("os")
 
 router.get("/", (req, res, next) => {
 	const allowedFilter = ["search", "type"]
@@ -116,13 +117,38 @@ router.post("/", (req, res, next) => {
 		let parsedData = JSON.parse(db)
 		let pokemons = parsedData.data
 		id = pokemons.length + 1
-
-		//Missing required data
 		if (!name || !url || !types || !id) {
 			const exception = new Error(`Missing required data. `)
 			exception.statusCode = 401
 			throw exception
 		}
+		// Types validation
+		const isTheSameType = types.length === 1
+		const areTwoTypes = types.length === 2
+
+		if (!isTheSameType && !areTwoTypes) {
+			const exception = new Error(
+				`Invalid number of Pokémon types. Must have either 1 type or 2 types.`
+			)
+			exception.statusCode = 401
+			throw exception
+		}
+
+		const lowercaseTypes = types.map((type) => type.toLowerCase())
+
+		// Validate each type against allowed types
+		const isValidType = lowercaseTypes.every((type) =>
+			allowedTypes.includes(type)
+		)
+
+		if (!isValidType) {
+			const exception = new Error(`Invalid Pokémon type.`)
+			exception.statusCode = 401
+			throw exception
+		}
+
+		//Missing required data
+
 		// name existed
 		const existed = pokemons.some((p) => p.name === name)
 
@@ -135,7 +161,6 @@ router.post("/", (req, res, next) => {
 		// Convert data to lowercase
 		const lowercaseName = name.toLowerCase()
 		const lowercaseUrl = url.toLowerCase()
-		const lowercaseTypes = types.map((type) => type.toLowerCase())
 
 		// process input
 		const newPokemon = {
